@@ -1,0 +1,1 @@
+The Addon manager help to Integrate some tool easily, it's not mandatory, but strongly recommended
