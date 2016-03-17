@@ -1,0 +1,1 @@
+We recomande to Integrate AddonManager First have a look at https://github.com/NeoAxis/NeoAxisCommunity/tree/master/AddonManager
