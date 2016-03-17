@@ -1,0 +1,11 @@
+fullName = "Debug Window"
+componentTypes = "Other"
+platforms = "Windows"
+enableByDefaultPlatforms = "Windows"
+
+path
+{
+	path = "DebugWindow.dll"
+	platforms = "Windows"
+	entryPoint = True
+}
