@@ -7,6 +7,8 @@ Getting Started
 ================
 If your just looking to use the community improvements, then locate the newest stable tag. Versions are labeled such that the NeoAxis version number is immediately followed by the community version number. This means that in `v2.0.4.1`, the NeoAxis version is `2.0.4`, and the community version number is `1`.
 
+This is now a set of Folders with different community contribution in each one, some are functional out of the box, other requier small integration
+
 
 Contributing
 ================
