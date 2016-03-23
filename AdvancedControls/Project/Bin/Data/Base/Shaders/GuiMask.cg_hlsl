@@ -1,0 +1,40 @@
+// Copyright (C) NeoAxis Group Ltd. This is part of NeoAxis 3D Engine SDK.
+
+void main_vp(
+	uniform float4x4 worldViewProjMatrix,
+	uniform float4 viewportSize,
+
+	float4 position : POSITION,
+	float4 vertexColor : COLOR0,
+	float2 texCoord : TEXCOORD0,
+
+	out float4 oPosition : POSITION,
+	out float2 oTexCoord : TEXCOORD0,
+	out float4 oVertexColor : TEXCOORD1,
+	out float2 oViewportSizeInPixels : TEXCOORD2,
+	out float2 oScreenPosition : TEXCOORD3
+	)
+{
+	oPosition = mul(worldViewProjMatrix, position);
+	oTexCoord = texCoord;
+	oVertexColor = vertexColor;
+	oViewportSizeInPixels = viewportSize.xy;
+	oScreenPosition = (float2(position.x, -position.y) + 1) / 2;
+}
+
+void main_fp(
+	float2 texCoord : TEXCOORD0,
+	half4 vertexColor : TEXCOORD1,
+	float2 viewportSizeInPixels : TEXCOORD2,
+	float2 screenPosition : TEXCOORD3,
+	
+	uniform sampler2D diffuseMap : register(s0),
+	uniform sampler2D additionalMap : register(s1),
+
+	out half4 oColor : COLOR)
+{
+	half4 color = (half4)tex2D(diffuseMap, texCoord);
+	color *= tex2D(additionalMap, texCoord).r;
+
+	oColor =  color ;
+}

@@ -1,0 +1,11 @@
+fullName = "Advanced Controls"
+componentTypes = "GUIControlClasses"
+platforms = "Windows, MacOSX"
+enableByDefaultPlatforms = "Windows, MacOSX"
+
+path
+{
+	path = "AdvancedControls.dll"
+	platforms = "Windows, MacOSX"
+	entryPoint = True
+}
