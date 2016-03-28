@@ -1,0 +1,1 @@
+More details about advanced Controls availliable here : http://www.neoaxis.com/forum/viewtopic.php?f=15&t=9743

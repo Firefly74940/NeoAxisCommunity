@@ -63,16 +63,30 @@ namespace ProjectEntities
 					isHorizontallyOrientedToLadder = angle.InDegrees() < 70;
 				}
 
-				if( Math.Abs( new Radian( lookDirection.Vertical ).InDegrees() ) < 45 &&
+				var verticalDirectionInDegrees = new Radian( lookDirection.Vertical ).InDegrees();
+				if( Math.Abs( verticalDirectionInDegrees ) < 45 &&
 					!isHorizontallyOrientedToLadder )
 				{
 					if( alreadyAttachedToSomeLadder )
 					{
-						if( wantMove )
+						if( Intellect.IsControlKeyPressed( GameControlKeys.Forward ) || Intellect.IsControlKeyPressed( GameControlKeys.Left ) || Intellect.IsControlKeyPressed( GameControlKeys.Right ) )
 							return;
 					}
 					else
 						return;
+				}
+				if( projected.Z < line.Start.Z + fromPositionToFloorDistance )
+				{
+					if( verticalDirectionInDegrees > -20 )
+					{
+						if( isHorizontallyOrientedToLadder && Intellect.IsControlKeyPressed( GameControlKeys.Backward ) )
+							return;
+					}
+					else
+					{
+						if( !isHorizontallyOrientedToLadder && Intellect.IsControlKeyPressed( GameControlKeys.Forward ) )
+							return;
+					}
 				}
 
 				//got ladder
