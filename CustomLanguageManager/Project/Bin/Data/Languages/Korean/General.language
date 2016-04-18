@@ -1,0 +1,61 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		color
+		{
+			Orange = "\xc8fc\xd669\xc0c9"
+			Red = "\xbe68\xac15\xc0c9"
+			Blue = "\xd30c\xb780\xc0c9"
+			Green = "\xb179\xc0c9"
+			Yellow = "\xb178\xb780\xc0c9"
+			Cyan = "\xd558\xb298\xc0c9"
+			Purple = "\xbcf4\xb77c\xc0c9"
+			White = "\xd770\xc0c9"
+			Black = "\xac80\xc740\xc0c9"
+			Gray = "\xd68c\xc0c9"
+			Violet = "\xbcf4\xb77c\xc0c9"
+			Platinum = "\xbc31\xae08\xc0c9"
+			Gold = "\xae08\xc0c9"
+			Silver = "\xc740\xc0c9"
+			Bronze = "\xb3d9\xc0c9"
+			Clear = "\xd22c\xba85"
+			Iridescence = "\xbb34\xc9c0\xac2f\xbe5b"
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = "\xc810\xd504"
+			Bounce = "\xd295\xae30\xae30"
+			Heal = "\xce58\xb8cc"
+			Shoot = "\xbc1c\xc0ac"
+			Collect = "\xc218\xc9d1"
+			Capture = "\xc810\xb839"
+			Destroy = "\xd30c\xad34"
+			Attack = "\xacf5\xaca9"
+			Defend = "\xbc29\xc5b4"
+			Hit = "\xd53c\xaca9"
+			Kick = "\xbc1c\xcc28\xae30"
+			Headbutt = "\xbc15\xce58\xae30"
+			Stomp = "\xbc1c\xad6c\xb974\xae30"
+			Walljump = "\xbcbd\xc810\xd504"
+			Dash = "\xb300\xc26c / \xb3cc\xc9c4"
+		}
+		Move
+		{
+			Move = "\xc774\xb3d9"
+			Run = "\xb2ec\xb9ac\xae30"
+			Walk = "\xac77\xae30"
+			Skip = "\xac74\xb108\xb6f0\xae30"
+			Escape = "\xd0c8\xcd9c"
+			"Stealthy steps" = "\xc870\xc6a9\xd788 \xac77\xae30"
+		}
+	}
+}

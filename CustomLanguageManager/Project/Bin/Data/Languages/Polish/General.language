@@ -1,0 +1,60 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		color
+		{
+			Orange = "Pomara\x0144czowy"
+			Red = Czerwony
+			Blue = Niebieski
+			Green = Zielony
+			Yellow = "\x017b\x00f3\x0142ty"
+			Cyan = "B\x0142\x0119kitny"
+			Purple = Karmin
+			White = "Bia\x0142y"
+			Black = Czarny
+			Gray = Szary
+			Violet = Fioletowy
+			Platinum = Platynowy
+			Gold = "Z\x0142oty"
+			Silver = Srebrny
+			Bronze = "Br\x0105z"
+			Clear = Przezroczysty
+			Iridescence = "Mienienie / Mieni\x0105cy si\x0119"
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Skacz
+			Bounce = Odbijaj
+			Heal = Lecz
+			Shoot = Strzelaj
+			Collect = "Zbieraj / Zbierz"
+			Capture = "Zdob\x0105d\x017a"
+			Destroy = Zniszcz
+			Attack = Atakuj
+			Defend = "Bro\x0144"
+			Hit = Uderz
+			Kick = Kopnij
+			Headbutt = "Uderz g\x0142ow\x0105"
+			Stomp = Tupnij
+			Dash = Sprint
+		}
+		Move
+		{
+			Move = Ruszaj
+			Run = Biegnij
+			Walk = "Id\x017a"
+			Skip = "Pomi\x0144"
+			Escape = Ucieczka
+			"Stealthy steps" = "Skradanie si\x0119"
+		}
+	}
+}

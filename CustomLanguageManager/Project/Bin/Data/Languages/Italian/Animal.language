@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		animal
+		{
+			Animal = Animale
+			Animals = Animali
+			Pet = Cucciolo
+			Human = Umano
+			Monkey = Scimmia
+			Gorilla = Gorilla
+			Orangutan = Orango
+			Dog = Cane
+			Cat = Gatto
+			Puppy = Cucciolo
+			Kitten = Gattino
+			Rat = Topo
+			Squirrel = Scoiattolo
+			"Guinea pig" = "Porcellino d\'india"
+			Cattle = Bestiame
+			Pig = Maiale
+			Wolf = Lupo
+			Bear = Orso
+			Panda = Panda
+			"Polar bear" = Orso Polare
+			Bat = Pipistrello
+			Tiger = Tigre
+			Lion = Leone
+			Cheetah = Ghepardo
+			Panther = Pantera
+			Hyena = Jena
+			Fox = Volpe
+			"Raccoon dog" = Procione
+			Horse = Cavallo
+			Deer = Cervo
+			Zebra = Zebra
+			Camel = Cammello
+			Ass = Asino
+			Giraffe = Giraffa
+			Elephant = Elefante
+			Rhinoceros = Rinoceronte
+			Hippopotamus = Ippopotamo
+			Mammoth = Mammuth
+			Koala = Koala
+			Kangaroo = Canguro
+			Sloth = Bradipo
+			Cow = Mucca
+			Ox = Bue
+			Rabbit = Coniglio
+		}
+		Bird
+		{
+			Birds = Uccelli
+			Sparrow = Passero
+			Crow = Corvo
+			Penguin = Pinguino
+			Hawk = Falco
+			Eagle = Aquila
+			Condor = Condor
+			Swan = Cigno
+			Duck = Anatra
+		}
+		Insect
+		{
+			Insect = Insetto
+			Butterfly = Farfalla
+			Moth = Falena
+			Mantis = Mantide
+			"Rhinoceros beetle" = Scarabeo rinoceronte
+			"Stag beetle" = Scarabeo cervo
+			Beetle = Scarafaggio
+			Mosquito = Mosca
+			Ladybug = Coccinella
+			Spider = Ragno
+			Dragonfly = Libellula
+		}
+		fish
+		{
+			Fish = Pesce
+			Shark = Squalo
+			Whale = Balena
+			Dolphin = delfino
+			Octopus = Polpo
+			Squid = Calamaro
+		}
+		Reptiles
+		{
+			Reptiles = Rettili
+			Gator = Coccodrillo
+			Lizard = Lucertola
+			Newt = Tritone
+			Gecko = Geco
+			Snake = Serpente
+			Turtle = Tartaruga
+			Chameleon = Camaleonte
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosauro
+			Tyrannosaurus = Tirannosauro
+			Pteranodon = Pteranodonte
+			Triceratops = Triceratopo
+			Plesiosaur = Pleiosauro
+			Stegosaurus = Stegosauro
+			Protoceratops = Protoceratopo
+			Iguanodon = Iguanodonte
+		}
+	}
+}

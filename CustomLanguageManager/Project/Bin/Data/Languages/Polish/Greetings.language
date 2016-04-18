@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		Greetings
+		{
+			Hello = Witamy
+			"How do you do" = "Jak si\x0119 masz?"
+			Welcome = Witamy
+			"Please enjoy" = "Mi\x0142ej zabawy"
+			"Good luck" = Powodzenia
+			"Have a good day" = "Mi\x0142ego dnia"
+			"Welcome back" = Witamy ponownie
+			"Cheers for good work" = "Dzi\x0119ki za zabaw\x0119"
+			"Good bye" = Do zobaczenia
+			"Congratulations!" = Gratulacje!
+		}
+		Thanks
+		{
+			"Thank you" = "Dzi\x0119kujemy"
+			"Thank you very much" = "Dzi\x0119kujemy bardzo"
+		}
+		shop
+		{
+			Welcome = Witamy
+			"What are you looking for?" = Czego szukasz ?
+			"Thanks for your business" = "Dzi\x0119kujemy za zakup"
+			"I am looking forward to seeing you again" = "Do nast\x0119pnego razu!"
+		}
+	}
+}

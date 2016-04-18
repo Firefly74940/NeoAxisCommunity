@@ -1,0 +1,22 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		device
+		{
+			"mobile phone" = "\x03ba\x03b9\x03bd\x03b7\x03c4\x03cc \x03c4\x03b7\x03bb\x03ad\x03c6\x03c9\x03bd\x03bf"
+			tablet = tablet
+			console = "\x03ba\x03bf\x03bd\x03c3\x03cc\x03bb\x03b1"
+			resolution = "\x03b1\x03bd\x03ac\x03bb\x03c5\x03c3\x03b7"
+			screen = "\x03bf\x03b8\x03cc\x03bd\x03b7"
+			display = "\x03bf\x03b8\x03cc\x03bd\x03b7"
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+		}
+	}
+}

@@ -1,0 +1,54 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		color
+		{
+			Orange = Orange
+			Red = "R\x00f6d"
+			Blue = "Bl\x00e5"
+			Green = "Gr\x00f6n"
+			Yellow = Gul
+			Cyan = Turkos
+			Purple = Lila
+			White = Vit
+			Black = Svart
+			Gray = "Gr\x00e5"
+			Violet = Violet
+			Platinum = Platina
+			Gold = Guld
+			Silver = Silver
+			Bronze = Brons
+			Clear = Rensa
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Hoppa
+			Bounce = Studsa
+			Heal = Hela
+			Shoot = Skjut
+			Collect = Samla
+			Capture = "F\x00e5nga"
+			Destroy = "F\x00f6rst\x00f6r"
+			Attack = Attackera
+			Defend = "F\x00f6rsvara"
+			Hit = "Sl\x00e5"
+			Kick = Sparka
+			Stomp = Stamp
+			Walljump = "V\x00e4gghopp"
+		}
+		Move
+		{
+			Run = Spring
+			Escape = Fly
+		}
+	}
+}

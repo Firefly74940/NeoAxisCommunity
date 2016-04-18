@@ -1,0 +1,42 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Jogo pausado
+			"mobile phone" = celular
+			tablet = tablet
+			console = console
+			multitouch = multitoque
+			resolution = "resolu\x00e7\x00e3o"
+			screen = tela
+			display = display
+			"Game resumed" = Jogo continuando
+			"Tilt device to control" = Incline o aparelho para controlar
+			Accelometer = "Aceler\x00f4metro"
+			gyroscope = "girosc\x00f3pio"
+			mouse = mouse
+			keyboard = teclado
+			"pad controller" = controle
+		}
+		"device orientation"
+		{
+			"device orientation" = "orienta\x00e7\x00e3o do aparelho"
+			"landscape orientation" = modo paisagem
+			"portrait orientation" = modo retrato
+			"left handed" = canhoto
+			"right handed" = destro
+		}
+		gesture
+		{
+			"Shake device" = Balance o dispositivo
+			"pinch zoom" = Zoom com dois dedos
+			swipe = arrastar
+			"drag and drop" = arraste e solte
+			rotate = rotacionar
+			"double click" = clique duplo
+		}
+	}
+}

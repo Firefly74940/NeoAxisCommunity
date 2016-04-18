@@ -1,0 +1,121 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		Cooking
+		{
+			Cooking = "Cocina/Cocinar"
+			Pan = Cacerola
+			Pot = Olla
+			"Kitchen knife" = Cuchillo
+		}
+		Tableware
+		{
+			Tableware = Vajilla
+			Knife = Cuchillo
+			Spoon = Cuchara
+			Fork = Tenedor
+			Chopsticks = Palillos Chinos
+			Dish = Plato
+			Cup = Taza
+		}
+		Food
+		{
+			Food = Comida
+			Rice = Arroz
+			Soup = Sopa
+			Meat = Carne
+			"Grilled meat" = Carne Asada
+			Steak = Bistec
+			Hamburger = Hamburguesa
+			Spaghetti = Espagueti
+			Stew = Estofado
+			Ramen = "R\x00e1men"
+			Pizza = Pizza
+			Candy = Dulce
+			"Soft-serve ice cream" = Helado cremoso
+		}
+		Vegetables
+		{
+			Vegetables = Verdura
+			Rice = Arroz
+			Wheat = Trigo
+			Barley = Cebada
+			Cabbage = Berza
+			Pepper = Pimiento
+			Carrot = Zanahoria
+			Radish = "R\x00e1bano"
+			Potato = Patata
+			"Sweet potato" = Patata dulce
+			Onion = Cebolla
+			Beans = Guisantes
+			Garlic = Ajo
+		}
+		Drink
+		{
+			Drink = Bebida
+			Water = Agua
+			Milk = Leche
+			Coffee = "Caf\x00e9"
+			"Black tea" = "T\x00e9 negro"
+			Tea = "T\x00e9"
+			Juice = Zumo
+			Coke = Cola
+		}
+		Material
+		{
+			Material = Material
+			Mineral = Mineral
+			Platinum = Platino
+			Gold = Oro
+			Silver = Plata
+			Bronze = Bronce
+			Iron = Hierro
+			Steel = Acero
+			Crystal = Cristal
+			Marble = "M\x00e1rmol"
+		}
+		Vehicle
+		{
+			Vehicle = "Veh\x00edculo"
+			Car = Coche
+			Bike = Moto
+			Bicycle = Bicicleta
+			Tank = Tanque
+			Jeep = Todoterreno
+		}
+		Plane
+		{
+			Plane = "Avi\x00f3n"
+			Fighter = "Avi\x00f3n de combate"
+			Interceptor = Interceptador
+			"Reconnaissance aircraft" = "Avi\x00f3n de reconocimiento"
+			"Stealth machine" = Maquina sigilosa
+			Airliner = "L\x00ednea a\x00e9rea"
+			"Unmanned aircraft" = "Dr\x00f3n"
+			Helicopter = "Helic\x00f3ptero"
+			Balloon = Globo
+			"Hang glider" = Ala delta
+			Parachute = "Paraca\x00eddas"
+		}
+		Ship
+		{
+			Ship = Barco
+			Yacht = Yate
+			Raft = Balsa
+			Ferry = Ferri
+			Tanker = Petrolero
+			Warship = Buque de guerra
+			Battleship = Acorazado
+			"Mother ship" = Barco nodriza
+			"Aircraft Carrier" = Portaaviones
+			Escort = Escolta
+			Submarine = Submarino
+		}
+	}
+}

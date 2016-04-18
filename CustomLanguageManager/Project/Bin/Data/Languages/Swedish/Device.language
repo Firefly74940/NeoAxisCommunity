@@ -1,0 +1,42 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Spelet pausat
+			"mobile phone" = Mobiltelefon
+			tablet = "L\x00e4splatta"
+			console = Konsol
+			multitouch = Multi-Touch
+			resolution = "Uppl\x00f6sning"
+			screen = "Sk\x00e4rm"
+			display = Visa
+			"Game resumed" = "Spelet \x00e5terupptaget"
+			"Tilt device to control" = "Luta enheten f\x00f6r att styra"
+			Accelometer = Accelerometer
+			gyroscope = gyroskop
+			mouse = Mus
+			keyboard = Tangentbord
+			"pad controller" = Handkontroll
+		}
+		"device orientation"
+		{
+			"device orientation" = enhetens riktning
+			"landscape orientation" = liggande riktning
+			"portrait orientation" = "st\x00e5ende riktning"
+			"left handed" = "V\x00e4nsterh\x00e4nt"
+			"right handed" = "H\x00f6gerh\x00e4nt"
+		}
+		gesture
+		{
+			"Shake device" = Skaka enheten
+			"pinch zoom" = "nyp f\x00f6r att zooma"
+			swipe = Svep
+			"drag and drop" = "Drag och sl\x00e4pp"
+			rotate = Rotera
+			"double click" = Dubbelklicka
+		}
+	}
+}

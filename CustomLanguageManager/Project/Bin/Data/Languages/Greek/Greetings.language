@@ -1,0 +1,23 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		Greetings
+		{
+			"Congratulations!" = "\x03a3\x03c5\x03b3\x03c7\x03b1\x03c1\x03b7\x03c4\x03ae\x03c1\x03b9\x03b1!"
+		}
+		Thanks
+		{
+			"Thank you" = "E\x03c5\x03c7\x03b1\x03c1\x03b9\x03c3\x03c4\x03ce"
+			"Thank you very much" = "E\x03c5\x03c7\x03b1\x03c1\x03b9\x03c3\x03c4\x03ce \x03c0\x03bf\x03bb\x03cd"
+		}
+		shop
+		{
+		}
+	}
+}

@@ -1,0 +1,75 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defence
+			Puzzle = Puslespil
+			"Endless runner" = "Uendelig l\x00f8ber"
+			Shooter = Shooter
+			Adventure = Eventyr
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = Vertical shooter
+			"Fast-paced game" = "H\x00f8jhastidheds spil"
+			Strategy = Strategi
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasi
+			Science = Videnskab
+			Medieval = Middelalderen
+			Modern = Moderne
+			Ancient = Urgammel
+			"World War" = Verdenskrig
+			"Wild West / Western" = Det vilde vesten
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = Fuld version
+			"Lite version" = "Pr\x00f8veversion"
+			"Free version (Freemium)" = Gratis version
+			"Premium version" = Premium version
+		}
+		online
+		{
+			"Singleplayer game" = Spil alene
+			"Multiplayer game" = Spil med andre
+			"Asynchronous multiplayer" = Turbaseret spil
+			"Hotseat mode" = Turbaseret spil
+		}
+		Race
+		{
+			laps = omgange
+			position = position
+			track = bane
+			"race track" = racerbane
+			fuel = "br\x00e6ndstof"
+			oil = olie
+			gear = gear
+			suspension = affjedring
+			tire = "d\x00e6k"
+			wheel = hjul
+			rim = "f\x00e6lg"
+			clutch = kopling
+			light = lys
+		}
+		Board
+		{
+			Board = "Br\x00e6t"
+			Dice = Terning
+			"Roll (Dice)" = "Sl\x00e5"
+			Domino = Domino
+			"Card (Playing)" = Spillekort
+			"Draw(Card)" = "Tr\x00e6k"
+			Pass = Pas
+			Deck = Kortspil
+			"Play (noun)" = Spil
+		}
+	}
+}

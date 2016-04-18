@@ -1,0 +1,51 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		Arms
+		{
+			Sword = Sverd
+			Dagger = Dolk
+			Whip = Pisk
+			Knife = Kniv
+			Bow = Bue
+			Axe = "\x00d8ks"
+		}
+		Gun
+		{
+			Pistol = Pistol
+		}
+		Protector
+		{
+			Shield = Skjold
+			Armor = Rustning
+			Helmet = Hjelm
+			Boots = "St\x00f8vler"
+			Belt = Belte
+			Crown = Krone
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+		}
+		medicine
+		{
+		}
+	}
+}

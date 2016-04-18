@@ -1,0 +1,157 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = IT
+		}
+		accounts
+		{
+			"Account name" = Nome account
+			"Forgot your password?" = Hai dimenticato la password?
+			"Incorrect login or password" = Password o Nome Utente incorretti
+			Login = Accedi
+			"Login using Facebook account" = "Accedi usando l\'account Facebook"
+			Password = Password
+			Register = Registrati
+			"Remember me on this computer" = Ricordami su questo computer
+		}
+		Animal
+		{
+			YES = Si
+		}
+		"button label"
+		{
+			"About us" = "A proposito / Su di noi"
+			Achievements = Realizzazioni
+			Audio = Audio
+			Back = Indietro
+			Cancel = Annulla
+			Challenge = Sfida
+			"Choose hero" = Scegli un eroe
+			"Choose language" = Scegli la lingua
+			"Choose level" = Scegli il livello
+			"Contact us" = Contattaci
+			Continue = Continua
+			Controls = Controlli
+			Credits = Crediti
+			"Do not know" = Non lo so
+			Easy = Facile
+			"Game Center" = Game Center
+			"Game editor" = Editor di gioco
+			"Game mode" = "Modalit\x00e0 di gioco"
+			Hard = Difficile
+			Help = Aiuto
+			"How to play" = Come giocare
+			Language = Lingua
+			Leaderboards = Classifiche
+			"Level Select" = Seleziona il livello
+			"Load Game" = Carica partita
+			Loot = Bottino
+			"Main Menu" = Menu principale
+			Married = Sposato(a)
+			Menu = Menu
+			"More Apps" = Altre App
+			"More Games" = Altri Giochi
+			"New Game" = Nuova partita
+			"New order" = Nuovo ordine
+			Next = Avanti
+			Normal = Normale
+			Options = Impostazioni
+			"Order Online" = Ordina online
+			Pause = Pausa
+			"Pick character" = Scegli un personaggio
+			Play = Gioca
+			"Play Again" = Rigioca
+			Preferences = Preferenze
+			Previous = Indietro
+			Quit = Esci
+			"Remind me later" = "Ricordamelo pi\x00f9 tardi"
+			Replay = Ripeti
+			"Reset Options" = Ripristina opzioni
+			Retry = Riprova
+			"Sandbox mode" = "Modalit\x00e0 sand-box"
+			"Save game" = Salva partita
+			Scoreboard = Punteggi
+			Search = Cerca
+			Secret = Segreto
+			Shop = Bottega
+			Single = "Celibe (m) / Nubile (f)"
+			"Skip Level" = Salta il livello
+			Store = Negozio
+			Tutorial = Tutorial
+			"Update order" = Aggiorna ordine
+		}
+		"gameplay label"
+		{
+			"Base score" = Punteggio base
+			"Best results" = Risultati migliori
+			"Best score" = Miglior punteggio
+			"Game over" = Game over
+			Highscore = "Punteggio pi\x00f9 alto"
+			Lives = Vite
+			"Lives left" = Vite rimaste
+			"Money left" = Denaro rimasto
+			Score = Punteggio
+			Time = Tempo
+			"Time left" = Tempo rimasto
+			"Total score" = Punteggio totale
+			"Your score" = Il tuo punteggio
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = "Et\x00e0"
+			"All rights reserved" = Tutti i diritti riservati
+			"Are you sure you want to quit?" = Sei sicuro di voler uscire?
+			bear = Muto
+			Birthplace = Luogo di nascita
+			"Blood type" = Gruppo sanguigno
+			"Current address" = Indirizzo attuale
+			"e-mail" = e-mail
+			Error = Errore
+			"game version" = Versione del gioco
+			Marriage = Matrimonio
+			"Music off" = Musica disattivata
+			"Music on?" = Attivare la musica?
+			NO = No
+			"No, thanks!" = No, grazie
+			OK = OK
+			Sex = Sesso
+			"Sort by" = Diviso per
+			"Sound off" = Suono disattivato
+			"Sounds on?" = Attivare il suono?
+			Warning = Avvertimento
+			Web = Web
+			"Yes, sure!" = Si, certo.
+			"You are here" = Tu sei qui
+		}
+		"plot / story"
+		{
+			Chapter = Capitolo
+			Character = Personaggio
+			Comics = Fumetti
+			Ending = Fine
+			"Final Boss" = Boss finale
+			Intro = Intro
+			Outro = Epilogo
+			Page = Pagina
+			Story = Storia
+		}
+		rate
+		{
+			"Rate our app" = Dai un voto alla nostra app
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = Editor di livello
+		}
+	}
+}

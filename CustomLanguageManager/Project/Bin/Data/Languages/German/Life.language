@@ -1,0 +1,108 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		Cooking
+		{
+			Cooking = Kochen
+			Pan = Pfanne
+			Pot = Topf
+			"Kitchen knife" = "K\x00fcchenmesser"
+		}
+		Tableware
+		{
+			Tableware = Tischwaren
+			Knife = Messer
+			Spoon = "L\x00f6ffel"
+			Fork = Gabel
+			Chopsticks = "Essst\x00e4bchen"
+			Dish = Geschirr
+			Cup = Becher
+		}
+		Food
+		{
+			Food = Nahrung
+			Rice = Reis
+			Soup = Suppe
+			Meat = Fleisch
+			"Grilled meat" = Grillfleisch
+			Steak = Steak
+			"Hamburger Steak" = Hamburgersteak
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Eintopf
+			Ramen = Nudelsuppe
+			Pizza = Pizza
+			Candy = "S\x00fc\x00dfigkeit"
+			"Soft-serve ice cream" = Softeis
+		}
+		Vegetables
+		{
+			Vegetables = "Gem\x00fcse"
+			Rice = Reis
+			Wheat = Weizen
+			Barley = Gerste
+			Pepper = Pfeffer
+			Carrot = Karrote
+			Radish = Radieschen
+			Potato = Kartoffel
+			"Sweet potato" = "S\x00fc\x00dfkartoffel"
+			Onion = Zwiebel
+			Beans = Bohnen
+			Garlic = Knoblauch
+		}
+		Drink
+		{
+			Drink = "Getr\x00e4nk"
+			Water = Wasser
+			Milk = Milch
+			Coffee = Kaffee
+			"Black tea" = Schwarzer Tee
+			Tea = Tee
+			Juice = Saft
+			Coke = Cola
+		}
+		Material
+		{
+			Material = Material
+			Mineral = Mineral
+			Platinum = Platin
+			Gold = Gold
+			Silver = Silber
+			Bronze = Bronze
+			Iron = Eisen
+			Steel = Stahl
+			Crystal = Kristall
+			Marble = Marmor
+		}
+		Vehicle
+		{
+			Vehicle = Fahrzeug
+			Car = Auto
+			Bike = Motorrad
+			Bicycle = Fahrrad
+			Tank = Panzer
+			Jeep = Jeep
+		}
+		Plane
+		{
+			Plane = Flugzeug
+			Fighter = "K\x00e4mpfer"
+			Helicopter = Helikopter
+			Balloon = Balloon
+		}
+		Ship
+		{
+			Ship = Schiff
+			Ferry = "F\x00e4hre"
+			Battleship = Schlachtschiff
+			"Mother ship" = Mutterschiff
+			Submarine = U-Boot
+		}
+	}
+}

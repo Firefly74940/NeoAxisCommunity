@@ -1,0 +1,105 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		animal
+		{
+			Animal = Tier
+			Animals = Tiere
+			Pet = Haustier
+			Human = Mensch
+			Monkey = Affe
+			Gorilla = Gorilla
+			Orangutan = Orangutan
+			Dog = Hund
+			Cat = Katze
+			Puppy = Welpe
+			Kitten = "K\x00e4tzchen"
+			Rat = Ratte
+			Squirrel = "Eichh\x00f6rnchen"
+			"Guinea pig" = Meerschweinchen
+			Cattle = Vieh
+			Pig = Schwein
+			Wolf = Wolf
+			Bear = "B\x00e4r"
+			Panda = Panda
+			"Polar bear" = "Eisb\x00e4r"
+			Bat = Fledermaus
+			Tiger = Tiger
+			Lion = "L\x00f6we"
+			Cheetah = Gepard
+			Panther = Panther
+			Hyena = "Hy\x00e4ne"
+			Fox = Fuchs
+			"Raccoon dog" = Marderhund
+			Horse = Pferd
+			Deer = Reh
+			Zebra = Zebra
+			Camel = Kamel
+			Ass = Esel
+			Giraffe = Giraffe
+			Elephant = Elefant
+			Rhinoceros = Nashorn
+			Hippopotamus = Nilpferd
+			Mammoth = Mammut
+			Koala = Koala
+			Kangaroo = "K\x00e4nguru"
+			Sloth = Faultier
+			Cow = Kuh
+			Ox = Ochse
+			Rabbit = Kanin
+		}
+		Bird
+		{
+			Birds = "V\x00f6gel"
+			Sparrow = Spatz
+			Crow = "Kr\x00e4he"
+			Penguin = Pinguin
+			Hawk = Falke
+			Eagle = Adler
+			Condor = Kondor
+			Swan = Schwan
+			Duck = Ente
+		}
+		Insect
+		{
+			Insect = Insekt
+			Butterfly = Schmetterling
+			Moth = Motte
+			Mantis = Gottesanbeterin
+			Mosquito = "M\x00fccke"
+			Ladybug = "Marienk\x00e4fer"
+			Spider = Spinne
+			Dragonfly = Libelle
+		}
+		fish
+		{
+			Fish = Fisch
+			Shark = Hai
+			Whale = Wal
+			Dolphin = Delfin
+			Octopus = Oktopus
+			Squid = Krake
+		}
+		Reptiles
+		{
+			Reptiles = Reptilien
+			Gator = Krokodil
+			Lizard = Eidechse
+			Gecko = Gecko
+			Snake = Schlange
+			Turtle = "Schildkr\x00f6te"
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaurier
+			Tyrannosaurus = Tyrannosaurier
+			Stegosaurus = Stegosaurier
+		}
+	}
+}

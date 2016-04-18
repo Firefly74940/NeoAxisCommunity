@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		Character
+		{
+		}
+		Family
+		{
+		}
+		fantasy
+		{
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+		}
+		Occupation
+		{
+		}
+	}
+}

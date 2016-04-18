@@ -1,0 +1,25 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		social
+		{
+			"Post to Twitter" = Publica-ho al Twitter
+			"Share on Facebook" = Comparteix-ho al Facebook
+			"Your score has been posted to Facebook!" = "La teva puntuaci\x00f3 s\'ha publicat al Facebook"
+			"Your score has been posted to Twitter!" = "La teva puntuaci\x00f3 s\'ha publicat al Twitter"
+			"Thank you for playing!" = "Gr\x00e0cies per jugar"
+			"Find a friend" = Troba un amic
+			"Invite a friend" = Convida-hi un amic
+			"Start a chat" = Inicia un xat
+			"Chat room" = Sala de xat
+			"Share photo on Facebook" = Comparteix la foto a Facebook
+			"Follow Us" = Segueix-nos
+		}
+	}
+}

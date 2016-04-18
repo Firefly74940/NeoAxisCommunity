@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		social
+		{
+			"Share an achievement" = Teile einen Erfolg
+			"Post to Twitter" = Auf Twitter posten
+			"Share on Facebook" = Auf Facebook teilen
+			"Your score has been posted to Facebook!" = "Punktestand auf Facebook ver\x00f6ffentlicht!"
+			"Your score has been posted to Twitter!" = "Punktestand auf Twitter ver\x00f6ffentlicht!"
+			"Thank you for playing!" = "Danke f\x00fcr\'s Spielen!"
+			"Find a friend" = Finde einen Freund
+			"Invite a friend" = Lade einen Freund ein
+			"Start a chat" = Starte einen Chat
+			"Chat room" = Chatraum
+			"Share photo on Facebook" = Teile das Foto auf Facebook
+			"Like Us" = Like uns
+			"Follow Us" = Folge uns
+			"Tell about us" = Weiterempfehlen
+			"Share score" = Punkte teilen
+		}
+	}
+}

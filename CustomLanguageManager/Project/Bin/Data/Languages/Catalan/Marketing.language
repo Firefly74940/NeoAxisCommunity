@@ -1,0 +1,86 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Descarrega ARA l\'aplicaci\x00f3 DE FRANC"
+			"FREE app of the day!" = "Applicaci\x00f3 GRATU\x00cfTA d\'avui"
+			"Today for FREE" = Avui de franc!
+			"Daily FREE apps" = Applicacions DE FRANC cada dia
+			"Play for FREE" = "Juga GRATU\x00cfTAMENT"
+			"Download for FREE" = Descarrega GRATUITAMENT
+			"FREE to download" = Descarrega GRATUITAMENT
+			"You have won ..." = Has guanyat...
+			"Collect your prize now !" = Recull el teu premi ara!
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Error en la compra
+			"Purchase cancelled" = "Compra cancel\x00b7lada"
+			"Please try again later" = "Per favor, intenta-ho despr\x00e9s"
+			"Store is not available" = Botiga no disponible
+			Restore = Reestableix ara
+			"Restore all purchases to this device ?" = Voleu reestablir tots els comptes?
+			"Remove ads" = Sense publicitat
+			"Double time" = Doblar temps
+			"Double gold" = Doblar or
+			"Double lives" = Doblar vides
+			"Restore Now" = Reestableix ara
+			"Unlock ..." = Desbloca...
+			"..." = Actualiza...
+			"No ads" = Sense publicitat
+			"Buy hints" = Compra pistes
+			"Buy gold" = Compra or
+			"Buy gems" = Compra joies
+			"Get full version" = "Obtingues la versi\x00f3 completa"
+			"Get a refund" = Obtingues reemborsament
+			"Unlock all levels" = Desbloqueja tots els nivells
+			"Get more hints" = "Aconsegueix m\x00e9s pistes"
+		}
+		question
+		{
+		}
+	}
+}

@@ -1,0 +1,42 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = "Peli pys\x00e4ytetty"
+			"mobile phone" = matkapuhelin
+			tablet = Tabletti
+			console = konsoli
+			multitouch = monikosketus
+			resolution = resoluutio
+			screen = "n\x00e4ytt\x00f6"
+			display = "n\x00e4ytt\x00f6"
+			"Game resumed" = Peli jatkuu
+			"Tilt device to control" = Kallista laitetta ohjataksesi
+			Accelometer = kiihtyvyysanturi
+			gyroscope = gyroskooppi
+			mouse = hiiri
+			keyboard = "n\x00e4pp\x00e4imist\x00f6"
+			"pad controller" = padiohjain
+		}
+		"device orientation"
+		{
+			"device orientation" = orientaatio
+			"landscape orientation" = vaakaorientaatio
+			"portrait orientation" = pystyorientaatio
+			"left handed" = "vasenk\x00e4tinen"
+			"right handed" = "oikeak\x00e4tinen"
+		}
+		gesture
+		{
+			"Shake device" = Ravista laitetta
+			"pinch zoom" = nipistyszoomi
+			swipe = "pyyhk\x00e4isy"
+			"drag and drop" = "ved\x00e4 ja pudota"
+			rotate = "K\x00e4\x00e4nn\x00e4"
+			"double click" = Kaksoiskosketa
+		}
+	}
+}

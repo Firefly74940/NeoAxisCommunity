@@ -1,0 +1,79 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defense
+			Puzzle = Puzzle
+			"Endless runner" = Course
+			Shooter = Jeu de tir
+			Adventure = Aventure
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = Shoot them up vertical
+			"Fast-paced game" = "Jeu de rapidit\x00e9"
+			Strategy = "Strat\x00e9gie"
+		}
+		"game theme"
+		{
+			Retro = "R\x00e9tro"
+			Fantasy = Fantastique
+			Science = Science
+			Medieval = "M\x00e9di\x00e9val"
+			Modern = Moderne
+			Ancient = Ancien
+			"World War" = Guerre Mondiale
+			"Wild West / Western" = Western
+		}
+		"game mode"
+		{
+			"Inifinite mode" = Mode infini
+		}
+		"game version"
+		{
+			"Full version" = "Version compl\x00e8te"
+			"Lite version" = Version lite
+			"Free version (Freemium)" = Version gratuite
+			"Premium version" = Version premium
+		}
+		online
+		{
+			"Singleplayer game" = Solo
+			"Multiplayer game" = Multijoueur
+			"Asynchronous multiplayer" = Multijoueur asynchrone
+			"Hotseat mode" = Mode Hotseat
+		}
+		Race
+		{
+			laps = tours
+			position = position
+			track = piste
+			"race track" = circuit
+			fuel = carburant
+			oil = huile
+			gear = quest
+			suspension = suspension
+			tire = pneu
+			wheel = roue
+			rim = jante
+			clutch = embrayage
+			light = feu
+		}
+		Board
+		{
+			Board = plateau
+			Dice = "d\x00e9"
+			"Roll (Dice)" = lancer
+			Domino = domino
+			"Card (Playing)" = carte
+			"Draw(Card)" = tirer
+			Pass = passe
+			Deck = pile
+			"Play (noun)" = jeu
+			Slam = Chelem
+			"Discard Pile" = "d\x00e9fausse"
+			"Boneyard (Dominoes)" = pioche
+		}
+	}
+}

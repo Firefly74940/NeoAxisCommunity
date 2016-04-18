@@ -1,0 +1,30 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		Greetings
+		{
+			Hello = Hallo
+			"How do you do" = Hoe gaat het?
+			Welcome = Welkom
+			"Good luck" = Succes
+			"Have a good day" = Fijne dag
+			"Welcome back" = Welkom terug
+			"Good bye" = Tot ziens
+			"Congratulations!" = Gefeliciteerd!
+		}
+		Thanks
+		{
+			"Thank you" = Dank u
+			"Thank you very much" = dank u wel
+		}
+		shop
+		{
+		}
+	}
+}

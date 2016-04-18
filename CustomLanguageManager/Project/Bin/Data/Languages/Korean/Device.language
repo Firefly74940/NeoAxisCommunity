@@ -1,0 +1,43 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = "\xc77c\xc2dc\xc815\xc9c0"
+			"mobile phone" = "\xc2a4\xb9c8\xd2b8\xd3f0"
+			tablet = "\xd0dc\xbe14\xb9bf"
+			console = "\xcf58\xc194"
+			multitouch = "\xba40\xd2f0\xd130\xce58"
+			resolution = "\xd574\xc0c1\xb3c4"
+			screen = "\xd654\xba74"
+			display = "\xb514\xc2a4\xd50c\xb808\xc774"
+			"Game resumed" = "\xacc4\xc18d\xd558\xae30"
+			"Tilt device to control" = "\xc7a5\xce58\xb97c \xae30\xc6b8\xc5ec\xc11c \xc870\xc885"
+			Accelometer = "\xac00\xc18d\xacc4"
+			gyroscope = "\xc790\xc774\xb85c\xc2a4\xcf54\xd504"
+			mouse = "\xb9c8\xc6b0\xc2a4"
+			keyboard = "\xd0a4\xbcf4\xb4dc"
+			"pad controller" = "\xac8c\xc784\xd328\xb4dc"
+			"headphones recommended" = "\xd5e4\xb4dc\xd3f0 \xc0ac\xc6a9\xc744 \xcd94\xcc9c\xd569\xb2c8\xb2e4."
+		}
+		"device orientation"
+		{
+			"device orientation" = "\xc7a5\xce58\xc758 \xbc29\xd5a5"
+			"landscape orientation" = "\xac00\xb85c\xbaa8\xb4dc"
+			"portrait orientation" = "\xc138\xb85c\xbaa8\xb4dc"
+			"left handed" = "\xc67c\xc190\xc7a1\xc774"
+			"right handed" = "\xc624\xb978\xc190\xc7a1\xc774"
+		}
+		gesture
+		{
+			"Shake device" = "\xc7a5\xce58\xb97c \xd754\xb4e6"
+			"pinch zoom" = "\xd540\xce58-\xc90c"
+			swipe = "\xc2a4\xc640\xc774\xd504"
+			"drag and drop" = "\xb4dc\xb798\xadf8 \xc564 \xb4dc\xb86d"
+			rotate = "\xd68c\xc804"
+			"double click" = "\xb354\xbe14\xd074\xb9ad"
+		}
+	}
+}

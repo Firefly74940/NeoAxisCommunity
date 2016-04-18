@@ -1,0 +1,118 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		Direction
+		{
+			"Move Left" = "Bev\x00e6g dig til venstre"
+			"Move right" = "Bev\x00e6g dig til h\x00f8jre"
+			"Move up" = "Bev\x00e6g dig op"
+			"Move down" = "Bev\x00e6g dig ned"
+			"Move forward" = "Bev\x00e6g dig fremad"
+			North = Nord
+			South = Syd
+			East = "\x00d8st"
+			West = Vest
+			Northeast = "Nord\x00f8st"
+			Southeast = "Syd\x00f8st"
+			Northwest = Nordvest
+			Southwest = Sydvest
+		}
+		Building
+		{
+			Castle = Slot
+			"Castle town" = Slotsby
+			City = Stad
+			Town = By
+			Village = Landsby
+			Building = Bygning
+			Hut = Hytte
+			Dungeon = "Fangek\x00e6lder"
+			Well = "Br\x00f8nd"
+			Jail = "F\x00e6ngsel"
+		}
+		Nature
+		{
+			Nature = Natur
+			Forest = Skov
+			Mountain = Bjerg
+			"Dense forest" = "T\x00e6t skov"
+			Amazon = Amazonas
+			River = Flod
+			Grassland = "Gr\x00e6smarker"
+			"Sandy beach" = Sandstrand
+			Sea = "S\x00f8"
+			Ford = Vadested
+			Cave = Hule
+			Underground = Underjordisk
+			Underworld = Underverdenen
+			Shell = Skal
+			Desert = "\x00d8rken"
+			Sand = Sand
+			Stone = Sten
+			Rock = Klippe
+			Mud = Mudder
+		}
+		Plant
+		{
+			Plant = Plante
+			Flower = Blomst
+			Grass = "Gr\x00e6s"
+			Tree = "Tr\x00e6"
+			Stem = Stilk
+			Root = Rod
+			Fruit = Frugt
+			Species = Arter
+			Sap = Harpiks
+			Seed = "Fr\x00f8"
+		}
+		Weather
+		{
+			Weather = Vejr
+			Air = Luft
+			Sky = Himmel
+			Wind = Vind
+			Shine = Skinne
+			Cloud = Sky
+			Cloudiness = "Skyd\x00e6kke"
+			Rain = Regn
+			Shower = Bruser
+			Thunderstorm = Tordenvejr
+			Thunder = Torden
+			Fog = "T\x00e5ge"
+			Haze = Dis
+			Snow = Sne
+			Sleet = Slud
+			Hail = Hagl
+			Storm = Storm
+			Typhoon = Tyfon
+			Sandstorm = Sandstorm
+		}
+		Space
+		{
+			Space = Rummet
+			Sun = Solen
+			Mercury = Merkur
+			Venus = Venus
+			Earth = Jorden
+			Mars = Mars
+			Jupiter = Jupiter
+			Saturn = Saturn
+			Uranus = Uranus
+			Neptune = Neptun
+			Pluto = Pluto
+			Moon = "M\x00e5ned"
+			Star = Stjerne
+			Planet = Planet
+			Comet = Komet
+			Meteor = Meteor
+			Satellite = Satelit
+			Debris = Vragrester
+		}
+	}
+}

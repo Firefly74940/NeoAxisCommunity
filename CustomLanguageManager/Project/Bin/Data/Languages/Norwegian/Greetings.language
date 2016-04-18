@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		Greetings
+		{
+			Hello = Hallo
+			"How do you do" = "Hvordan g\x00e5r det?"
+			Welcome = Velkommen
+			"Good luck" = Lykke til
+			"Have a good day" = Ha en god dag
+			"Welcome back" = Velkommen tilbake
+			"Good bye" = Ha det bra
+			"Congratulations!" = Gratulerer!
+		}
+		Thanks
+		{
+			"Thank you" = Takk
+			"Thank you very much" = Tusen takk
+		}
+		shop
+		{
+			Welcome = Velkommen
+			"What are you looking for?" = Hva er du ute etter?
+		}
+	}
+}

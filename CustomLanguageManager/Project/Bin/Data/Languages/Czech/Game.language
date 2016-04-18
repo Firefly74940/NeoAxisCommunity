@@ -1,0 +1,33 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tobekova obrana
+			Shooter = "St\x0159\x00edle\x010dka"
+			Strategy = Strategie
+		}
+		"game theme"
+		{
+			"World War" = "Sv\x011btov\x00e1 v\x00e1lka"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+		}
+		online
+		{
+		}
+		Race
+		{
+		}
+		Board
+		{
+			Dice = Kostka
+		}
+	}
+}

@@ -1,0 +1,35 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		Greetings
+		{
+			Hello = Salut!
+			"How do you do" = Ce faci?
+			Welcome = Bine ai venit!
+			"Good luck" = Succes!
+			"Have a good day" = O zi buna!
+			"Welcome back" = Bine ai revenit!
+			"Cheers for good work" = Bravo pentru eforturi!
+			"Good bye" = La revedere!
+			"Congratulations!" = "Felicit\x0103ri!"
+		}
+		Thanks
+		{
+			"Thank you" = "Mul\x021bumesc!"
+			"Thank you very much" = "Mul\x021bumesc mult!"
+		}
+		shop
+		{
+			Welcome = Bine ai venit!
+			"What are you looking for?" = Ce cauti?
+			"Thanks for your business" = Multumesc pentru vizita!
+			"I am looking forward to seeing you again" = Sper sa ne revedem!
+		}
+	}
+}

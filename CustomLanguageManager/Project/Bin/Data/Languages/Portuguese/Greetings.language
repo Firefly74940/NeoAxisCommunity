@@ -1,0 +1,24 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		Greetings
+		{
+			"Welcome back" = Bemvindo de novo
+			"Congratulations!" = "Parab\x00e9ns!"
+		}
+		Thanks
+		{
+			"Thank you very much" = Muito Obrigado
+		}
+		shop
+		{
+			Welcome = Bemvindo
+		}
+	}
+}

@@ -1,0 +1,113 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		animal
+		{
+			Animal = Animal
+			Animals = Animais
+			Pet = "Bicho de estima\x00e7\x00e3o"
+			Human = Humano
+			Monkey = Macaco
+			Gorilla = Gorila
+			Orangutan = Orangotango
+			Dog = Cachorro
+			Cat = Gato
+			Puppy = Cachorrinho
+			Kitten = Gatinho
+			Rat = Rato
+			Squirrel = Esquilo
+			"Guinea pig" = "Porquinho-da-\x00cdncia"
+			Cattle = Gado
+			Pig = Porco
+			Wolf = Lobo
+			Bear = Urso
+			Panda = Panda
+			"Polar bear" = Urso Polar
+			Bat = Morcego
+			Tiger = Tigre
+			Lion = "Le\x00e3o"
+			Cheetah = Leopardo
+			Panther = Pantera
+			Hyena = Hiena
+			Fox = Raposa
+			"Raccoon dog" = Guaxinim
+			Horse = Cavalo
+			Deer = Veado
+			Zebra = Zebra
+			Camel = Camelo
+			Ass = Burro
+			Giraffe = Girafa
+			Elephant = Elefante
+			Rhinoceros = Rinoceronte
+			Hippopotamus = "Hipop\x00f3tamo"
+			Mammoth = Mamute
+			Koala = Coala
+			Kangaroo = Canguru
+			Sloth = "Pregui\x00e7a"
+			Cow = Vaca
+			Ox = Boi
+		}
+		Bird
+		{
+			Birds = "P\x00e1ssaros"
+			Sparrow = Pardal
+			Crow = Corvo
+			Penguin = Pinguim
+			Hawk = "Falc\x00e3o"
+			Eagle = "\x00c1guia"
+			Condor = Condor
+			Swan = Cisne
+		}
+		Insect
+		{
+			Insect = Inseto
+			Butterfly = Borboleta
+			Moth = Mariposa
+			Mantis = Louva-a-deus
+			"Rhinoceros beetle" = Besouro-rinoceronte
+			"Stag beetle" = Lucano
+			Beetle = Bezouro
+			Mosquito = Mosquito
+			Ladybug = Joaninha
+			Spider = Aranha
+			Dragonfly = "Lib\x00e9lula"
+		}
+		fish
+		{
+			Fish = Peixe
+			Shark = "Tubar\x00e3o"
+			Whale = Baleia
+			Dolphin = Golfinho
+			Octopus = Polvo
+			Squid = Lula
+		}
+		Reptiles
+		{
+			Reptiles = "R\x00e9pteis"
+			Gator = "Jacar\x00e9"
+			Lizard = Lagarto
+			Newt = "Trit\x00e3o"
+			Gecko = Lagartixa
+			Snake = Cobra
+			Turtle = Tartaruga
+			Chameleon = "Camale\x00e3o"
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinossauro
+			Tyrannosaurus = Tiranossauro
+			Pteranodon = Pteranodonte
+			Triceratops = "Tricer\x00e1topo"
+			Plesiosaur = Plesiossauro
+			Stegosaurus = Estegossauro
+			Protoceratops = "Protocer\x00e1topo"
+			Iguanodon = Iguanodon
+		}
+	}
+}

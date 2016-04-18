@@ -1,0 +1,28 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		social
+		{
+			"Share an achievement" = Dela en prestation
+			"Post to Twitter" = "Posta p\x00e5 Twitter"
+			"Share on Facebook" = "Dela p\x00e5 Facebook"
+			"Your score has been posted to Facebook!" = "Dina po\x00e4ng har postats p\x00e5 Facebook!"
+			"Your score has been posted to Twitter!" = "Dina po\x00e4ng har postats p\x00e5 Twitter!"
+			"Thank you for playing!" = "Tack f\x00f6r att du spelade!"
+			"Find a friend" = "Hitta en v\x00e4n"
+			"Invite a friend" = "Bjud in en v\x00e4n"
+			"Start a chat" = Starta en chatt
+			"Chat room" = Chattrum
+			"Share photo on Facebook" = "Dela foto p\x00e5 Facebook"
+			"Like Us" = Gilla oss
+			"Follow Us" = "F\x00f6lj oss"
+			"Tell about us" = Tipsa om oss
+		}
+	}
+}

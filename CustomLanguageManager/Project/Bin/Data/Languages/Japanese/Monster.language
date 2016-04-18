@@ -1,0 +1,90 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = JAPANESE
+		}
+		God
+		{
+			God = "\x795e"
+			Goddess = "\x5973\x795e"
+			"False god" = "\x90aa\x795e"
+			Buddha = "\x4ecf"
+			Savior = "\x6551\x4e16\x4e3b"
+		}
+		Angel
+		{
+			Angel = "\x5929\x4f7f"
+			"Fallen angel" = "\x5815\x5929\x4f7f"
+			Michael = "\x30df\x30ab\x30a8\x30eb"
+			Gabriel = "\x30ac\x30d6\x30ea\x30a8\x30eb"
+			Rafael = "\x30e9\x30d5\x30a1\x30a8\x30eb"
+			Uriel = "\x30a6\x30ea\x30a8\x30eb"
+			Archangel = "\x5927\x5929\x4f7f"
+		}
+		"Holy presence"
+		{
+			Fairy = "\x5996\x7cbe"
+			Genie = "\x7cbe\x970a"
+			Ghost = "\x5e7d\x970a"
+			Dwarf = "\x30c9\x30ef\x30fc\x30d5"
+			Undine = "\x30a6\x30f3\x30c7\x30a3\x30fc\x30cd"
+			Gnome = "\x30ce\x30fc\x30e0"
+			Salamander = "\x30b5\x30e9\x30de\x30f3\x30c0\x30fc"
+			Sylph = "\x30b7\x30eb\x30d5"
+			Phoenix = "\x30d5\x30a7\x30cb\x30c3\x30af\x30b9/\x9cf3\x51f0"
+			Elf = "\x30a8\x30eb\x30d5"
+			Nymph = "\x30cb\x30f3\x30d5"
+		}
+		Demon
+		{
+			Demon = "\x60aa\x9b54"
+			Satan = "\x30b5\x30bf\x30f3"
+			Lucifer = "\x30eb\x30b7\x30d5\x30a1\x30fc"
+			Baphomet = "\x30d0\x30d5\x30a9\x30e1\x30c3\x30c8/\x30d0\x30db\x30e1\x30c3\x30c8"
+			Belial = "\x30d9\x30ea\x30a2\x30eb"
+			Belphegor = "\x30d9\x30eb\x30d5\x30a7\x30b4\x30fc\x30eb"
+			Mammon = "\x30de\x30f3\x30e2\x30f3"
+			Incubus = "\x30a4\x30f3\x30ad\x30e5\x30d0\x30b9"
+			Succubus = "\x30b5\x30c3\x30ad\x30e5\x30d0\x30b9/\x30b5\x30ad\x30e5\x30d0\x30b9"
+			Beelzebub = "\x30d9\x30eb\x30bc\x30d0\x30d6"
+			Cerberus = "\x30b1\x30eb\x30d9\x30ed\x30b9"
+			Familiar = "\x4f7f\x3044\x9b54"
+		}
+		Monster
+		{
+			Monster = "\x30e2\x30f3\x30b9\x30bf\x30fc"
+			Slime = "\x30b9\x30e9\x30a4\x30e0"
+			Vampire = "\x30f4\x30a1\x30f3\x30d1\x30a4\x30a2 (\x5438\x8840\x9b3c)"
+			"Jiangshi/Kyonshi (Chinese \"hopping\" zombie)" = "\x30ad\x30e7\x30f3\x30b7\x30fc"
+			Zombie = "\x30be\x30f3\x30d3"
+			Undead = "\x30a2\x30f3\x30c7\x30c3\x30c9 (\x4e0d\x6b7b\x8005)"
+			"Wolf Man" = "\x72fc\x7537"
+			Beastman = "\x7363\x4eba"
+			Goblin = "\x30b4\x30d6\x30ea\x30f3"
+			Kobold = "\x30b3\x30dc\x30eb\x30c8"
+		}
+		Dragon
+		{
+			Dragon = "\x30c9\x30e9\x30b4\x30f3 (\x7adc / \x9f8d)"
+			Firedrake = "\x30d5\x30a1\x30a4\x30a2\x30fc\x30c9\x30e9\x30b4\x30f3 (\x706b\x7adc)"
+			"Ice dragon" = "\x30a2\x30a4\x30b9\x30c9\x30e9\x30b4\x30f3 (\x6c37\x7adc)"
+			"Water dragon" = "\x30a6\x30a9\x30fc\x30bf\x30fc\x30c9\x30e9\x30b4\x30f3 (\x6c34\x7adc)"
+			"Thunder dragon" = "\x30b5\x30f3\x30c0\x30fc\x30c9\x30e9\x30b4\x30f3 (\x96f7\x7adc)"
+			"Sat dragon" = "\x30b5\x30f3\x30c9\x30c9\x30e9\x30b4\x30f3 (\x571f\x7adc)"
+			Wyvern = "\x30ef\x30a4\x30d0\x30fc\x30f3 (\x98db\x7adc)"
+		}
+		"Greek myth"
+		{
+			Minotaur = "\x30df\x30ce\x30bf\x30a6\x30ed\x30b9"
+			Centaur = "\x30b1\x30f3\x30bf\x30a6\x30ed\x30b9"
+			Harpy = "\x30cf\x30fc\x30d4\x30fc"
+			Hydra = "\x30d2\x30c9\x30e9"
+			Cyclops = "\x30b5\x30a4\x30af\x30ed\x30d7\x30b9"
+			Titan = "\x5de8\x4eba"
+		}
+	}
+}

@@ -1,0 +1,98 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Du kan ladda ner gratisspelet nu
+			"FREE app of the day!" = Dagens gratisapp!
+			"Today for FREE" = Idag utan kostnad
+			"Daily FREE apps" = Dagliga gratisappar
+			"Play for FREE" = Spela gratis
+			"Download for FREE" = Ladda ner gratis
+			"FREE to download" = Gratis att ladda ner
+			"You have won ..." = Du har vunnit ...
+			"Collect your prize now !" = "H\x00e4mta din vinst nu!"
+			"Coming soon to (pick market)" = Kommer snart till (pick market)
+			"Easy to learn yet hard to master" = "L\x00e4tt att l\x00e4ra sig, men sv\x00e5r att bem\x00e4stra"
+			"Game contains in-app purchases" = "Spelet erbjuder k\x00f6p inuti appen"
+			"Game requires internet connection" = "Spelet kr\x00e4ver internetanslutning"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "K\x00f6pet misslyckades"
+			"Purchase cancelled" = "K\x00f6pet avbr\x00f6ts"
+			"Please try again later" = "F\x00f6rs\x00f6k igen senare"
+			"Store is not available" = "Butiken \x00e4r ej tillg\x00e4nglig"
+			Restore = "\x00c5terst\x00e4ll"
+			"Restore all purchases to this device ?" = "\x00c5terst\x00e4lla alla k\x00f6p f\x00f6r denna enhet?"
+			"Remove ads" = "D\x00f6lj annonser"
+			"Double time" = Dubbelt med tid
+			"Double gold" = Dubbelt med guld
+			"Double lives" = Dubbelt med liv
+			"Restore Now" = "\x00c5terst\x00e4ll nu"
+			"Unlock ..." = "L\x00e5s upp"
+			"..." = Uppgradera ...
+			"No ads" = Inga annonser
+			"Buy hints" = "K\x00f6p tips"
+			"Buy gold" = "K\x00f6p guld"
+			"Buy gems" = "K\x00f6p diamanter"
+			"Get full version" = Skaffa fullversionen
+			"Get a refund" = "\x00c5ngra k\x00f6p"
+			"Unlock all levels" = "L\x00e5s upp alla niv\x00e5er"
+			"Unlock all game modes" = "L\x00e5s upp alla spell\x00e4gen"
+			"Get more hints" = Skaffa fler tips
+			"Get more gold for FREE" = Skaffa mer guld gratis
+		}
+		question
+		{
+			"How do you rate this game?" = "Hur bed\x00f6mer du det h\x00e4r spelet?"
+			"Would you like to rate & review game now ?" = "Vill du betygs\x00e4tta och kommentera spelet nu?"
+			"Do you like our game ?" = "Gillar du v\x00e5rt spel?"
+			"Would you like to provide feedback to developers ?" = Vill du ge feedback till utvecklarna?
+			"Would you like to watch game trailer ?" = Vill du se en speltrailer?
+			"Would you like to watch video game tutorial ?" = Vill du se en videohandledning?
+		}
+	}
+}

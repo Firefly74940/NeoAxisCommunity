@@ -1,0 +1,119 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		Direction
+		{
+			Direction = "\xbc29\xd5a5"
+			"Move Left" = "\xc67c\xcabd\xc73c\xb85c \xc774\xb3d9"
+			"Move right" = "\xc624\xb978\xcabd\xc73c\xb85c \xc774\xb3d9"
+			"Move up" = "\xc704\xb85c \xc774\xb3d9"
+			"Move down" = "\xc544\xb798\xb85c \xc774\xb3d9"
+			"Move forward" = "\xc55e\xc73c\xb85c \xc774\xb3d9"
+			North = "\xbd81"
+			South = "\xb0a8"
+			East = "\xb3d9"
+			West = "\xc11c"
+			Northeast = "\xbd81\xb3d9\xcabd"
+			Southeast = "\xb0a8\xb3d9\xcabd"
+			Northwest = "\xbd81\xb3d9\xcabd"
+			Southwest = "\xb0a8\xc11c\xcabd"
+		}
+		Building
+		{
+			Castle = "\xc131"
+			"Castle town" = "\xb3c4\xc131"
+			City = "\xb3c4\xc2dc"
+			Town = "\xb9c8\xc744"
+			Village = "\xcd0c\xb77d"
+			Building = "\xac74\xbb3c"
+			Hut = "\xc624\xb450\xb9c9"
+			Dungeon = "\xb358\xc804"
+			Well = "\xc6b0\xbb3c"
+			Jail = "\xac10\xc625"
+		}
+		Nature
+		{
+			Nature = "\xc790\xc5f0"
+			Forest = "\xc232"
+			Mountain = "\xc0b0"
+			"Dense forest" = "\xbc00\xb9bc"
+			Amazon = "\xc544\xb9c8\xc874"
+			River = "\xac15"
+			Grassland = "\xcd08\xc6d0"
+			"Sandy beach" = "\xbaa8\xb798\xc0ac\xc7a5"
+			Sea = "\xbc14\xb2e4"
+			Ford = "\xc5ec\xc6b8"
+			Cave = "\xb3d9\xad74"
+			Underground = "\xc9c0\xd558"
+			Underworld = "\xc9c0\xd558\xc138\xacc4"
+			Shell = "\xc740\xc2e0\xcc98"
+			Desert = "\xc0ac\xb9c9"
+			Sand = "\xbaa8\xb798"
+			Stone = "\xb3cc"
+			Rock = "\xbc14\xc704"
+			Mud = "\xc9c4\xd759"
+		}
+		Plant
+		{
+			Plant = "\xc2dd\xbb3c"
+			Flower = "\xaf43"
+			Grass = "\xd480"
+			Tree = "\xb098\xbb34"
+			Stem = "\xc904\xae30"
+			Root = "\xbfcc\xb9ac"
+			Fruit = "\xacfc\xc77c"
+			Species = "\xc885"
+			Sap = "\xc218\xc561"
+			Seed = "\xc528\xc557"
+		}
+		Weather
+		{
+			Weather = "\xb0a0\xc528"
+			Air = "\xae30\xc0c1"
+			Sky = "\xd558\xb298"
+			Wind = "\xbc14\xb78c"
+			Shine = "\xb9d1\xc74c"
+			Cloud = "\xad6c\xb984"
+			Cloudiness = "\xd750\xb9bc"
+			Rain = "\xbe44"
+			Shower = "\xc18c\xb098\xae30"
+			Thunderstorm = "\xcc9c\xb465\xbc88\xac1c"
+			Thunder = "\xcc9c\xb465"
+			Fog = "\xc548\xac1c"
+			Haze = "\xc5f0\xbb34"
+			Snow = "\xb208"
+			Sleet = "\xc9c4\xb208\xae68\xbe44"
+			Hail = "\xc2f8\xb77d\xb208"
+			Storm = "\xd3ed\xd48d"
+			Typhoon = "\xd0dc\xd48d"
+			Sandstorm = "\xbaa8\xb798\xd3ed\xd48d"
+		}
+		Space
+		{
+			Space = "\xc6b0\xc8fc"
+			Sun = "\xd0dc\xc591"
+			Mercury = "\xc218\xc131"
+			Venus = "\xae08\xc131"
+			Earth = "\xc9c0\xad6c"
+			Mars = "\xd654\xc131"
+			Jupiter = "\xbaa9\xc131"
+			Saturn = "\xd1a0\xc131"
+			Uranus = "\xcc9c\xc655\xc131"
+			Neptune = "\xd574\xc655\xc131"
+			Pluto = "\xba85\xc655\xc131"
+			Moon = "\xb2ec"
+			Star = "\xbcc4"
+			Planet = "\xd589\xc131"
+			Comet = "\xd61c\xc131"
+			Meteor = "\xc720\xc131"
+			Satellite = "\xc704\xc131"
+			Debris = "\xc794\xd574"
+		}
+	}
+}

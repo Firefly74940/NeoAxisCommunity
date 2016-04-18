@@ -1,0 +1,113 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		Cooking
+		{
+			Cooking = Cozinhar
+			Pan = Frigideira
+			Pot = Panela
+		}
+		Tableware
+		{
+			Tableware = Talher
+			Knife = Faca
+			Spoon = Colher
+			Fork = Garfo
+			Chopsticks = Pauzinhos
+			Dish = "Lou\x00e7a"
+			Cup = Caneca
+		}
+		Food
+		{
+			Food = Comida
+			Rice = Arroz
+			Soup = Sopa
+			Meat = Carne
+			"Grilled meat" = Carne assada
+			Steak = Bife
+			"Hamburger Steak" = Bife de hamburger
+			Hamburger = Hamburger
+			Spaghetti = Espagueti
+			Stew = Ensopado
+			Ramen = Lamen
+			Pizza = Pizza
+			Candy = Doce
+			"Soft-serve ice cream" = Sorvete
+		}
+		Vegetables
+		{
+			Vegetables = Vegetais
+			Rice = Arroz
+			Wheat = Trigo
+			Barley = Cevada
+			Cabbage = Repolho
+			Pepper = Pimenta
+			Carrot = Cenoura
+			Radish = Rabanete
+			Potato = Batata
+			"Sweet potato" = Batata Doce
+			Onion = Cebola
+			Beans = "Feij\x00e3o"
+			Garlic = Alho
+		}
+		Drink
+		{
+			Drink = Bebida
+			Water = "\x00c1gua"
+			Milk = Leite
+			Coffee = "Caf\x00e9"
+			"Black tea" = "Ch\x00e1 preto"
+			Tea = "Ch\x00e1"
+			Juice = Suco
+			Coke = Coca
+		}
+		Material
+		{
+			Material = Material
+			Mineral = Mineral
+			Platinum = Platina
+			Gold = Ouro
+			Silver = Prata
+			Bronze = Bronze
+			Iron = Ferro
+			Steel = "A\x00e7o"
+			Crystal = Cristal
+			Marble = "M\x00e1rmore"
+		}
+		Vehicle
+		{
+			Vehicle = "Ve\x00edculo"
+			Car = Carro
+			Bike = Bike
+			Bicycle = Bicicleta
+			Tank = Tanque
+			Jeep = Jipe
+		}
+		Plane
+		{
+			Plane = "Avi\x00e3o"
+			Interceptor = Interceptor
+			"Unmanned aircraft" = "Avi\x00e3o n\x00e3o-tripulado"
+			Helicopter = "Helic\x00f3ptero"
+			Balloon = "Bal\x00e3o"
+			"Hang glider" = Asa Delta
+			Parachute = "p\x00e1ra-quedas"
+		}
+		Ship
+		{
+			Ship = Navio
+			Yacht = Iate
+			Raft = Jangada
+			Ferry = Balsa
+			Warship = Navio de guerra
+			"Mother ship" = "Nave-m\x00e3e"
+			Submarine = Submarino
+		}
+	}
+}

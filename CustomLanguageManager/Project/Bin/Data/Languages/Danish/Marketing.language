@@ -1,0 +1,105 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Du kan hente det GRATIS spil NU
+			"FREE app of the day!" = Dagens GRATIS App
+			"Today for FREE" = GRATIS i dag
+			"Daily FREE apps" = Dagligt GRATIS Apps
+			"Play for FREE" = Spil GRATIS
+			"Download for FREE" = Hent Gratis
+			"FREE to download" = Hent Gratis
+			"You have won ..." = Du har vundet ...
+			"Collect your prize now !" = "F\x00e5 din pr\x00e6mie nu!"
+			"Coming soon to (pick market)" = Kommer snart til
+			"Easy to learn yet hard to master" = "Let at l\x00e6re, men sv\x00e6rt at mestre"
+			"Game contains in-app purchases" = "Spillet indeholder in-app k\x00f8b"
+			"Game requires internet connection" = "Spillet kr\x00e6ver internet-forbindelse"
+		}
+		"IAP - Modal title"
+		{
+			"Upgrade to full version" = Opgrader til fuld version
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+			"Already purchased?" = "Allerede k\x00f8bt?"
+		}
+		"IAP - Message A"
+		{
+			"Upgrading..." = Opgraderer...
+		}
+		"IAP - Message B"
+		{
+			"Restoring..." = Genopretter...
+		}
+		"IAP - Final message 1st line A"
+		{
+			"Thank you for upgrading!" = Tak for at opgradere!
+		}
+		"IAP - Final message 1st line B"
+		{
+			"Your purchased has been restored!" = "Dine k\x00f8b er blevet genoprettet!"
+		}
+		"IAP - Final message 2nd line"
+		{
+			"Enjoy the full version ;)" = "Nyd den fulde version ;)"
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "K\x00f8b fejlede"
+			"Purchase cancelled" = "K\x00f8b afbrudt"
+			"Please try again later" = "Pr\x00f8v igen senere"
+			"Store is not available" = "Butikken er ikke tilg\x00e6ngelig"
+			Restore = Gendan
+			"Restore all purchases to this device ?" = "Gendan alle k\x00f8b til denne enhed?"
+			"Remove ads" = Fjern reklamer
+			"Double time" = Dobbelt tid
+			"Double gold" = Dobbelt guld
+			"Double lives" = Dobbelt liv
+			"Restore Now" = Gendan nu
+			"Unlock ..." = "L\x00e5s op"
+			"..." = Opgrader
+			"No ads" = Ingen reklamer
+			"Buy hints" = "K\x00f8b hints"
+			"Buy gold" = "K\x00f8b guld"
+			"Buy gems" = "K\x00f8b \x00e6delsten"
+			"Get full version" = "F\x00e5 den fulde version"
+			"Get a refund" = "F\x00e5 dine penge retur"
+			"Unlock all levels" = "Opl\x00e5s alle niveauer"
+			"Unlock all game modes" = "Opl\x00e5s alle spiltyper"
+			"Get more hints" = "F\x00e5 flere tips"
+			"Get more gold for FREE" = "F\x00e5 mere guld GRATIS"
+		}
+		question
+		{
+			"How do you rate this game?" = "Hvordan bed\x00f8mmer du spillet?"
+			"Would you like to rate & review game now ?" = "Vil du gerne bed\x00f8mme spillet nu?"
+			"Do you like our game ?" = Kan du lide vores spil?
+			"Would you like to provide feedback to developers ?" = Vil du give feedback til udviklerne?
+			"Would you like to watch game trailer ?" = Vil du se en spiltrailer?
+			"Would you like to watch video game tutorial ?" = Vil du gerne se introduktions videoen?
+		}
+	}
+}

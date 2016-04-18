@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		Character
+		{
+		}
+		Family
+		{
+		}
+		fantasy
+		{
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+		}
+		Occupation
+		{
+		}
+	}
+}

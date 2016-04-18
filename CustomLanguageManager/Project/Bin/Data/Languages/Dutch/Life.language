@@ -1,0 +1,102 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		Cooking
+		{
+			Pan = Pan
+			Pot = Pot
+			"Kitchen knife" = Keukenmes
+		}
+		Tableware
+		{
+			Knife = Mes
+			Spoon = Lepel
+			Fork = Vork
+			Chopsticks = Eetstokjes
+			Dish = Bord
+			Cup = Kopje
+		}
+		Food
+		{
+			Food = Voedsel
+			Rice = Rijst
+			Soup = Soep
+			Meat = Vlees
+			"Grilled meat" = Gegrild vlees
+			Steak = Steak
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Stoofpot
+			Pizza = Pizza
+			Candy = Snoep
+			"Soft-serve ice cream" = Softijs
+		}
+		Vegetables
+		{
+			Vegetables = groenten
+			Rice = rijst
+			Cabbage = kool
+			Pepper = peper
+			Carrot = wortel
+			Radish = radijs
+			Potato = aardappel
+			Onion = ui
+			Beans = bonen
+			Garlic = knoflook
+		}
+		Drink
+		{
+			Drink = drinken
+			Water = water
+			Milk = melk
+			Coffee = koffie
+			"Black tea" = zwarte thee
+			Tea = thee
+			Juice = sap
+			Coke = cola
+		}
+		Material
+		{
+			Material = materiaal
+			Mineral = mineraal
+			Platinum = platinum
+			Gold = goud
+			Silver = zilver
+			Bronze = brons
+			Iron = ijzer
+			Steel = staal
+			Crystal = kristal
+			Marble = marmer
+		}
+		Vehicle
+		{
+			Vehicle = voertuig
+			Car = auto
+			Bike = motor
+			Bicycle = fiets
+			Tank = tank
+			Jeep = jeep
+		}
+		Plane
+		{
+			Plane = vliegtuig
+			Helicopter = helicopter
+			Parachute = parachute
+		}
+		Ship
+		{
+			Yacht = jacht
+			Raft = vlot
+			Ferry = veerboot
+			Tanker = tanker
+			"Mother ship" = moederschip
+			Submarine = duikboot
+		}
+	}
+}

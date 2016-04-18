@@ -1,0 +1,103 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		Direction
+		{
+			"Move Left" = "\x5411\x5de6\x79fb\x52a8"
+			"Move right" = "\x5411\x53f3\x79fb\x52a8"
+			"Move up" = "\x5411\x4e0a\x79fb\x52a8"
+			"Move down" = "\x5411\x4e0b\x79fb\x52a8"
+			"Move forward" = "\x5411\x524d\x79fb\x52a8"
+			North = "\x5317"
+			South = "\x5357"
+			East = "\x4e1c/\x6771"
+			West = "\x897f"
+			Northeast = "\x6771\x5317"
+			Southeast = "\x6771\x5357"
+			Northwest = "\x897f\x5317"
+			Southwest = "\x897f\x5357"
+		}
+		Building
+		{
+			Castle = "\x57ce\x5821"
+			"Castle town" = "\x57ce\x4e0b\x753a"
+			City = "\x57ce\x5e02"
+			Town = "\x5c0f\x9547"
+			Village = "\x6751\x5e84"
+			Building = "\x5efa\x7bc9\x7269"
+			Dungeon = "\x5730\x7262"
+		}
+		Nature
+		{
+			Nature = "\x81ea\x7136"
+			Forest = "\x68ee\x6797"
+			Mountain = "\x5c71"
+			River = "\x6cb3"
+			Grassland = "\x8349\x5730"
+			"Sandy beach" = "\x6c99\x6ee9"
+			Sea = "\x6d77"
+			Ford = "\x6d45\x6ee9"
+			Cave = "\x6d1e\x7a9f"
+			Shell = "\x8d1d\x58f3"
+		}
+		Plant
+		{
+			Plant = "\x690d\x7269"
+			Flower = "\x82b1"
+			Grass = "\x8349"
+			Tree = "\x6811"
+			Stem = "\x6811\x679d"
+			Root = "\x6811\x6839"
+			Fruit = "\x6c34\x679c"
+			Species = "\x79cd\x7c7b"
+			Sap = "\x6811\x6db2"
+			Seed = "\x79cd\x5b50"
+		}
+		Weather
+		{
+			Weather = "\x5929\x6c14"
+			Air = "\x7a7a\x6c14"
+			Sky = "\x5929\x7a7a"
+			Wind = "\x98ce"
+			Shine = "\x6674\x5929"
+			Cloud = "\x591a\x4e91"
+			Cloudiness = "\x4e91\x91cf"
+			Rain = "\x96e8\x5929"
+			Shower = "\x66b4\x96e8"
+			Thunderstorm = "\x96f7\x9635\x96e8"
+			Thunder = "\x96f7"
+			Fog = "\x96fe"
+			Haze = "\x8584\x96fe"
+			Snow = "\x96ea"
+			Storm = "\x66b4\x98ce\x96e8"
+			Typhoon = "\x53f0\x98ce"
+			Sandstorm = "\x6c99\x5c18\x66b4"
+		}
+		Space
+		{
+			Space = "\x5b87\x5b99"
+			Sun = "\x592a\x9633"
+			Mercury = "\x6c34\x661f"
+			Venus = "\x91d1\x661f"
+			Earth = "\x5730\x7403"
+			Mars = "\x706b\x661f"
+			Jupiter = "\x6728\x661f"
+			Saturn = "\x571f\x661f"
+			Uranus = "\x5929\x738b\x661f"
+			Neptune = "\x6d77\x738b\x661f"
+			Pluto = "\x51a5\x738b\x661f"
+			Moon = "\x6708\x4eae"
+			Star = "\x661f\x661f"
+			Planet = "\x884c\x661f"
+			Comet = "\x5f57\x661f"
+			Meteor = "\x6d41\x661f"
+			Debris = "\x592a\x7a7a\x5783\x573e"
+		}
+	}
+}

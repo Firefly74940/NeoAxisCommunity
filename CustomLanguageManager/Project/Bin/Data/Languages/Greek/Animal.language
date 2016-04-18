@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		animal
+		{
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

@@ -1,0 +1,39 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		Direction
+		{
+		}
+		Building
+		{
+			City = Urbo
+			Village = "Vila\x011do"
+		}
+		Nature
+		{
+			Forest = Arbaro
+		}
+		Plant
+		{
+			Tree = Arbo
+		}
+		Weather
+		{
+			Air = Aero
+			Sky = "\x0108ielo"
+			Rain = Pluvo
+			Snow = "Ne\x011do"
+		}
+		Space
+		{
+			Sun = Suno
+			Earth = Tero
+		}
+	}
+}

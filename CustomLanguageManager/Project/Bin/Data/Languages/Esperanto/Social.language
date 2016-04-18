@@ -1,0 +1,14 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		social
+		{
+		}
+	}
+}

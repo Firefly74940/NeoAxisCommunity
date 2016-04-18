@@ -1,0 +1,33 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		Greetings
+		{
+			Hello = Ahoj
+			Welcome = "V\x00edtej"
+			"Good luck" = "Mnoho \x0161t\x011bst\x00ed"
+			"Have a good day" = "M\x011bj se dob\x0159e"
+			"Welcome back" = "V\x00edtej zp\x011bt"
+			"Good bye" = Na shledanou
+			"Congratulations!" = Gratuluji!
+		}
+		Thanks
+		{
+			"Thank you" = "D\x011bkuji"
+			"Thank you very much" = "D\x011bkuji mnohokr\x00e1t"
+		}
+		shop
+		{
+			Welcome = "V\x00edtej"
+			"What are you looking for?" = "Co sch\x00e1n\x00edte?"
+			"Thanks for your business" = "D\x011bkuji za obchod."
+			"I am looking forward to seeing you again" = "T\x011b\x0161\x00edm se a\x017e v\x00e1s op\x011bt uvid\x00edm."
+		}
+	}
+}

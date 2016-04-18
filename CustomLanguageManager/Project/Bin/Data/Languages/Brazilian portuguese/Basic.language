@@ -1,0 +1,160 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = PT-BR
+		}
+		accounts
+		{
+			"Account name" = "Nome de usu\x00e1rio"
+			"Forgot your password?" = Esqueceu sua senha?
+			"Incorrect login or password" = Login ou senha incorretos
+			Login = Entrar
+			"Login using Facebook account" = Entrar com conta do Facebook
+			Password = Senha
+			Register = Registrar
+			"Remember me on this computer" = Lembrar de mim neste computador
+		}
+		Animal
+		{
+			YES = Sim
+		}
+		"button label"
+		{
+			"About us" = Sobre
+			Achievements = Conquistas
+			Audio = Auditivo
+			Back = Voltar
+			Cancel = Cancelar
+			Challenge = "Desafio/Desafiar"
+			"Choose hero" = "Escolha um her\x00f3i"
+			"Choose language" = Escolha o idioma
+			"Choose level" = "Escolha o n\x00edvel"
+			"Contact us" = Contato
+			Continue = Continuar
+			Controls = Controles
+			Credits = "Cr\x00e9ditos"
+			"Do not know" = "N\x00e3o sabe"
+			Easy = "F\x00e1cil"
+			"Game Center" = Game Center
+			"Game editor" = Editor de jogo
+			"Game mode" = Modo de jogo
+			Hard = "Dif\x00edcil"
+			Help = Ajuda
+			"How to play" = Como jogar
+			Language = Idioma
+			Leaderboards = Ranking
+			"Level Select" = "Selecionar n\x00edvel"
+			"Load Game" = Carregar Jogo
+			Loot = Pilhagem
+			"Main Menu" = Menu principal
+			Married = Casado
+			Menu = Menu
+			"More Apps" = Mais apps
+			"More Games" = Mais Jogos
+			"New Game" = Novo Jogo
+			"New order" = Nova encomenda
+			Next = "Pr\x00f3ximo"
+			Normal = Normal
+			Options = "Configura\x00e7\x00f5es"
+			"Order Online" = Encomenda online
+			Pause = Pausa
+			"Pick character" = Escolha um personagem
+			Play = Jogar
+			"Play Again" = Jogar outra vez
+			Preferences = "Prefer\x00eancias"
+			Previous = Anterior
+			Quit = Sair
+			"Remind me later" = Lembre-me mais tarde
+			Replay = Jogar novamente
+			"Reset Options" = "Resetar op\x00e7\x00f5es"
+			Retry = Tentar novamente
+			"Sandbox mode" = Modo Sandbox
+			"Save game" = Salvar Jogo
+			Scoreboard = "Tabela de pontua\x00e7\x00f5es"
+			Search = Procurar
+			Secret = Secreto
+			Shop = Loja
+			Single = Solteiro
+			"Skip Level" = "Pular n\x00edvel"
+			Store = Loja
+			Tutorial = Tutorial
+			"Update order" = Atualizar encomenda
+		}
+		"gameplay label"
+		{
+			"Base score" = "Pontua\x00e7\x00e3o base"
+			"Best results" = Melhor resultado
+			"Best score" = "Melhor pontua\x00e7\x00e3o"
+			"Game over" = Fim de jogo
+			Highscore = "Pontua\x00e7\x00e3o m\x00e1xima"
+			Lives = Vidas
+			"Lives left" = Vidas restantes
+			"Money left" = Dinheiro restante
+			Score = "Pontua\x00e7\x00e3o"
+			Time = Tempo
+			"Time left" = Tempo restante
+			"Total score" = "Pontua\x00e7\x00e3o total"
+			"Your score" = "Sua pontua\x00e7\x00e3o"
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = Idade
+			"All rights reserved" = Todos os direitos reservados
+			"Are you sure you want to quit?" = Tem certeza que deseja sair?
+			bear = Mudo
+			Birthplace = Local de nascimento
+			"Blood type" = "Tipo sangu\x00edneo"
+			"Current address" = "Endere\x00e7o atual"
+			"e-mail" = e-mail
+			Error = Erro
+			"game version" = "Vers\x00e3o do jogo"
+			Marriage = Casamento
+			"Music off" = "M\x00fasica desativada"
+			"Music on?" = "Ativar m\x00fasica?"
+			NO = "N\x00e3o"
+			"No, thanks!" = "N\x00e3o, obrigado!"
+			OK = OK
+			Sex = Sexo
+			"Sort by" = Organizar por
+			"Sound off" = Sons desativados
+			"Sounds on?" = Ativar sons?
+			Warning = Aviso
+			Web = Rede
+			"Yes, sure!" = Sim, claro!
+			"You are here" = "Voc\x00ea est\x00e1 aqui"
+		}
+		"plot / story"
+		{
+			Chapter = "Cap\x00edtulo"
+			Character = Personagem
+			Comics = Quadrinhos
+			Ending = Final
+			"Final Boss" = "Chefe Final/ Chef\x00e3o"
+			Intro = "Introdu\x00e7\x00e3o"
+			Outro = "Ep\x00edlogo"
+			Page = "P\x00e1gina"
+			Stage = Fase
+			Story = "Hist\x00f3ria"
+		}
+		rate
+		{
+			"Please Rate Us!" = Por favor, nos avalie
+			"Rate our app" = Avalie nosso App
+			"Rate Us" = Nos avalie
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = "Editor de n\x00edveis"
+		}
+	}
+}

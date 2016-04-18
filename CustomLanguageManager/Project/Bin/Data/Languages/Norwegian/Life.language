@@ -1,0 +1,114 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		Cooking
+		{
+			Cooking = Matlaging
+			Pan = Panne
+			Pot = Gryte
+			"Kitchen knife" = "Kj\x00f8kkenkniv"
+		}
+		Tableware
+		{
+			Tableware = Servise
+			Knife = Kniv
+			Spoon = Skje
+			Fork = Gaffel
+			Chopsticks = Spisepinner
+			Dish = Rett
+			Cup = Kopp
+		}
+		Food
+		{
+			Food = Mat
+			Rice = Ris
+			Soup = Suppe
+			Meat = "Kj\x00f8tt"
+			"Grilled meat" = "Grillet kj\x00f8tt"
+			Steak = Biff
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Gryterett
+			Ramen = Nudler
+			Pizza = Pizza
+			Candy = Godteri
+			"Soft-serve ice cream" = Softis
+		}
+		Vegetables
+		{
+			Vegetables = "Gr\x00f8nnsaker"
+			Rice = Ris
+			Wheat = Hvete
+			Barley = Bygg
+			Cabbage = "K\x00e5l"
+			Carrot = Gulrot
+			Radish = Reddik
+			Potato = Potet
+			"Sweet potato" = "S\x00f8tpotet"
+			Onion = "L\x00f8k"
+			Beans = "B\x00f8nner"
+			Garlic = "Hvitl\x00f8k"
+		}
+		Drink
+		{
+			Drink = Drikk
+			Water = Vann
+			Milk = Melk
+			Coffee = Kaffe
+			"Black tea" = Sort te
+			Tea = Te
+			Juice = Juice
+			Coke = Cola
+		}
+		Material
+		{
+			Material = Materiale
+			Mineral = Mineral
+			Platinum = Platina
+			Gold = Gull
+			Silver = "S\x00f8lv"
+			Bronze = Bronse
+			Iron = Jern
+			Steel = "St\x00e5l"
+			Crystal = Krystall
+			Marble = Marmor
+		}
+		Vehicle
+		{
+			Vehicle = "Kj\x00f8ret\x00f8y"
+			Car = Bil
+			Bike = Sykkel
+			Bicycle = Sykkel
+			Tank = Tanks
+			Jeep = Jeep
+		}
+		Plane
+		{
+			Plane = Fly
+			Fighter = Jagerfly
+			Airliner = Passasjerfly
+			Helicopter = Helikopter
+			Balloon = Ballong
+			"Hang glider" = Hang glider
+			Parachute = Fallskjerm
+		}
+		Ship
+		{
+			Ship = Skip
+			Yacht = Yacht
+			Ferry = Ferje
+			Tanker = Tanker
+			Warship = Krigsskip
+			Battleship = Kampskip
+			"Aircraft Carrier" = Hangarskip
+			Escort = Eskorte
+			Submarine = "Ub\x00e5t"
+		}
+	}
+}

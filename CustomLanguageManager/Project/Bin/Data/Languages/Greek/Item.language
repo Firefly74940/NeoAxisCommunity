@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		Arms
+		{
+		}
+		Gun
+		{
+		}
+		Protector
+		{
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+		}
+		medicine
+		{
+		}
+	}
+}

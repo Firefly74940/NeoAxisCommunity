@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		Cooking
+		{
+			Cooking = "\xc694\xb9ac"
+			Pan = "\xd6c4\xb77c\xc774\xd32c"
+			Pot = "\xc1a5"
+			"Kitchen knife" = "\xbd80\xc5cc \xce7c"
+		}
+		Tableware
+		{
+			Tableware = "\xc2dd\xae30"
+			Knife = "\xce7c"
+			Spoon = "\xc21f\xac00\xb77d"
+			Fork = "\xd3ec\xd06c"
+			Chopsticks = "\xc813\xac00\xb77d"
+			Dish = "\xc811\xc2dc"
+			Cup = "\xcef5"
+		}
+		Food
+		{
+			Food = "\xc74c\xc2dd"
+			Rice = "\xbc25"
+			Soup = "\xc218\xd504"
+			Meat = "\xace0\xae30"
+			"Grilled meat" = "\xad6c\xc6b4 \xace0\xae30"
+			Steak = "\xc2a4\xd14c\xc774\xd06c"
+			"Hamburger Steak" = "\xd584\xbc84\xac70 \xc2a4\xd14c\xc774\xd06c"
+			Hamburger = "\xd584\xbc84\xac70"
+			Spaghetti = "\xc2a4\xd30c\xac8c\xd2f0"
+			Stew = "\xc2a4\xd29c"
+			Ramen = "\xb77c\xba74"
+			Pizza = "\xd53c\xc790"
+			Candy = "\xc0ac\xd0d5"
+			"Soft-serve ice cream" = "\xc18c\xd504\xd2b8 \xc544\xc774\xc2a4\xd06c\xb9bc"
+		}
+		Vegetables
+		{
+			Vegetables = "\xc57c\xcc44"
+			Rice = "\xc300"
+			Wheat = "\xbc00"
+			Barley = "\xbcf4\xb9ac"
+			Cabbage = "\xbc30\xcd94"
+			Pepper = "\xd6c4\xcd94"
+			Carrot = "\xb2f9\xadfc"
+			Radish = "\xbb34"
+			Potato = "\xac10\xc790"
+			"Sweet potato" = "\xace0\xad6c\xb9c8"
+			Onion = "\xc591\xd30c"
+			Beans = "\xcf69"
+			Garlic = "\xb9c8\xb298"
+		}
+		Drink
+		{
+			Drink = "\xc74c\xb8cc"
+			Water = "\xbb3c"
+			Milk = "\xc6b0\xc720"
+			Coffee = "\xcee4\xd53c"
+			"Black tea" = "\xd64d\xcc28"
+			Tea = "\xcc28"
+			Juice = "\xc8fc\xc2a4"
+			Coke = "\xcf5c\xb77c"
+		}
+		Material
+		{
+			Material = "\xbb3c\xc9c8"
+			Mineral = "\xad11\xbb3c"
+			Platinum = "\xbc31\xae08"
+			Gold = "\xae08"
+			Silver = "\xc740"
+			Bronze = "\xb3d9"
+			Iron = "\xcca0"
+			Steel = "\xac15\xcca0"
+			Crystal = "\xc218\xc815"
+			Marble = "\xb300\xb9ac\xc11d"
+		}
+		Vehicle
+		{
+			Vehicle = "\xd0c8 \xac83"
+			Car = "\xc790\xb3d9\xcc28"
+			Bike = "\xc790\xc804\xac70"
+			Bicycle = "\xc790\xc804\xac70"
+			Tank = "\xc804\xcc28"
+			Jeep = "\xc9c0\xd504"
+		}
+		Plane
+		{
+			Plane = "\xbe44\xd589\xae30"
+			Fighter = "\xc804\xd22c\xae30"
+			Interceptor = "\xc694\xaca9\xae30"
+			"Reconnaissance aircraft" = "\xc815\xcc30\xae30"
+			"Stealth machine" = "\xc2a4\xd154\xc2a4\xae30"
+			Airliner = "\xc5ec\xac1d\xae30"
+			"Unmanned aircraft" = "\xbb34\xc778\xae30"
+			Helicopter = "\xd5ec\xb9ac\xcf65\xd130"
+			Balloon = "\xae30\xad6c"
+			"Hang glider" = "\xd589\xae00\xb77c\xc774\xb354"
+			Parachute = "\xb099\xd558\xc0b0"
+		}
+		Ship
+		{
+			Ship = "\xbc30"
+			Yacht = "\xc694\xd2b8"
+			Raft = "\xb55f\xbaa9"
+			Ferry = "\xc5f0\xb77d\xc120"
+			Tanker = "\xb300\xd615\xc120"
+			Warship = "\xad70\xd568"
+			Battleship = "\xc804\xd568"
+			"Mother ship" = "\xbaa8\xc120"
+			"Aircraft Carrier" = "\xd56d\xacf5\xbaa8\xd568"
+			Escort = "\xd638\xc704\xd568"
+			Submarine = "\xc7a0\xc218\xd568"
+		}
+	}
+}

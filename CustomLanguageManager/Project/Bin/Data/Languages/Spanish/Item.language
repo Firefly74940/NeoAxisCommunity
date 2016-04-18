@@ -1,0 +1,109 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		Arms
+		{
+			Sword = Espada
+			Longsword = Espada larga
+			Dagger = "Navaja/Daga"
+			Katana = Katana
+			Whip = "L\x00e1tigo"
+			Knife = Cuchillo
+			Cane = "Bast\x00f3n"
+			Wand = Varita
+			Bow = Arco
+			Knuckles = Nudillos
+			Katar = Katar
+			Mace = Mazo
+			Axe = Hacha
+			Staff = Vara
+			Crossbow = Ballesta
+		}
+		Gun
+		{
+			Pistol = Pistola
+			Rifle = Rifle
+			"Sniper rifle" = Recortada
+			"Machine gun" = Metralleta
+			Cannon = "Ca\x00f1on"
+			"Laser rifle" = "Rifle l\x00e1ser"
+			"Beam gun" = "Pistola de r\x00e1fagas"
+		}
+		Protector
+		{
+			Shield = Escudo
+			Armor = Armadura
+			Helmet = Casco
+			Forearm = Antebrazo
+			Mantle = Manto
+			Boots = Botas
+			"Chain mail" = Cota de malla
+			Belt = "Cintur\x00f3n"
+			Crown = Corona
+		}
+		Accessory
+		{
+			Accessory = Accesorio
+			Jewelry = "Joyer\x00eda"
+			Ring = Anillo
+			Pierce = Pendiente
+			Necklace = Collar
+			Bracelet = "Brazalete/Pulsera"
+		}
+		Costume
+		{
+			Costume = Indumentaria
+			Clothing = Vestimenta
+			Clothes = Ropa
+			Jacket = Chaqueta
+			Underwear = Ropa interior
+			Socks = Calcetines
+			Sweater = Jersey
+			Sleepwear = Ropa de dormir
+			Pajamas = Pijama
+			Bra = Sujetador
+			Panties = Panties
+			Stockings = Medias
+			"Garter belt" = Liguero
+			Makeup = Maquillaje
+			Lipstick = Barra de labios
+			Perfume = Perfume
+			Swimsuit = "Ba\x00f1ador"
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = Movimientos especiales
+			Swordsmanship = Destreza con la espada
+		}
+		Magic
+		{
+			Magic = Magia
+			Apparition = "Aparici\x00f3n"
+			Recovery = "Recuperaci\x00f3n"
+			"Attack magic" = "Ataque m\x00e1gico"
+		}
+		item
+		{
+			Coin = Moneda
+			Clock = Reloj
+			Artifact = Artefacto
+			Fossil = "F\x00f3sil"
+			Bone = Hueso
+		}
+		medicine
+		{
+			medicine = Medicina
+			"Recovery medicine" = "Medicina de recuperaci\x00f3n"
+			Antidote = "Ant\x00eddoto"
+			"Revival medicine" = "Medicina de reanimaci\x00f3n"
+			Herb = Hierba
+		}
+	}
+}

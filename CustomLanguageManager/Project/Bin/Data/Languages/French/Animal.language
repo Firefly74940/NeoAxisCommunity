@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		animal
+		{
+			Animal = Animal
+			Animals = Animaux
+			Pet = Animal de compagnie
+			Human = Humain
+			Monkey = Singe
+			Gorilla = Gorille
+			Orangutan = Orang-outan
+			Dog = Chien
+			Cat = Chat
+			Puppy = Chiot
+			Kitten = Chaton
+			Rat = Rat
+			Squirrel = "\x00e9cureuil"
+			"Guinea pig" = "Cochon d\'inde"
+			Cattle = Troupeau
+			Pig = Cochon
+			Wolf = Loup
+			Bear = Ours
+			Panda = Panda
+			"Polar bear" = Ours polaire
+			Bat = Chauve-souris
+			Tiger = Tigre
+			Lion = Lion
+			Cheetah = "L\x00e9opard"
+			Panther = "Pant\x00e8re"
+			Hyena = "Hy\x00e8ne"
+			Fox = Renard
+			"Raccoon dog" = Raton-laveur
+			Horse = Cheval
+			Deer = Daim
+			Zebra = "Z\x00e8bre"
+			Camel = Chameau
+			Ass = "\x00c2ne"
+			Giraffe = Girafe
+			Elephant = "\x00e9l\x00e9phant"
+			Rhinoceros = "Rhinoc\x00e9ros"
+			Hippopotamus = Hippopotame
+			Mammoth = Mammouth
+			Koala = Koala
+			Kangaroo = Kangourou
+			Sloth = Paresseux
+			Cow = Vache
+			Ox = Boeuf
+			Rabbit = Lapin
+		}
+		Bird
+		{
+			Birds = Oiseaux
+			Sparrow = "M\x00e9sange"
+			Crow = Corbeau
+			Penguin = Pingouin
+			Hawk = Faucon
+			Eagle = Aigle
+			Condor = Condor
+			Swan = Cygne
+			Duck = Canard
+		}
+		Insect
+		{
+			Insect = Insecte
+			Butterfly = Papillon
+			Moth = Papillon de nuit
+			Mantis = Mante
+			"Rhinoceros beetle" = "Scarab\x00e9e"
+			"Stag beetle" = Lucane
+			Beetle = "Col\x00e9opt\x00e8re"
+			Mosquito = Moustique
+			Ladybug = Coccinelle
+			Spider = "Araign\x00e9e"
+			Dragonfly = Libellule
+		}
+		fish
+		{
+			Fish = Poisson
+			Shark = Requin
+			Whale = Baleine
+			Dolphin = Dauphin
+			Octopus = Poulpe
+			Squid = Calamar
+		}
+		Reptiles
+		{
+			Reptiles = Reptiles
+			Gator = Crocodile
+			Lizard = "L\x00e9zard"
+			Newt = Triton
+			Gecko = Gecko
+			Snake = Serpent
+			Turtle = Tortue
+			Chameleon = "Cam\x00e9l\x00e9on"
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaure
+			Tyrannosaurus = Tyrannosaure
+			Pteranodon = "Pt\x00e9ranodon"
+			Triceratops = "Tric\x00e9ratops"
+			Plesiosaur = "Pl\x00e9siosaure"
+			Stegosaurus = "St\x00e9gosaure"
+			Protoceratops = "Protoc\x00e9ratops"
+			Iguanodon = Iguanodon
+		}
+	}
+}

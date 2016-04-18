@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		animal
+		{
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

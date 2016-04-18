@@ -1,0 +1,119 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		Direction
+		{
+			Direction = Kierunek
+			"Move Left" = W lewo
+			"Move right" = W prawo
+			"Move up" = "Do g\x00f3ry"
+			"Move down" = "Do do\x0142u"
+			"Move forward" = "Naprz\x00f3d"
+			North = "P\x00f3\x0142noc"
+			South = "Po\x0142udnie"
+			East = "Wsch\x00f3d"
+			West = "Zach\x00f3d"
+			Northeast = "P\x00f3\x0142nocny wsch\x00f3d"
+			Southeast = "Po\x0142udniowy wsch\x00f3d"
+			Northwest = "P\x00f3\x0142nocny zach\x00f3d"
+			Southwest = "Po\x0142udniowy zach\x00f3d"
+		}
+		Building
+		{
+			Castle = Zamek
+			"Castle town" = Miasto zamkowe
+			City = Miasto
+			Town = Miasteczko
+			Village = Wioska
+			Building = Budynek
+			Hut = Chata
+			Dungeon = Lochy
+			Well = Studnia
+			Jail = "Wi\x0119zienie"
+		}
+		Nature
+		{
+			Nature = Natura
+			Forest = Las
+			Mountain = "G\x00f3ry"
+			"Dense forest" = "G\x0119sty las"
+			Amazon = Amazonia
+			River = Rzeka
+			Grassland = "\x0141\x0105ka"
+			"Sandy beach" = "Pla\x017ca"
+			Sea = Morze
+			Ford = "Br\x00f3d"
+			Cave = Jaskinia
+			Underground = Podziemie
+			Underworld = "Podziemny \x015bwiat"
+			Shell = Skorupa
+			Desert = Pustynia
+			Sand = Piasek
+			Stone = "Kamie\x0144"
+			Rock = "Ska\x0142a"
+			Mud = "B\x0142oto"
+		}
+		Plant
+		{
+			Plant = "Ro\x015blina"
+			Flower = Kwiat
+			Grass = Drzewo
+			Tree = Trawa
+			Stem = "\x0141odyga"
+			Root = "Korze\x0144"
+			Fruit = Owoc
+			Species = Gatunek
+			Sap = "\x017bywica / Sok ro\x015blinny"
+			Seed = Nasiono
+		}
+		Weather
+		{
+			Weather = Pogoda
+			Air = Powietrze
+			Sky = Niebo
+			Wind = Wiatr
+			Shine = Blask
+			Cloud = Chmura
+			Cloudiness = Pochmurnie
+			Rain = Deszcz
+			Shower = Silny deszcz
+			Thunderstorm = Burza z piorunami
+			Thunder = Piorun
+			Fog = "Mg\x0142a"
+			Haze = "Zm\x0119tnienie"
+			Snow = "\x015anieg"
+			Sleet = "S\x0142ota"
+			Hail = Wiatr halny
+			Storm = Sztorm
+			Typhoon = Tajfun
+			Sandstorm = Burza piaskowa
+		}
+		Space
+		{
+			Space = Kosmos
+			Sun = "S\x0142o\x0144ce"
+			Mercury = Merkury
+			Venus = Wenus
+			Earth = Ziemia
+			Mars = Mars
+			Jupiter = Jowisz
+			Saturn = Saturn
+			Uranus = Uran
+			Neptune = Neptun
+			Pluto = Pluton
+			Moon = "Ksi\x0119\x017cyc"
+			Star = Gwiazda
+			Planet = Planeta
+			Comet = Kometa
+			Meteor = Meteor
+			Satellite = Satelita
+			Debris = "Py\x0142 gwiezdny"
+		}
+	}
+}

@@ -1,0 +1,194 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		Character
+		{
+			Male = Uomo
+			Woman = Donna
+			Youth = Giovane
+			"Mrs." = Sig.
+			Adult = Adulto
+			Children = Bambino
+			Boy = Ragazzo
+			Girl = Ragazza
+			"Old man" = Anziano
+			"Old woman" = Anziana
+			Gentleman = Gentiluomo
+			Lady = Signora
+			Character = Personaggio
+			Hero = Eroe
+			"Supporting role" = Ruolo secondario
+			"Small role" = Piccolo ruolo
+			"Role of the villain" = Ruolo del furfante
+			Heroine = Eroina
+			Fellow = Inseguitore
+			Friend = Amico
+			"Formidable enemy" = Nemico formidabile
+			Revenge = Vendetta
+		}
+		Family
+		{
+			Family = Famiglia
+			Grandfather = Nonno
+			Grandmother = Nonna
+			Father = "Pap\x00e0"
+			Mother = Mamma
+			"(Elder) Brother" = Fratello
+			"(Younger) Brother" = Fratello
+			"(Elder) Sister" = Sorella
+			"(Younger) Sister" = Sorella
+			Child = Bambino
+			Son = Figlio
+			Daughter = Figlia
+			Grandson = Nipote (m)
+			"Grand-daughter" = Nipote (f)
+			"Great-grandson" = Pronipote
+			Relative = Familiare
+			Uncle = Zio
+			Aunt = Zia
+			"The cousin" = Cugino primo
+			"Female cousin" = Cugina prima
+		}
+		fantasy
+		{
+			Savior = Salvatore
+			Fighter = Combattente
+			Priest = Prete
+			Magician = Mago
+			Sage = Saggio
+			Summoner = Convocatore
+			Alchemist = Alchimista
+			Knight = Cavaliere
+			Swordsman = Spadaccino
+			"Kung fu master" = Maestro di Kung Fu
+			Hunter = Cacciatore
+			Rogue = Ladro
+			Adventurer = Avvevturiere
+			Ninja = Ninja
+			Samurai = Samurai
+			"Dragon knight" = Cavaliere del dragone
+			Assassin = Assassino
+			Spy = Spia
+			Dancer = Ballerino
+			Raver = Festaiolo
+			Merchant = Mercante
+			Robot = Robot
+			Android = Androide
+			Paladin = Paladino
+			Crusader = Crociato
+			Wizard = Mago
+			Warlock = Stregone
+			Sorcerer = Fattucchiere
+			Monk = Monaco
+		}
+		Army
+		{
+			Army = Esercito
+			Commander = Comandante
+			General = Generale
+			Captain = Capitano
+			Infantry = Soldato
+			"Light infantry" = Fanteria leggera
+			"Heavy Infantry" = Fanteria pesante
+			"Soldier rifle" = Fuciliere
+			Sniper = Cecchino
+			Grenadier = Granatiere
+			"Infantry long spear" = Lanceri
+			Engineer = Ingegnere
+			Bowman = Arciere
+			Cavalry = Cavalleria
+			"Light cavalry" = Cavalleria leggera
+			"Cavalry hunting" = Cavalleria da caccia
+			Lancer = Lancere
+			"Heavy cavalry" = Cavalleria pesante
+			Artillery = Artiglieria
+			"Fast moving artillery" = Artiglieria leggera
+			"Armored soldiers" = Corazziere
+			"Fast armored soldier" = Corazziere leggero
+			"Spear soldier machine" = Balestra
+			Tanker = Carrista
+			"Armored infantry" = Fanteria corazzata
+			"Dragon soldier armor" = Corazziere del dragone
+			Guardsman = Guardia
+			"Soldier Development" = Sviluppo soldati
+			Scout = Esploratore
+			"Soldier messenger" = Messaggero
+			"Frontier guards" = Guardia di frontiera
+			"Guard fortress" = Guardia della fortezza
+			"Guards colony" = Guardia della colonia
+			"Special branch of the army" = "Reparto speciale dell\'esercito"
+			"Border guard" = Guardia di confine
+			"Fire fighting soldier" = Soldato pompiere
+			"Soldiers rescue" = Soldati di soccorso
+			"Sky soldier" = Aviatore
+		}
+		Class
+		{
+			Class = Classe
+			Marshal = Maresciallo
+			General = "Generale di corpo d\'armata"
+			"Lieutenant general" = Generale aggiunto
+			"Major general" = Generale di divisione
+			"Brigadier General" = Generale di brigata
+			Colonel = Colonnello
+			"Lieutenant Colonel" = Tenente colonnello
+			Major = Maggiore
+			Captain = Capitano
+			Lieutenant = Sottotenente
+			"Second lieutenant" = Sottufficiale
+			"Warrant officer" = Ufficiale alla sicurezza
+			"Chief warrant officer" = Ufficiale capo alla sicurezza
+			"Master Sergeant" = Sergente istruttore
+			Sergeant = Sergente
+			Corporal = Caporale
+			"Lance corporal" = Caporale dei lanceri
+			"First class soldier" = Soldato scelto
+			"Buck private" = Mercenario
+		}
+		Position
+		{
+			Position = Posizione
+			Emperor = Imperatore
+			Empress = Imperatrice
+			King = Re
+			Queen = Regina
+			Prince = Principe
+			Princess = Principessa
+			Royal = Reale
+			Duke = Duca
+			Duchess = Duchessa
+			Count = Conte
+			Countess = Contessa
+			Noble = Nobile
+			Merchant = Mercante
+			Villager = Villico
+			Farmers = Contadino
+			Slave = Schiavo
+		}
+		Occupation
+		{
+			Occupation = Occupazione
+			Craftsman = Artigiano
+			Carpenter = Carpentiere
+			Bakery = Panettiere
+			Butcher = Macellaio
+			Greengrocer = Verduriere
+			"Liquor store" = Oste
+			Inn = Locandiere
+			Traveler = Viaggiatore
+			Teacher = Insegnante
+			"(Female) Teacher" = Professore
+			Disciple = Disciplina
+			Apprentice = Apprendista
+			Gambler = Giocatore
+			Whore = Puttana
+			"Wanted man" = Ricercato
+		}
+	}
+}

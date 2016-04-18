@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		Character
+		{
+		}
+		Family
+		{
+		}
+		fantasy
+		{
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+		}
+		Occupation
+		{
+		}
+	}
+}

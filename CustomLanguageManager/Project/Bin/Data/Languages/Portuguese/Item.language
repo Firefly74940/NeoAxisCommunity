@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		Arms
+		{
+		}
+		Gun
+		{
+		}
+		Protector
+		{
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+		}
+		medicine
+		{
+		}
+	}
+}

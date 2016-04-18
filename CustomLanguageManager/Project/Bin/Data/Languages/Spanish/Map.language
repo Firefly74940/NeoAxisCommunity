@@ -1,0 +1,118 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		Direction
+		{
+			"Move Left" = Izquierda
+			"Move right" = Derecha
+			"Move up" = Arriba
+			"Move down" = Abajo
+			"Move forward" = Mover hacia delante
+			North = Norte
+			South = Sur
+			East = Este
+			West = Oeste
+			Northeast = Noreste
+			Southeast = Sureste
+			Northwest = Noroeste
+			Southwest = Suroeste
+		}
+		Building
+		{
+			Castle = Castillo
+			"Castle town" = Ciudad del castillo
+			City = Ciudad
+			Town = Ciudad
+			Village = Pueblo
+			Building = Edificio
+			Hut = Casa campestre
+			Dungeon = Mazmorra
+			Well = Pozo
+			Jail = "C\x00e1rcel"
+		}
+		Nature
+		{
+			Nature = Naturaleza
+			Forest = Bosque
+			Mountain = "Monta\x00f1a"
+			"Dense forest" = Selva
+			Amazon = "Amazon\x00eda"
+			River = Rio
+			Grassland = Zona verde
+			"Sandy beach" = Playa arenosa
+			Sea = Mar
+			Ford = Vado
+			Cave = Caverna
+			Underground = Bajo tierra
+			Underworld = Inframundo
+			Shell = Concha
+			Desert = Desierto
+			Sand = Arena
+			Stone = Roca
+			Rock = Piedra
+			Mud = Barro
+		}
+		Plant
+		{
+			Plant = Planta
+			Flower = Flor
+			Grass = "\x00c1rbol"
+			Tree = Hierba
+			Stem = Tallo
+			Root = "Ra\x00edz"
+			Fruit = "\x00c1rbol"
+			Species = Especies
+			Sap = Savia
+			Seed = Semilla
+		}
+		Weather
+		{
+			Weather = Tiempo
+			Air = Aire
+			Sky = Cielo
+			Wind = Viento
+			Shine = Brillo
+			Cloud = Nube
+			Cloudiness = Nuboso
+			Rain = Lluvia
+			Shower = Ducha
+			Thunderstorm = "Tormenta el\x00e9ctrica"
+			Thunder = Trueno
+			Fog = Niebla
+			Haze = Neblina
+			Snow = Nieve
+			Sleet = Aguanieve
+			Hail = Granizo
+			Storm = Tormenta
+			Typhoon = "Tif\x00f3n"
+			Sandstorm = Tormenta de arena
+		}
+		Space
+		{
+			Space = Espacio
+			Sun = Sol
+			Mercury = Mercurio
+			Venus = Venus
+			Earth = Tierra
+			Mars = Marte
+			Jupiter = "J\x00fapiter"
+			Saturn = Saturno
+			Uranus = Urano
+			Neptune = Neptuno
+			Pluto = Pluton
+			Moon = Mes
+			Star = Estrella
+			Planet = Planeta
+			Comet = Cometa
+			Meteor = Meteorito
+			Satellite = "Sat\x00e9lite"
+			Debris = Ruinas
+		}
+	}
+}

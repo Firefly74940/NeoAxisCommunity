@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = JAPANESE
+		}
+		Cooking
+		{
+			Cooking = "\x6599\x7406"
+			Pan = "\x30d5\x30e9\x30a4\x30d1\x30f3"
+			Pot = "\x934b"
+			"Kitchen knife" = "\x5305\x4e01"
+		}
+		Tableware
+		{
+			Tableware = "\x98df\x5668"
+			Knife = "\x30ca\x30a4\x30d5"
+			Spoon = "\x30b9\x30d7\x30fc\x30f3"
+			Fork = "\x30d5\x30a9\x30fc\x30af"
+			Chopsticks = "\x7bb8"
+			Dish = "\x76bf"
+			Cup = "\x30ab\x30c3\x30d7"
+		}
+		Food
+		{
+			Food = "\x98df\x3079\x7269"
+			Rice = "\x3054\x98ef"
+			Soup = "\x30b9\x30fc\x30d7"
+			Meat = "\x8089"
+			"Grilled meat" = "\x713c\x8089"
+			Steak = "\x30b9\x30c6\x30fc\x30ad"
+			"Hamburger Steak" = "\x30cf\x30f3\x30d0\x30fc\x30b0"
+			Hamburger = "\x30cf\x30f3\x30d0\x30fc\x30ac\x30fc"
+			Spaghetti = "\x30b9\x30d1\x30b2\x30c6\x30a3\x30fc"
+			Stew = "\x30b7\x30c1\x30e5\x30fc"
+			Ramen = "\x30e9\x30fc\x30e1\x30f3"
+			Pizza = "\x30d4\x30b6"
+			Candy = "\x98f4/\x30ad\x30e3\x30f3\x30c7\x30a3\x30fc"
+			"Soft-serve ice cream" = "\x30bd\x30d5\x30c8\x30af\x30ea\x30fc\x30e0"
+		}
+		Vegetables
+		{
+			Vegetables = "\x91ce\x83dc"
+			Rice = "\x7c73"
+			Wheat = "\x5c0f\x9ea6"
+			Barley = "\x5927\x9ea6"
+			Cabbage = "\x30ad\x30e3\x30d9\x30c4"
+			Pepper = "\x30d4\x30fc\x30de\x30f3"
+			Carrot = "\x30cb\x30f3\x30b8\x30f3"
+			Radish = "\x5927\x6839"
+			Potato = "\x3058\x3083\x304c\x3044\x3082"
+			"Sweet potato" = "\x30b5\x30c4\x30de\x30a4\x30e2"
+			Onion = "\x30bf\x30de\x30cd\x30ae"
+			Beans = "\x8c46"
+			Garlic = "\x30cb\x30f3\x30cb\x30af"
+		}
+		Drink
+		{
+			Drink = "\x98f2\x307f\x7269"
+			Water = "\x6c34"
+			Milk = "\x725b\x4e73"
+			Coffee = "\x30b3\x30fc\x30d2\x30fc"
+			"Black tea" = "\x7d05\x8336"
+			Tea = "\x304a\x8336"
+			Juice = "\x30b8\x30e5\x30fc\x30b9"
+			Coke = "\x30b3\x30fc\x30e9"
+		}
+		Material
+		{
+			Material = "\x6750\x6599"
+			Mineral = "\x9271\x7269"
+			Platinum = "\x30d7\x30e9\x30c1\x30ca/\x767d\x91d1"
+			Gold = "\x30b4\x30fc\x30eb\x30c9/\x91d1"
+			Silver = "\x30b7\x30eb\x30d0\x30fc/\x9280"
+			Bronze = "\x30d6\x30ed\x30f3\x30ba/\x9752\x9285"
+			Iron = "\x9244"
+			Steel = "\x92fc"
+			Crystal = "\x30af\x30ea\x30b9\x30bf\x30eb"
+			Marble = "\x5927\x7406\x77f3"
+		}
+		Vehicle
+		{
+			Vehicle = "\x4e57\x308a\x7269"
+			Car = "\x81ea\x52d5\x8eca"
+			Bike = "\x30d0\x30a4\x30af"
+			Bicycle = "\x81ea\x8ee2\x8eca"
+			Tank = "\x6226\x8eca"
+			Jeep = "\x30b8\x30fc\x30d7"
+		}
+		Plane
+		{
+			Plane = "\x98db\x884c\x6a5f"
+			Fighter = "\x6226\x95d8\x6a5f"
+			Interceptor = "\x8fce\x6483\x6a5f"
+			"Reconnaissance aircraft" = "\x5075\x5bdf\x6a5f"
+			"Stealth machine" = "\x30b9\x30c6\x30eb\x30b9\x6a5f"
+			Airliner = "\x65c5\x5ba2\x6a5f"
+			"Unmanned aircraft" = "\x7121\x4eba\x6a5f"
+			Helicopter = "\x30d8\x30ea\x30b3\x30d7\x30bf\x30fc"
+			Balloon = "\x6c17\x7403"
+			"Hang glider" = "\x30cf\x30f3\x30b0\x30b0\x30e9\x30a4\x30c0\x30fc"
+			Parachute = "\x30d1\x30e9\x30b7\x30e5\x30fc\x30c8"
+		}
+		Ship
+		{
+			Ship = "\x8239"
+			Yacht = "\x30e8\x30c3\x30c8"
+			Raft = "\x3044\x304b\x3060"
+			Ferry = "\x30d5\x30a7\x30ea\x30fc"
+			Tanker = "\x30bf\x30f3\x30ab\x30fc"
+			Warship = "\x8ecd\x8266"
+			Battleship = "\x6226\x8266"
+			"Mother ship" = "\x6bcd\x8266"
+			"Aircraft Carrier" = "\x7a7a\x6bcd"
+			Escort = "\x8b77\x885b\x8266"
+			Submarine = "\x6f5c\x6c34\x8266"
+		}
+	}
+}

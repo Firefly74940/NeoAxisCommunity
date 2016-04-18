@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		Greetings
+		{
+			Hello = Hallo
+			"How do you do" = Wie geht es dir?
+			Welcome = Willkommen
+			"Please enjoy" = "Viel Spa\x00df!"
+			"Good luck" = "Viel Gl\x00fcck!"
+			"Have a good day" = "Sch\x00f6nen Tag!"
+			"Welcome back" = "Willkommen zur\x00fcck"
+			"Cheers for good work" = "Danke f\x00fcr die gute Arbeit"
+			"Good bye" = Auf Wiedersehen
+			"Congratulations!" = "Gl\x00fcckwunsch!"
+		}
+		Thanks
+		{
+			"Thank you" = Danke!
+			"Thank you very much" = Vielen Dank
+		}
+		shop
+		{
+			Welcome = Willkommen
+			"What are you looking for?" = Was suchen Sie?
+			"Thanks for your business" = "Vielen Dank f\x00fcr Ihren Auftrag!"
+			"I am looking forward to seeing you again" = Ich freue mich, Sie wieder zu sehen
+		}
+	}
+}

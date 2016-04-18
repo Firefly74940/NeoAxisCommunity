@@ -1,0 +1,41 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		color
+		{
+			Orange = Oransje
+			Red = "R\x00f8d"
+			Blue = "Bl\x00e5"
+			Green = "Gr\x00f8nn"
+			Yellow = Gul
+			Cyan = Cyan
+			White = Hvit
+			Black = Svart
+			Gray = "Gr\x00e5"
+			Violet = Fiolett
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Hopp
+			Heal = Hel
+			Shoot = Skyt
+			Collect = Samle inn
+			Destroy = "\x00d8delegg"
+			Defend = Forsvar
+		}
+		Move
+		{
+			Run = "L\x00f8p"
+			Escape = "R\x00f8m"
+		}
+	}
+}

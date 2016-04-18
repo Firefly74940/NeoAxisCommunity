@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = GREEK
+		}
+		God
+		{
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+		}
+		Dragon
+		{
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

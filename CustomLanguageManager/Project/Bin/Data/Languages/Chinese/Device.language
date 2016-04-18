@@ -1,0 +1,16 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		device
+		{
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+		}
+	}
+}

@@ -1,0 +1,41 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		color
+		{
+			Orange = Oranssi
+			Red = Punainen
+			Blue = Sininen
+			Green = "Vihre\x00e4"
+			Yellow = Keltainen
+			Cyan = Turkoosi
+			White = Valkoinen
+			Black = Musta
+			Gray = Harmaa
+			Violet = Violetti
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = "Hypp\x00e4\x00e4"
+			Heal = Paranna
+			Shoot = Ammu
+			Collect = "Ker\x00e4\x00e4"
+			Destroy = Tuhoa
+			Defend = Puolusta
+		}
+		Move
+		{
+			Run = Juokse
+			Escape = Pakene
+		}
+	}
+}

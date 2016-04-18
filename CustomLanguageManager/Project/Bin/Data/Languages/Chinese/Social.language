@@ -1,0 +1,16 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		social
+		{
+			"Post to Twitter" = "\x53d1\x8868\x5230twitter"
+			"Share on Facebook" = "\x5206\x4eab\x5230facebook"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		social
+		{
+			"Share an achievement" = Deel achievement
+			"Post to Twitter" = Post op Twitter
+			"Share on Facebook" = Delen op Facebook
+			"Your score has been posted to Facebook!" = Je score is gedeeld op Facebook!
+			"Your score has been posted to Twitter!" = Je score is gedeeld op Twitter!
+			"Thank you for playing!" = Bedankt voor het spelen!
+			"Find a friend" = Vind een vriend
+			"Invite a friend" = Een vriend uitnodigen
+			"Start a chat" = Begin een chat
+			"Chat room" = Chatkamer
+			"Share photo on Facebook" = Deel een foto op Facebook
+			"Like Us" = Like ons
+			"Follow Us" = Volg ons
+			"Tell about us" = Vertel over ons
+		}
+	}
+}

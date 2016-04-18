@@ -1,0 +1,109 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		Arms
+		{
+			Sword = "Sv\x00e6rd"
+			Longsword = "Langsv\x00e6rd"
+			Dagger = Dolk
+			Katana = Katana
+			Whip = Pisk
+			Knife = Kniv
+			Cane = Stok
+			Wand = Stav
+			Bow = Bue
+			Knuckles = Knojern
+			Katar = Katar
+			Mace = "Stridsk\x00f8lle"
+			Axe = "\x00d8kse"
+			Staff = Stav
+			Crossbow = Armbryst
+		}
+		Gun
+		{
+			Pistol = Pistol
+			Rifle = Riffel
+			"Sniper rifle" = Sniper riffel
+			"Machine gun" = "Maskingev\x00e6r"
+			Cannon = Kanon
+			"Laser rifle" = Laser rifle
+			"Beam gun" = "Str\x00e5lepistol"
+		}
+		Protector
+		{
+			Shield = Skjold
+			Armor = Rustning
+			Helmet = Hjelm
+			Forearm = Underarm
+			Mantle = Kappe
+			Boots = "St\x00f8vler"
+			"Chain mail" = Ringbrynje
+			Belt = "B\x00e6lte"
+			Crown = Krone
+		}
+		Accessory
+		{
+			Accessory = "Tilbeh\x00f8r"
+			Jewelry = Juveler
+			Ring = Ring
+			Pierce = Piercing
+			Necklace = "Halsk\x00e6de"
+			Bracelet = "Armb\x00e5nd"
+		}
+		Costume
+		{
+			Costume = Kostume
+			Clothing = "Bekl\x00e6dning"
+			Clothes = "T\x00f8j"
+			Jacket = Jakke
+			Underwear = Underbukser
+			Socks = Sokker
+			Sweater = Sweater
+			Sleepwear = "Natt\x00f8j"
+			Pajamas = Pyjamas
+			Bra = Bh
+			Panties = Trusser
+			Stockings = "Str\x00f8mper"
+			"Garter belt" = Hofteholder
+			Makeup = Makeup
+			Lipstick = Lipstick
+			Perfume = Parfume
+			Swimsuit = "Badet\x00f8j"
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = "S\x00e6rlige tr\x00e6k"
+			Swordsmanship = Swordsmanship
+		}
+		Magic
+		{
+			Magic = Magi
+			Apparition = "Genf\x00e6rd"
+			Recovery = Rehabilitering
+			"Attack magic" = Offensiv magi
+		}
+		item
+		{
+			Coin = "M\x00f8nt"
+			Clock = Ur
+			Artifact = Artefakt
+			Fossil = Fossil
+			Bone = Ben
+		}
+		medicine
+		{
+			medicine = Medicin
+			"Recovery medicine" = Rehabiliterings Medicin
+			Antidote = Modgift
+			"Revival medicine" = Genoplivnings medicin
+			Herb = Urte
+		}
+	}
+}

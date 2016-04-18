@@ -1,0 +1,28 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		social
+		{
+			"Share an achievement" = Jaa saavutuksesi
+			"Post to Twitter" = Twiittaa
+			"Share on Facebook" = Jaa Facebookissa
+			"Your score has been posted to Facebook!" = "Tuloksesi on l\x00e4hetetty Facebookiin!"
+			"Your score has been posted to Twitter!" = "Tuloksesi on l\x00e4hetetty Twitteriin!"
+			"Thank you for playing!" = Kiitos pelaamisestasi!
+			"Find a friend" = "Etsi yst\x00e4v\x00e4"
+			"Invite a friend" = "Kutsu yst\x00e4v\x00e4"
+			"Start a chat" = Aloita keskustelu
+			"Chat room" = Keskustelu
+			"Share photo on Facebook" = Jaa kuva Facebookissa
+			"Like Us" = "Tykk\x00e4\x00e4 meist\x00e4"
+			"Follow Us" = "Seuraa meit\x00e4"
+			"Tell about us" = "Kerro meist\x00e4 muille"
+		}
+	}
+}

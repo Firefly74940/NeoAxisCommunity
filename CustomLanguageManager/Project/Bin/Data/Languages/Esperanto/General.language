@@ -1,0 +1,27 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		color
+		{
+			Red = "Ru\x011da"
+			Blue = Blua
+			White = Blanka
+			Black = Nigra
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+		}
+		Move
+		{
+		}
+	}
+}

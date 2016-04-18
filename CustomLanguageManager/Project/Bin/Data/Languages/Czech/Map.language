@@ -1,0 +1,39 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		Direction
+		{
+			North = Sever
+			South = Jih
+			West = "Z\x00e1pad"
+		}
+		Building
+		{
+			Castle = Hrad
+			Village = Vesnice
+			Building = Budova
+			Well = Studna
+			Jail = "V\x011bzen\x00ed"
+		}
+		Nature
+		{
+		}
+		Plant
+		{
+		}
+		Weather
+		{
+		}
+		Space
+		{
+			Space = "Vesm\x00edr"
+			Sun = Slunce
+		}
+	}
+}

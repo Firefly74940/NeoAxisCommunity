@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		Cooking
+		{
+			Cooking = Cucinare
+			Pan = Padella
+			Pot = Pentola
+			"Kitchen knife" = Coltello da cucina
+		}
+		Tableware
+		{
+			Tableware = Posate
+			Knife = Coltello
+			Spoon = Cucchaio
+			Fork = Forchetta
+			Chopsticks = Bacchette
+			Dish = Piatto
+			Cup = Tazza
+		}
+		Food
+		{
+			Food = Cibo
+			Rice = Riso
+			Soup = Zuppa
+			Meat = Carne
+			"Grilled meat" = Carne alla griglia
+			Steak = Bistecca
+			"Hamburger Steak" = Bistecca di hamburger
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Stufato
+			Ramen = Ramen
+			Pizza = Pizza
+			Candy = Caramella
+			"Soft-serve ice cream" = Gelato cremoso
+		}
+		Vegetables
+		{
+			Vegetables = Verdura
+			Rice = Riso
+			Wheat = Grano
+			Barley = Orzo
+			Cabbage = Cavolo
+			Pepper = Pepe
+			Carrot = Carota
+			Radish = Ravanello
+			Potato = Patata
+			"Sweet potato" = Patata dolce
+			Onion = Cipolla
+			Beans = Fagioli
+			Garlic = Aglio
+		}
+		Drink
+		{
+			Drink = Bevuta
+			Water = Acqua
+			Milk = Latte
+			Coffee = "Caff\x00e8"
+			"Black tea" = "T\x00e8 nero"
+			Tea = "T\x00e8"
+			Juice = Succo
+			Coke = Coca
+		}
+		Material
+		{
+			Material = Materiale
+			Mineral = Minerale
+			Platinum = Platino
+			Gold = Oro
+			Silver = Argento
+			Bronze = Bronzo
+			Iron = Ferro
+			Steel = Acciaio
+			Crystal = Cristallo
+			Marble = Marmo
+		}
+		Vehicle
+		{
+			Vehicle = Veicolo
+			Car = Automobile
+			Bike = Moto
+			Bicycle = Bicicletta
+			Tank = Carro armato
+			Jeep = Jeep
+		}
+		Plane
+		{
+			Plane = Aereoplano
+			Fighter = Caccia
+			Interceptor = Intercettore
+			"Reconnaissance aircraft" = Aereo da ricognizione
+			"Stealth machine" = Aereo invisibile
+			Airliner = Aereo di linea
+			"Unmanned aircraft" = Drone
+			Helicopter = Elicottero
+			Balloon = Pallone
+			"Hang glider" = Aliante
+			Parachute = Paracadute
+		}
+		Ship
+		{
+			Ship = Nave
+			Yacht = Yacht
+			Raft = Zattera
+			Ferry = Traghetto
+			Tanker = Petroliera
+			Warship = Nave da guerra
+			Battleship = Corazzata
+			"Mother ship" = Nave appoggio
+			"Aircraft Carrier" = Porta-Aerei
+			Escort = Scorta
+			Submarine = Sommergibile
+		}
+	}
+}

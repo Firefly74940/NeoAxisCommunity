@@ -1,0 +1,97 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Lataa heti ilmainen peli.
+			"FREE app of the day!" = "P\x00e4iv\x00e4n ilmainen ohjelma!"
+			"Today for FREE" = "T\x00e4n\x00e4\x00e4n ILMAISEKSI"
+			"Daily FREE apps" = "Ilmaisia ohjelmia p\x00e4ivitt\x00e4in!"
+			"Play for FREE" = Pelaa ilmaiseksi
+			"Download for FREE" = Lataa ilmaiseksi
+			"FREE to download" = ILMAINEN lataus
+			"You have won ..." = Olet voittanut ...
+			"Collect your prize now !" = Hae palkintosi nyt!
+			"Coming soon to (pick market)" = Tulossa pian (valitse kauppasi)
+			"Easy to learn yet hard to master" = Helppo oppia, vaikea hallita
+			"Game contains in-app purchases" = "Sis\x00e4lt\x00e4\x00e4 pelin sis\x00e4isi\x00e4 ostomahdollisuuksia"
+			"Game requires internet connection" = Peli vaatii internet-yhteyden
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "Osto ep\x00e4onnistui"
+			"Purchase cancelled" = Osto peruttu
+			"Please try again later" = "Yrit\x00e4 uudestaan my\x00f6hemmin"
+			"Store is not available" = "Kauppa ei ole k\x00e4ytett\x00e4viss\x00e4"
+			Restore = Palauta
+			"Restore all purchases to this device ?" = "Palauta kaikki lataukset t\x00e4h\x00e4n laitteeseen?"
+			"Remove ads" = Poista mainokset
+			"Double time" = Tupla-aika
+			"Double gold" = Tuplakulta
+			"Double lives" = "Tuplael\x00e4m\x00e4t"
+			"Restore Now" = Palauta nyt
+			"Unlock ..." = Avaa ...
+			"..." = "P\x00e4ivit\x00e4 ..."
+			"No ads" = Ei mainoksia
+			"Buy hints" = "Osta vinkkej\x00e4"
+			"Buy gold" = Osta kultaa
+			"Buy gems" = "Osta jalokivi\x00e4"
+			"Get full version" = "Hanki t\x00e4ysi versio"
+			"Get a refund" = Tee palautus
+			"Unlock all levels" = Avaa kaikki tasot
+			"Unlock all game modes" = Avaa kaikki pelimoodit
+			"Get more hints" = "Hae lis\x00e4\x00e4 ohjeita"
+			"Get more gold for FREE" = "Hanki lis\x00e4\x00e4 kultaa ILMAISEKSI"
+		}
+		question
+		{
+			"Would you like to rate & review game now ?" = Haluatko arvostella pelin nyt?
+			"Do you like our game ?" = "Pid\x00e4tk\x00f6 t\x00e4st\x00e4 pelist\x00e4?"
+			"Would you like to provide feedback to developers ?" = "Haluaisitko antaa palautetta kehitt\x00e4jille?"
+			"Would you like to watch game trailer ?" = Haluatko katsoa pelin trailerin?
+			"Would you like to watch video game tutorial ?" = Haluatko katsoa pelin ohjevideon?
+		}
+	}
+}

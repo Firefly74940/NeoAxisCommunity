@@ -1,0 +1,102 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		Arms
+		{
+			Sword = Sabie
+			Dagger = Pumnal
+			Katana = Katana
+			Whip = Bici
+			Knife = Cutit
+			Cane = Baston
+			Wand = Bagheta
+			Bow = Arc
+			Mace = Buzdugan
+			Axe = Topor
+			Crossbow = Arbaleta
+		}
+		Gun
+		{
+			Pistol = Pistol
+			Rifle = Pusca
+			"Sniper rifle" = Pusca de vanatoare
+			"Machine gun" = Mitraliera
+			Cannon = Tun
+			"Laser rifle" = Pusca laser
+		}
+		Protector
+		{
+			Shield = Scut
+			Armor = Armura
+			Helmet = Casca
+			Forearm = Antebrat
+			Mantle = Mantie
+			Boots = Ghete
+			"Chain mail" = Armura din lanturi
+			Belt = Curea
+			Crown = Coroana
+		}
+		Accessory
+		{
+			Accessory = Accesorii
+			Jewelry = Bijuterii
+			Ring = Inel
+			Necklace = Colier
+			Bracelet = Bratara
+		}
+		Costume
+		{
+			Costume = Costum
+			Clothing = Imbracaminte
+			Clothes = Haine
+			Jacket = Jacheta
+			Underwear = Lenjerie intima
+			Socks = Sosete
+			Sweater = Pulovar
+			Sleepwear = Pijamale
+			Pajamas = Pijamale
+			Bra = Sutien
+			Panties = Pantalonasi
+			Stockings = Ciorapi
+			"Garter belt" = Port-jartiera
+			Makeup = Machiaj
+			Lipstick = Ruj
+			Perfume = Parfum
+			Swimsuit = Costum de baie
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = Miscari speciale
+		}
+		Magic
+		{
+			Magic = Magie
+			Apparition = Aparitie
+			Recovery = Recuperare
+			"Attack magic" = Atac magic
+		}
+		item
+		{
+			Coin = Moneda
+			Clock = Ceas
+			Artifact = Artefact
+			Fossil = Fosila
+			Bone = Os
+		}
+		medicine
+		{
+			medicine = medicina
+			"Recovery medicine" = medicina recuperatorie
+			Antidote = antidot
+			"Revival medicine" = reanimare
+			Herb = ierburi
+		}
+	}
+}

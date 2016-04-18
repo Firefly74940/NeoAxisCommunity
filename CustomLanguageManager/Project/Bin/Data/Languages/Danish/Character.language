@@ -1,0 +1,135 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		Character
+		{
+			Male = Mand
+			Woman = Kvinde
+			Youth = Unge
+			"Mrs." = Fru
+			Adult = Voksen
+			Children = Barn
+			Boy = Dreng
+			Girl = Pige
+			"Old man" = Gammel man
+			"Old woman" = Gammel kvinde
+			Gentleman = Gentleman
+			Lady = Dame
+			Hero = Helt
+			"Supporting role" = "St\x00f8ttende rolle"
+			"Small role" = Lille rolle
+			"Role of the villain" = Skurkens rolle
+			Heroine = Heltinde
+			Fellow = Kollega
+			Friend = Ven
+			"Formidable enemy" = Formidable fjende
+			Revenge = "H\x00e6vn"
+		}
+		Family
+		{
+			Family = Familie
+			Grandfather = Bedstefar
+			Grandmother = Bedstemor
+			Father = Far
+			Mother = Mor
+			"(Elder) Brother" = Bror
+			"(Younger) Brother" = Bror
+			"(Elder) Sister" = "S\x00f8ster"
+			"(Younger) Sister" = "S\x00f8ster"
+			Child = Barn
+			Son = "S\x00f8n"
+			Daughter = Datter
+			Grandson = Barnebarn
+			"Grand-daughter" = Barnebarn
+			"Great-grandson" = Oldebarn
+			Relative = "Besl\x00e6gtet"
+			Uncle = Onkel
+			Aunt = Tante
+			"The cousin" = "F\x00e6tter"
+			"Female cousin" = Kusine
+		}
+		fantasy
+		{
+			Savior = Frelser
+			Fighter = Fighter
+			Priest = "Pr\x00e6st"
+			Magician = Magiker
+			Sage = Vismand
+			Summoner = Summoner
+			Alchemist = Alkymist
+			Knight = Ridder
+			Swordsman = "Sv\x00e6rdmand"
+			"Kung fu master" = Kung Fu-mester
+			Hunter = Jager
+			Adventurer = Eventyrer
+			Ninja = Ninja
+			Samurai = Samurai
+			"Dragon knight" = Dragekriger
+			Assassin = Snigmorder
+			Spy = Spion
+			Dancer = Danser
+			Raver = Rave
+			Merchant = "K\x00f8bmand"
+			Robot = Robot
+			Android = Androide
+			Paladin = Paladin
+			Crusader = Korsfarer
+			Wizard = Troldmand
+			Warlock = Heksemester
+			Sorcerer = Troldmand
+			Monk = Munk
+		}
+		Army
+		{
+			Army = "H\x00e6r"
+			Commander = "Kommand\x00f8r"
+			General = General
+			Captain = Kaptajn
+			Infantry = Infanteri
+			"Light infantry" = Let infanteri
+			"Heavy Infantry" = Tungt infanteri
+			Sniper = Sniper
+			Engineer = "Ingeni\x00f8r"
+		}
+		Class
+		{
+		}
+		Position
+		{
+			Position = Position
+			King = Konge
+			Princess = Prinsesse
+			Royal = Royal
+			Noble = Nobel
+			Merchant = "K\x00f8bmand"
+			Villager = Borger
+			Farmers = "Landm\x00e6nd"
+			Slave = Slave
+		}
+		Occupation
+		{
+			Occupation = Erhverv
+			Craftsman = "H\x00e5ndv\x00e6rker"
+			Carpenter = "T\x00f8mrer"
+			Bakery = Bageri
+			Butcher = Slagter
+			Greengrocer = "Gr\x00f8nthandler"
+			"Liquor store" = Vinhandel
+			Inn = Kro
+			Traveler = Rejser
+			Teacher = "L\x00e6rer"
+			"(Female) Teacher" = "L\x00e6rer"
+			Disciple = Discipel
+			Apprentice = Apprentice
+			Gambler = Gambler
+			Whore = Luder
+			"Wanted man" = "Efters\x00f8gt"
+		}
+	}
+}

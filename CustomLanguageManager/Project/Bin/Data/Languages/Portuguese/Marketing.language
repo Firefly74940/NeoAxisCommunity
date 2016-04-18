@@ -1,0 +1,95 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Podes descarregar jogo GR\x00c1TIS AGORA"
+			"FREE app of the day!" = "Aplica\x00e7\x00e3o GR\x00c1TIS do dia!"
+			"Today for FREE" = "GR\x00c1TIS hoje"
+			"Daily FREE apps" = "Apps GR\x00c1TIS diariamente"
+			"Play for FREE" = "Joga GR\x00c1TIS"
+			"Download for FREE" = "Descarrega GR\x00c1TIS"
+			"FREE to download" = "Descarrega GR\x00c1TIS"
+			"You have won ..." = Ganhaste...
+			"Collect your prize now !" = "Reclama agora o teu pr\x00e9mio"
+			"Coming soon to (pick market)" = Em breve no (escolher mercado)
+			"Game requires internet connection" = "Este jogo necessita de liga\x00e7\x00e3o \x00e0 Internet"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Compra falhou
+			"Purchase cancelled" = Compra cancelada
+			"Please try again later" = Por favor, tenta mais tarde
+			"Store is not available" = "Loja n\x00e3o est\x00e1 dispon\x00edvel"
+			Restore = Restaurar
+			"Restore all purchases to this device ?" = Restaurar todas as compras?
+			"Remove ads" = "Remover an\x00fancios"
+			"Double time" = Dobro do tempo
+			"Double gold" = Dobro do ouro
+			"Double lives" = Dobro das vidas
+			"Restore Now" = Restaurar Agora
+			"Unlock ..." = Desbloquear ...
+			"..." = Actualizar...
+			"No ads" = "Sem An\x00fancios"
+			"Buy hints" = Comprar pistas
+			"Buy gold" = Comprar ouro
+			"Buy gems" = Comprar pedras preciosas
+			"Get full version" = "Obter vers\x00e3o completa"
+			"Get a refund" = Obtem um reembolso
+			"Unlock all levels" = "Desbloquear todos os n\x00edveis"
+			"Unlock all game modes" = Desbloquear todos os modos de jogo
+			"Get more hints" = Obter mais pistas
+			"Get more gold for FREE" = "Obter mais ouro GR\x00c1TIS"
+		}
+		question
+		{
+			"Would you like to rate & review game now ?" = "Desejas pontuar e fazer uma cr\x00edtica do nosso jogo?"
+			"Do you like our game ?" = Gostas do nosso jogo?
+			"Would you like to provide feedback to developers ?" = "Queres dar feedback \x00e0 equipa de desenvolvimento?"
+			"Would you like to watch game trailer ?" = Queres ver o trailer?
+			"Would you like to watch video game tutorial ?" = Queres ver o tutorial do jogo?
+		}
+	}
+}

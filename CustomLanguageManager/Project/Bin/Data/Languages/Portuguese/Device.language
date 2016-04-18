@@ -1,0 +1,31 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Jogo pausado
+			"mobile phone" = "telem\x00f3vel"
+			tablet = tablet
+			console = consola
+			multitouch = multitoque
+			resolution = "resolu\x00e7\x00e3o"
+			screen = "ecr\x00e3"
+			display = "ecr\x00e3"
+			"Game resumed" = "Jogo continuado / Jogo retomado"
+			mouse = rato
+			keyboard = teclado
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+			"pinch zoom" = zoom
+			swipe = deslizar
+			rotate = rodar
+			"double click" = duplo clique
+		}
+	}
+}

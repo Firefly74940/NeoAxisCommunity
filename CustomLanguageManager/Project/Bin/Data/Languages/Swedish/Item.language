@@ -1,0 +1,58 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		Arms
+		{
+			Sword = "Sv\x00e4rd"
+			Longsword = "L\x00e5ngt sv\x00e4rd"
+			Dagger = Dolk
+			Katana = "Japanskt sv\x00e4rd"
+			Whip = Piska
+			Knife = Kniv
+			Wand = Stav
+			Bow = "Pilb\x00e5ge"
+		}
+		Gun
+		{
+			Pistol = Pistol
+			Rifle = "Gev\x00e4r"
+			"Machine gun" = "Maskingev\x00e4r"
+			Cannon = Kanon
+		}
+		Protector
+		{
+			Shield = "Sk\x00f6ld"
+			Helmet = "Hj\x00e4lm"
+			Forearm = Underarm
+			Mantle = Mantel
+			Boots = Skor
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+			Coin = Mynt
+		}
+		medicine
+		{
+			"Recovery medicine" = "\x00c5terh\x00e4mtnings medicin"
+			Antidote = Motgift
+		}
+	}
+}

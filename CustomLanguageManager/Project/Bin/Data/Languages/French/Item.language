@@ -1,0 +1,109 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		Arms
+		{
+			Sword = "\x00e9p\x00e9e"
+			Longsword = "\x00e9p\x00e9e longue"
+			Dagger = dague
+			Katana = katana
+			Whip = fouet
+			Knife = couteau
+			Cane = canne
+			Wand = baguette
+			Bow = arc
+			Knuckles = "poing am\x00e9ricain"
+			Katar = katar
+			Mace = "lacrymog\x00e8ne"
+			Axe = hache
+			Staff = "b\x00e2ton"
+			Crossbow = "arbal\x00e8te"
+		}
+		Gun
+		{
+			Pistol = pistolet
+			Rifle = fusil
+			"Sniper rifle" = "fusil \x00e0 lunette"
+			"Machine gun" = mitraillette
+			Cannon = canon
+			"Laser rifle" = fusil laser
+			"Beam gun" = "canon\x00a0\x00e0 faisceau"
+		}
+		Protector
+		{
+			Shield = bouclier
+			Armor = armure
+			Helmet = casque
+			Forearm = avant-bras
+			Mantle = manteau
+			Boots = bottes
+			"Chain mail" = cotte de mailles
+			Belt = ceinture
+			Crown = Couronne
+		}
+		Accessory
+		{
+			Accessory = accessoire
+			Jewelry = bijouterie
+			Ring = anneau
+			Pierce = "boucle d\'oreille"
+			Necklace = collier
+			Bracelet = bracelet
+		}
+		Costume
+		{
+			Costume = costume
+			Clothing = habits
+			Clothes = "v\x00eatements"
+			Jacket = veste
+			Underwear = "cale\x00e7on"
+			Socks = chaussettes
+			Sweater = pull
+			Sleepwear = habits de nuit
+			Pajamas = pyjamas
+			Bra = soutien-gorge
+			Panties = culotte
+			Stockings = bas
+			"Garter belt" = porte-jarretelles
+			Makeup = maquillage
+			Lipstick = "rouge \x00e0 l\x00e8vres"
+			Perfume = parfum
+			Swimsuit = maillot de bain
+			Bikini = bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = "coups sp\x00e9ciaux"
+			Swordsmanship = "habilet\x00e9 \x00e0 l\'\x00e9p\x00e9e"
+		}
+		Magic
+		{
+			Magic = magie
+			Apparition = apparition
+			Recovery = "r\x00e9cup\x00e9ration"
+			"Attack magic" = sort
+		}
+		item
+		{
+			Coin = "pi\x00e8ce"
+			Clock = horloge
+			Artifact = "Art\x00e9fact"
+			Fossil = fossile
+			Bone = os
+		}
+		medicine
+		{
+			medicine = "m\x00e9decine"
+			"Recovery medicine" = soin
+			Antidote = antidote
+			"Revival medicine" = "r\x00e9animation"
+			Herb = herbe
+		}
+	}
+}

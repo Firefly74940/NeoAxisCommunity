@@ -1,0 +1,58 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		color
+		{
+			Orange = Oranj
+			Red = Rosu
+			Blue = Albastru
+			Green = Verde
+			Yellow = Galben
+			Cyan = Turcoaz
+			Purple = Mov
+			White = Alb
+			Black = Negru
+			Gray = Gri
+			Violet = Violet
+			Platinum = Platiniu
+			Gold = Auriu
+			Silver = Argintiu
+			Bronze = Bronz
+			Clear = Transparent
+			Iridescence = Iridescent
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Sari
+			Heal = Vindeca
+			Shoot = Trage
+			Collect = Colecteaza
+			Capture = Captureaza
+			Destroy = Distruge
+			Attack = Ataca
+			Defend = Apara
+			Hit = Loveste
+			Kick = Loveste
+			Headbutt = Starpeste
+			Stomp = Sari pe perete
+		}
+		Move
+		{
+			Move = Misca-te
+			Run = Alearga
+			Walk = Mergi
+			Skip = Sari peste
+			Escape = Evadeaza
+			"Stealthy steps" = Pasi silentiosi
+		}
+	}
+}

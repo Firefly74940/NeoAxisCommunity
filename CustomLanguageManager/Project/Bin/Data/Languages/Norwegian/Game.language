@@ -1,0 +1,44 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		"game category"
+		{
+			Puzzle = Hjernetrim
+			Adventure = Eventyr
+			Quiz = "Sp\x00f8rrelek"
+			Strategy = Strategi
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasi
+			Science = Vitenskap
+			Medieval = Middelalder
+			Modern = Moderne
+			Ancient = Urgammel
+			"World War" = Verdenskrig
+			"Wild West / Western" = Ville vesten
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = Fullversjon
+			"Lite version" = Lettversjon
+			"Free version (Freemium)" = Gratisversjon
+			"Premium version" = betalt versjon
+		}
+		online
+		{
+		}
+		Race
+		{
+		}
+		Board
+		{
+		}
+	}
+}

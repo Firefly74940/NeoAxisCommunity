@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		animal
+		{
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

@@ -1,0 +1,89 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = GERMAN
+		}
+		God
+		{
+			God = Gott
+			Goddess = "G\x00f6ttin"
+			"False god" = Falscher Gott
+			Buddha = Buddha
+			Savior = Heiland
+		}
+		Angel
+		{
+			Angel = Engel
+			"Fallen angel" = Gefallener Engel
+			Michael = Michael
+			Gabriel = Gabriel
+			Rafael = Rafael
+			Uriel = Uriel
+			Archangel = Erzengel
+		}
+		"Holy presence"
+		{
+			Fairy = Fee
+			Genie = Dschinn
+			Ghost = Geist
+			Dwarf = Zwerg
+			Undine = Undine
+			Gnome = Gnom
+			Salamander = Salamander
+			Sylph = Sylphe
+			Phoenix = "Ph\x00f6nix"
+			Elf = Elf
+			Nymph = Nymphe
+		}
+		Demon
+		{
+			Demon = "D\x00e4mon"
+			Satan = "Satan / Teufel"
+			Lucifer = Luzifer
+			Baphomet = Baphomet
+			Belial = Belial
+			Belphegor = Belphegor
+			Mammon = Mammon
+			Incubus = Inkubus
+			Succubus = Sukkubus
+			Beelzebub = Beelzebub
+			Cerberus = "Zerberus / Kerberus"
+			Familiar = Familiar
+		}
+		Monster
+		{
+			Monster = Monster
+			Slime = Schleim
+			Vampire = Vampir
+			"Jiangshi/Kyonshi (Chinese \"hopping\" zombie)" = Jiang-shi
+			Zombie = Zombie
+			Undead = Untoter
+			"Wolf Man" = "Wolfsmensch / Werwolf"
+			Beastman = Bestie
+			Goblin = Goblin
+			Kobold = Kobold
+		}
+		Dragon
+		{
+			Dragon = Drache
+			Firedrake = Feuerdrache
+			"Ice dragon" = Eisdrache
+			"Water dragon" = Wasserdrache
+			"Thunder dragon" = Donnerdrache
+			Wyvern = Wyvern
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotauros
+			Centaur = Zentaur
+			Harpy = Harpyie
+			Hydra = Hydra
+			Cyclops = Zyklop
+			Titan = Titan
+		}
+	}
+}

@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

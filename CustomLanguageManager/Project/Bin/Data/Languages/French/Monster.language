@@ -1,0 +1,90 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = FRENCH
+		}
+		God
+		{
+			God = Dieu
+			Goddess = "D\x00e9esse"
+			"False god" = Faux dieu
+			Buddha = Bouddha
+			Savior = Sauveur
+		}
+		Angel
+		{
+			Angel = Ange
+			"Fallen angel" = "Ange d\x00e9chu"
+			Michael = Michel
+			Gabriel = Gabriel
+			Rafael = Raphael
+			Uriel = Uriel
+			Archangel = Archange
+		}
+		"Holy presence"
+		{
+			Fairy = "F\x00e9e"
+			Genie = "G\x00e9nie"
+			Ghost = "Fant\x00f4me"
+			Dwarf = Nain
+			Undine = Ondine
+			Gnome = Gnome
+			Salamander = Salamandre
+			Sylph = Sylphe
+			Phoenix = "Ph\x00e9nix"
+			Elf = Elfe
+			Nymph = Nymphe
+		}
+		Demon
+		{
+			Demon = "D\x00e9mon"
+			Satan = Satan
+			Lucifer = Lucifer
+			Baphomet = Baphomet
+			Belial = Burial
+			Belphegor = "Belph\x00e9gor"
+			Mammon = Mammon
+			Incubus = Incube
+			Succubus = Succube
+			Beelzebub = "Belz\x00e9but"
+			Cerberus = "Cerb\x00e8re"
+			Familiar = Familier
+		}
+		Monster
+		{
+			Monster = Monstre
+			Slime = Slime
+			Vampire = Vampire
+			"Jiangshi/Kyonshi (Chinese \"hopping\" zombie)" = Jiangshi
+			Zombie = Zombie
+			Undead = Mort-vivant
+			"Wolf Man" = Loup-garou
+			Beastman = "Homme-b\x00eate"
+			Goblin = Gobelin
+			Kobold = Kobold
+		}
+		Dragon
+		{
+			Dragon = Dragon
+			Firedrake = Dragon de feu
+			"Ice dragon" = Dragon de glace
+			"Water dragon" = "Dragon de l\'eau"
+			"Thunder dragon" = Dragon du tonnerre
+			"Sat dragon" = Dragon assis
+			Wyvern = Wyverne
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotaure
+			Centaur = Centaure
+			Harpy = Harpie
+			Hydra = Hydre
+			Cyclops = Cyclope
+			Titan = Titan
+		}
+	}
+}

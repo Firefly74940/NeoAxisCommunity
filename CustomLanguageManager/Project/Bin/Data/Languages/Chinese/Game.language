@@ -1,0 +1,54 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = "\x5854\x9632"
+			Puzzle = "\x89e3\x5bc6"
+			"Endless runner" = "\x65e0\x5c3d\x8dd1\x9177"
+			Shooter = "\x5c04\x51fb"
+			Adventure = "\x5192\x9669"
+			Quiz = "\x667a\x529b"
+			"Vertical shooter (like Tyrian)" = "\x6a2a\x7248\x5c04\x51fb"
+			"Fast-paced game" = "\x5feb\x8282\x594f\x6e38\x620f"
+			Strategy = "\x7b56\x7565"
+		}
+		"game theme"
+		{
+			Retro = "\x590d\x53e4"
+			Fantasy = "\x5e7b\x60f3"
+			Science = "\x79d1\x5b66/\x79d1\x5e7b"
+			Medieval = "\x4e2d\x4e16\x7eaa"
+			Modern = "\x73b0\x4ee3"
+			Ancient = "\x53e4\x4ee3"
+			"World War" = "\x4e16\x754c\x5927\x6218"
+			"Wild West / Western" = "\x897f\x90e8"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = "\x5b8c\x6574\x7248"
+			"Lite version" = "\x4f53\x9a8c\x7248"
+			"Free version (Freemium)" = "\x514d\x8d39\x7248"
+			"Premium version" = "\x9ad8\x7ea7\x7248"
+		}
+		online
+		{
+			"Singleplayer game" = "\x5355\x4eba\x6e38\x620f"
+			"Multiplayer game" = "\x591a\x4eba\x6e38\x620f"
+			"Asynchronous multiplayer" = "\x5f02\x6b65/\x975e\x540c\x6b65\x591a\x4eba\x6e38\x620f"
+		}
+		Race
+		{
+			laps = "\x5708"
+			position = "\x987a\x4f4d"
+		}
+		Board
+		{
+		}
+	}
+}

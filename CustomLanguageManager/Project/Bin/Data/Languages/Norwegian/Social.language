@@ -1,0 +1,28 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		social
+		{
+			"Share an achievement" = Del ...
+			"Post to Twitter" = Post til Twitter
+			"Share on Facebook" = "Del p\x00e5 Facebook"
+			"Your score has been posted to Facebook!" = "Din poengsum har blitt postet p\x00e5 facebook"
+			"Your score has been posted to Twitter!" = "Din poengsum har blitt postet p\x00e5 Twitter"
+			"Thank you for playing!" = Takk for at du spilte!
+			"Find a friend" = Finn en venn
+			"Invite a friend" = Inviter en venn
+			"Start a chat" = Start en samtale
+			"Chat room" = Samtalerom
+			"Share photo on Facebook" = "Del bilde p\x00e5 Facebook"
+			"Like Us" = Lik oss
+			"Follow Us" = "F\x00f8lg oss"
+			"Tell about us" = Fortell andre om oss
+		}
+	}
+}

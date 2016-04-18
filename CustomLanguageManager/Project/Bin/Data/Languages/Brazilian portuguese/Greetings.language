@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		Greetings
+		{
+			Hello = "Ol\x00e1"
+			"How do you do" = "Como vai voc\x00ea"
+			Welcome = Bem-Vindo
+			"Please enjoy" = Por favor, divirta-se
+			"Good luck" = Boa sorte
+			"Have a good day" = Tenha um bom dia
+			"Welcome back" = Bem-vindo de volta
+			"Cheers for good work" = Bom trabalho
+			"Good bye" = Adeus
+			"Congratulations!" = "Parab\x00e9ns!"
+		}
+		Thanks
+		{
+			"Thank you" = Obrigado
+			"Thank you very much" = Muito Obrigado
+		}
+		shop
+		{
+			Welcome = Bem-vindo
+			"What are you looking for?" = "O que voc\x00ea procura?"
+			"Thanks for your business" = "Obrigado por fazer neg\x00f3cios com a gente"
+			"I am looking forward to seeing you again" = "Espero v\x00ea-lo novamente em breve"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Joc pausat
+			"mobile phone" = "Joc per a m\x00f2bil"
+			tablet = Joc per a tauleta
+			console = Consola
+			resolution = "resoluci\x00f3"
+			screen = pantalla
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+		}
+	}
+}

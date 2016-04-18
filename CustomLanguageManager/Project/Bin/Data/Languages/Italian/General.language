@@ -1,0 +1,61 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		color
+		{
+			Orange = Arancione
+			Red = Rosso
+			Blue = Blu
+			Green = Verde
+			Yellow = Giallo
+			Cyan = Azzurro
+			Purple = Porpora
+			White = Bianco
+			Black = Nero
+			Gray = Grigio
+			Violet = Viola
+			Platinum = Platino
+			Gold = Oro
+			Silver = Argento
+			Bronze = Bronzo
+			Clear = Chiaro
+			Iridescence = Iridescente
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Saltare
+			Bounce = Rimbalzare
+			Heal = Curare
+			Shoot = Sparare
+			Collect = Collezionare
+			Capture = Catturare
+			Destroy = Distruggere
+			Attack = Attaccare
+			Defend = Difendere
+			Hit = Colpo
+			Kick = Calcio
+			Headbutt = Calcio nel sedere
+			Stomp = Calpestare
+			Walljump = Saltare a parete
+			Dash = Scagliarsi (contro)
+		}
+		Move
+		{
+			Move = Muovere
+			Run = Correre
+			Walk = Camminare
+			Skip = Scartare
+			Escape = Fuggire
+			"Stealthy steps" = Trottare
+		}
+	}
+}

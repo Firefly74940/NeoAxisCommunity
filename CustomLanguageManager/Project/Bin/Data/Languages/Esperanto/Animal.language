@@ -1,0 +1,53 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		animal
+		{
+			Animal = Besto
+			Animals = Bestoj
+			Human = Homo
+			Monkey = Simio
+			Dog = Hundo
+			Cat = Kato
+			Puppy = Hundido
+			Kitten = Katido
+			Rat = Rato
+			Pig = Porko
+			Wolf = Lupo
+			Bear = Urso
+			Panda = Pando
+			Tiger = Tigro
+			Fox = Vulpo
+			Horse = "\x0108evalo"
+			Ass = Azeno
+			Elephant = Elefanto
+			Cow = Bovo
+		}
+		Bird
+		{
+			Birds = Birdoj
+			Eagle = Aglo
+		}
+		Insect
+		{
+		}
+		fish
+		{
+			Fish = "Fi\x015do"
+			Whale = Baleno
+		}
+		Reptiles
+		{
+			Turtle = Testudo
+		}
+		Dinosaur
+		{
+		}
+	}
+}

@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		Greetings
+		{
+			Hello = "\x4f60\x597d"
+			Welcome = "\x6b22\x8fce"
+			"Good luck" = "\x795d\x4f60\x597d\x8fd0"
+			"Welcome back" = "\x6b22\x8fce\x56de\x6765"
+			"Good bye" = "\x518d\x89c1"
+			"Congratulations!" = "\x606d\x559c\x60a8\xff01"
+		}
+		Thanks
+		{
+			"Thank you" = "\x8c22\x8c22"
+			"Thank you very much" = "\x591a\x8c22"
+		}
+		shop
+		{
+			"I am looking forward to seeing you again" = "\x671f\x5f85\x518d\x6b21\x4e0e\x60a8\x76f8\x89c1\xff01"
+		}
+	}
+}

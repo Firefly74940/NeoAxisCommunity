@@ -1,0 +1,119 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		Direction
+		{
+			Direction = direction
+			"Move Left" = "Aller \x00e0 gauche"
+			"Move right" = "Aller \x00e0 droite"
+			"Move up" = Aller en haut
+			"Move down" = Aller en bas
+			"Move forward" = Aller tout droit
+			North = Nord
+			South = Sud
+			East = Est
+			West = Ouest
+			Northeast = nord-est
+			Southeast = sud-est
+			Northwest = nord-ouest
+			Southwest = sud-ouest
+		}
+		Building
+		{
+			Castle = "ch\x00e2teau"
+			"Castle town" = "ville fortifi\x00e9e"
+			City = ville
+			Town = bourg
+			Village = village
+			Building = batiment
+			Hut = hutte
+			Dungeon = donjon
+			Well = puit
+			Jail = prison
+		}
+		Nature
+		{
+			Nature = nature
+			Forest = "for\x00eat"
+			Mountain = montagne
+			"Dense forest" = "for\x00eat dense"
+			Amazon = amazone
+			River = "rivi\x00e8re"
+			Grassland = prairie
+			"Sandy beach" = plage de sable
+			Sea = mer
+			Ford = "gu\x00e9"
+			Cave = grotte
+			Underground = souterrain
+			Underworld = enfers
+			Shell = coquille
+			Desert = "d\x00e9sert"
+			Sand = sable
+			Stone = pierre
+			Rock = caillou
+			Mud = boue
+		}
+		Plant
+		{
+			Plant = plante
+			Flower = fleur
+			Grass = herbe
+			Tree = arbre
+			Stem = tronc
+			Root = racine
+			Fruit = fruit
+			Species = "esp\x00e8ces"
+			Sap = "s\x00e8ve"
+			Seed = graine
+		}
+		Weather
+		{
+			Weather = "m\x00e9t\x00e9o"
+			Air = air
+			Sky = ciel
+			Wind = vent
+			Shine = briller
+			Cloud = nuage
+			Cloudiness = "n\x00e9bulosit\x00e9"
+			Rain = plue
+			Shower = averse
+			Thunderstorm = orage
+			Thunder = tonnerre
+			Fog = brouillard
+			Haze = brume
+			Snow = neige
+			Sleet = neige fondue
+			Hail = "gr\x00eale"
+			Storm = "temp\x00e8te"
+			Typhoon = typhon
+			Sandstorm = "temp\x00e8te de sable"
+		}
+		Space
+		{
+			Space = Espace
+			Sun = Soleil
+			Mercury = Mercure
+			Venus = "V\x00e9nus"
+			Earth = Terre
+			Mars = Mars
+			Jupiter = Jupiter
+			Saturn = Saturne
+			Uranus = Uranus
+			Neptune = Neptune
+			Pluto = Pluton
+			Moon = Lune
+			Star = "\x00e9toile"
+			Planet = "plan\x00e8te"
+			Comet = "com\x00e8te"
+			Meteor = "m\x00e9t\x00e9ore"
+			Satellite = satellite
+			Debris = "d\x00e9bris"
+		}
+	}
+}

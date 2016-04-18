@@ -1,0 +1,80 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Defensa
+			Puzzle = Puzzle
+			"Endless runner" = Runner
+			Shooter = "Disparos/Shooter"
+			Adventure = Aventura
+			Quiz = "Examen/Quiz"
+			"Vertical shooter (like Tyrian)" = Shooter vertical
+			"Fast-paced game" = Vertiginoso
+			Strategy = Estrategia
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = "Fantas\x00eda"
+			Science = Ciencia
+			Medieval = Medieval
+			Modern = Moderno
+			Ancient = Antiguo
+			"World War" = Guerra mundial
+			"Wild West / Western" = "Viejo oeste/Western"
+		}
+		"game mode"
+		{
+			"Inifinite mode" = "Modo Sin F\x00edn"
+		}
+		"game version"
+		{
+			"Full version" = "Versi\x00f3n completa"
+			"Lite version" = "Versi\x00f3n lite"
+			"Free version (Freemium)" = "Versi\x00f3n gratuita"
+			"Premium version" = "Versi\x00f3n premium"
+		}
+		online
+		{
+			"Singleplayer game" = Modo 1 jugador
+			"Multiplayer game" = Modo multijugador
+			"Asynchronous multiplayer" = "Multijugador as\x00edncrono"
+			"Hotseat mode" = Modo activo
+		}
+		Race
+		{
+			laps = Vueltas
+			position = "Posici\x00f3n"
+			track = Circuito
+			"race track" = Circuito de carreras
+			fuel = Combustible
+			oil = Aceite
+			gear = Equipo
+			suspension = "Suspensi\x00f3n"
+			tire = "Neum\x00e1tico"
+			wheel = Rueda
+			rim = Llanta
+			clutch = Embrague
+			light = Luz
+		}
+		Board
+		{
+			Board = Tablero
+			Dice = Dado
+			"Roll (Dice)" = TIrar (el dado)
+			Domino = Domino
+			"Card (Playing)" = Jugar a las cartas
+			"Draw(Card)" = Repartir
+			Pass = Pasar
+			Deck = Baraja
+			"Play (noun)" = Jugar
+			Slam = Azotar
+			"Discard Pile" = Pila de descartes
+			"Boneyard (Dominoes)" = Cementerio
+			Turn = Turno
+		}
+	}
+}

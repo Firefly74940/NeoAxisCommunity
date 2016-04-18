@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		social
+		{
+			"Share an achievement" = "Udost\x0119pnij osi\x0105gni\x0119cie"
+			"Post to Twitter" = Napisz na Twitterze
+			"Share on Facebook" = "Udost\x0119pnij na Facebooku"
+			"Your score has been posted to Facebook!" = "Tw\x00f3j wynik zosta\x0142 udost\x0119pniony na Facebooku!"
+			"Your score has been posted to Twitter!" = "Tw\x00f3j wynik zosta\x0142 udost\x0119pniony na Twitterze!"
+			"Thank you for playing!" = "Dzi\x0119ki za granie!"
+			"Find a friend" = "Znajd\x017a znajomego"
+			"Invite a friend" = "Zapro\x015b znajomego"
+			"Start a chat" = Rozpocznij czat
+			"Chat room" = "Pok\x00f3j czatu"
+			"Share photo on Facebook" = "Udost\x0119pnij zdj\x0119cie na Facebooku"
+			"Like Us" = Polub nas
+			"Follow Us" = Obserwuj nas
+			"Tell about us" = Powiedz o nas
+			"Share score" = "Udost\x0119pnij wynik"
+		}
+	}
+}

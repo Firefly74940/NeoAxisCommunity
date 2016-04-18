@@ -1,0 +1,163 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = ZH
+		}
+		accounts
+		{
+			"Account name" = "\x8d26\x6237\x540d\x79f0"
+			"Forgot your password?" = "\x5fd8\x8bb0\x5bc6\x7801\xff1f"
+			"Incorrect login or password" = "\x8d26\x53f7\x6216\x5bc6\x7801\x9519\x8bef"
+			Login = "\x767b\x5f55"
+			"Login using Facebook account" = "\x4f7f\x7528facebook\x8d26\x53f7\x767b\x9646"
+			Password = "\x5bc6\x7801"
+			Register = "\x6ce8\x518c"
+			"Remember me on this computer" = "\x5728\x6b64\x7535\x8111\x4e0a\x8bb0\x4f4f\x6211"
+		}
+		Animal
+		{
+			YES = YES
+		}
+		"button label"
+		{
+			"About us" = "\x516c\x53f8\x4ecb\x7ecd"
+			Achievements = "\x6210\x5c31"
+			Audio = "\x97f3\x9891"
+			Back = "\x540e\x9000"
+			Cancel = "\x53d6\x6d88"
+			Challenge = "\x6311\x6218"
+			"Choose hero" = "\x9009\x62e9\x82f1\x96c4"
+			"Choose language" = "\x9009\x62e9\x8bed\x8a00"
+			"Choose level" = "\x9009\x62e9\x5173\x5361"
+			"Contact us" = "\x8054\x7cfb\x6211\x4eec"
+			Continue = "\x7ee7\x7eed"
+			Controls = "\x63a7\x5236"
+			Credits = "\x5236\x4f5c\x4eba\xff08\x540d\x5355\xff09"
+			"Do not know" = "\x4e0d\x77e5\x9053"
+			Easy = "\x7b80\x5355"
+			"Game Center" = "\x6e38\x620f\x4e2d\x5fc3"
+			"Game editor" = "\x6e38\x620f\x7f16\x8f91\x5668"
+			"Game mode" = "\x6e38\x620f\x6a21\x5f0f"
+			Hard = "\x56f0\x96be"
+			Help = "\x5e2e\x52a9"
+			"How to play" = "\x5982\x4f55\x73a9"
+			Language = "\x8bed\x8a00"
+			Leaderboards = "\x6392\x884c\x699c"
+			"Level Select" = "\x9009\x62e9\x5173\x5361"
+			"Load Game" = "\x8f7d\x5165\x6e38\x620f"
+			Loot = "\x6218\x5229\x54c1"
+			"Main Menu" = "\x4e3b\x83dc\x5355"
+			Married = "\x5df2\x5a5a"
+			Menu = "\x83dc\x5355"
+			"More Apps" = "\x66f4\x591aapp"
+			"More Games" = "\x66f4\x591a\x6e38\x620f"
+			"New Game" = "\x65b0\x6e38\x620f"
+			"New order" = "\x65b0\x8ba2\x5355"
+			Next = "\x4e0b\x4e00\x9879"
+			Normal = "\x666e\x901a"
+			Options = "\x8bbe\x7f6e"
+			"Order Online" = "\x5728\x7ebf\x8ba2\x8d2d"
+			Pause = "\x6682\x505c"
+			"Pick character" = "\x9009\x62e9\x4eba\x7269"
+			Play = "\x5f00\x59cb"
+			"Play Again" = "\x91cd\x73a9"
+			Preferences = "\x9ad8\x7ea7\x8bbe\x7f6e"
+			Previous = "\x4e0a\x4e00\x9879"
+			Quit = "\x9000\x51fa"
+			"Remind me later" = "\x4ee5\x540e\x518d\x8bf4"
+			Replay = "\x91cd\x64ad"
+			"Reset Options" = "\x8fd8\x539f\x9ed8\x8ba4\x503c / \x91cd\x7f6e\x6240\x6709\x8bbe\x5b9a"
+			Retry = "\x91cd\x8bd5"
+			"Sandbox mode" = "\x6c99\x76d2\x6a21\x5f0f"
+			"Save game" = "\x4fdd\x5b58\x6e38\x620f"
+			Scoreboard = "\x79ef\x5206\x699c / \x5f97\x5206\x699c"
+			Search = "\x641c\x7d22"
+			Secret = "\x4fdd\x5bc6"
+			Shop = "\x5546\x5e97"
+			Single = "\x5355\x8eab"
+			"Skip Level" = "\x8df3\x8fc7\x5f53\x524d\x5173\x5361"
+			Store = "\x5546\x5e97"
+			Tutorial = "\x6559\x7a0b"
+			"Update order" = "\x8ba2\x5355\x66f4\x65b0"
+		}
+		"gameplay label"
+		{
+			"Base score" = "\x57fa\x7840\x5206\x6570"
+			"Best results" = "\x6700\x9ad8\x7eaa\x5f55"
+			"Best score" = "\x6700\x9ad8\x79ef\x5206 / \x6700\x9ad8\x5f97\x5206"
+			"Game over" = "\x6e38\x620f\x7ed3\x675f"
+			Highscore = "\x9ad8\x5f97\x5206"
+			Lives = "\x751f\x547d\xff08\x503c\xff09"
+			"Lives left" = "\x5269\x4f59\x751f\x547d\xff08\x503c\xff09"
+			"Money left" = "\x5269\x4f59\x91d1\x94b1"
+			Score = "\x79ef\x5206 / \x5f97\x5206"
+			Time = "\x65f6\x95f4"
+			"Time left" = "\x5269\x4f59\x65f6\x95f4"
+			"Total score" = "\x603b\x5206 / \x603b\x79ef\x5206 / \x603b\x5f97\x5206"
+			"Your score" = "\x4f60\x7684\x79ef\x5206 / \x5f97\x5206"
+		}
+		"How to edit"
+		{
+			"About words, it is useful to use the translation google, and bulk editing." = "\x8fd9\x4e2a\x7528\x4e0d\x7740\x7ffb\x8bd1\x5427\x3002\x3002\x3002 \n\x5de6\x53f3\x7684\x4eb2\x4eec\x3002\x3002\x56e7"
+			"After machine translation, Please check always." = "\x672c\x4eba\x4e0d\x73a9\x6e38\x620f\x5f88\x4e45\x4e86\xff0c\n\x6b22\x8fce\x9ad8\x624b\x4eec\x66f4\x6539\x3001\x6307\x70b9\x3002"
+			"Please try to text and words used in the game." = "\x5c3d\x91cf\x4f7f\x7528\x6e38\x620f\x8bed\x8a00\xff1a\xff09"
+		}
+		label
+		{
+			Age = "\x5e74\x9f84"
+			"All rights reserved" = "\x7248\x6743\x6240\x6709"
+			"Are you sure you want to quit?" = "\x786e\x5b9a\x9000\x51fa\xff1f"
+			bear = "\x9759\x97f3"
+			Birthplace = "\x51fa\x751f\x5730"
+			"Blood type" = "\x8840\x578b"
+			"Current address" = "\x76ee\x524d\x5c45\x4f4f\x5730"
+			"e-mail" = "\x7535\x90ae"
+			Error = "\x9519\x8bef"
+			"game version" = "\x6e38\x620f\x7248\x672c"
+			Marriage = "\x5a5a\x59fb"
+			"Music off" = "\x97f3\x4e50 \x5173"
+			"Music on?" = "\x97f3\x6548 \x5f00?"
+			NO = NO
+			"No, thanks!" = "\x4e0d\xff0c\x8c22\x8c22"
+			OK = OK
+			Sex = "\x6027\x5225"
+			"Sort by" = "\x6309  \x6392\x5e8f"
+			"Sound off" = "\x97f3\x6548 \x5173"
+			"Sounds on?" = "\x97f3\x6548 \x5f00?"
+			Warning = "\x8b66\x793a"
+			Web = "\x7f51\x7edc"
+			"Yes, sure!" = "\x662f\xff0c\x597d\x7684"
+			"You are here" = "\x5f53\x524d\x6240\x5728\x5730"
+		}
+		"plot / story"
+		{
+			Chapter = "\x7ae0"
+			Character = "\x89d2\x8272/\x4eba\x7269"
+			Comics = "\x6f2b\x753b"
+			Ending = "\x5927\x7ed3\x5c40"
+			"Final Boss" = "\x6700\x7ec8 / \x7ec8\x6781 BOSS"
+			Intro = "\x7247\x5934"
+			Outro = "\x7247\x5c3e"
+			Page = "\x9875"
+			Stage = "\x7ae0\x8282"
+			Story = "\x6545\x4e8b"
+		}
+		rate
+		{
+			"Please Rate Us!" = "\x4eb2\xff0c\x7ed9\x4e2a\x597d\x8bc4\x5427\xff01"
+			"Rate our app" = "\x7ed9\x6211\x4eec\x7684app\x8bc4\x5206"
+			"Rate Us" = "\x8dea\x6c42\x597d\x8bc4"
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = "\x5173\x5361\x7f16\x8f91\x5668"
+		}
+	}
+}

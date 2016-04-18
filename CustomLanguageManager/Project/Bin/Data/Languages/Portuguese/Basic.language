@@ -1,0 +1,152 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = PT
+		}
+		accounts
+		{
+			"Account name" = "Nome do Usu\x00e1rio"
+			"Forgot your password?" = Esqueceu sua senha?
+			"Incorrect login or password" = "Usu\x00e1rio ou senha incorretos"
+			Login = Autentificar
+			"Login using Facebook account" = Entrar com conta Facebook
+			Password = Senha
+			Register = Registar
+			"Remember me on this computer" = Lembrar-me nesse computador
+		}
+		Animal
+		{
+			YES = Sim
+		}
+		"button label"
+		{
+			"About us" = "Sobre n\x00f3s"
+			Achievements = Achievements
+			Audio = Auditivo
+			Back = "Voltar Atr\x00e1s"
+			Cancel = Cancelar
+			Challenge = "Desafio/Desafiar"
+			"Choose hero" = "Escolhe um her\x00f3i"
+			"Choose language" = Escolhe linguagem
+			"Choose level" = "Escolhe n\x00edvel"
+			"Contact us" = Contacta-nos
+			Continue = Continuar
+			Controls = Controles
+			Credits = "Cr\x00e9ditos"
+			"Do not know" = "N\x00e3o sabe"
+			Easy = "F\x00e1cil"
+			"Game Center" = Game Center
+			"Game editor" = Editor de Jogo
+			"Game mode" = Modo de jogo
+			Hard = "D\x00edficil"
+			"How to play" = Como jogar
+			Language = Linguagem
+			Leaderboards = "Pontua\x00e7\x00f5es"
+			"Level Select" = "Seleccionar n\x00edvel"
+			"Load Game" = Carregar Jogo
+			Loot = Saque
+			"Main Menu" = Menu principal
+			Married = Casado
+			Menu = Menu
+			"More Apps" = Mais apps
+			"More Games" = Mais Jogos
+			"New Game" = Novo Jogo
+			"New order" = Nova encomenda
+			Next = "Pr\x00f3ximo"
+			Normal = Normal
+			Options = "Configura\x00e7\x00f5es"
+			"Order Online" = Encomenda online
+			"Pick character" = unlock
+			Play = Jogar
+			"Play Again" = Jogar outra vez
+			Preferences = "Prefer\x00eancias"
+			Previous = Anterior
+			"Remind me later" = Lembrar-me mais tarde
+			Replay = Voltar a jogar
+			"Reset Options" = "Reset de op\x00e7\x00f5es"
+			Retry = Tentar de novo
+			"Sandbox mode" = Modo caixa-de-areia
+			"Save game" = Gravar Jogo
+			Scoreboard = "Tabela de pontua\x00e7\x00f5es"
+			Search = Procurar
+			Secret = Secreto
+			Shop = Loja
+			Single = Solteiro
+			"Skip Level" = "Saltar n\x00edvel"
+			Store = Loja
+			Tutorial = Tutorial
+			"Update order" = Actualizar encomenda
+		}
+		"gameplay label"
+		{
+			"Base score" = "Pontua\x00e7\x00e3o base"
+			"Best results" = Melhor resultado
+			"Best score" = "Melhor pontua\x00e7\x00e3o"
+			"Game over" = Fim do jogo
+			Highscore = "Pontua\x00e7\x00e3o m\x00e1xima"
+			Lives = Vidas
+			"Lives left" = Vidas restantes
+			"Money left" = Dinheiro Restante
+			Score = "Pontua\x00e7\x00e3o"
+			Time = Tempo
+			"Time left" = Tempo restante
+			"Total score" = "Pontua\x00e7\x00e3o total"
+			"Your score" = "A tua pontua\x00e7\x00e3o"
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = Idade
+			"All rights reserved" = Todos os direitos reservados
+			"Are you sure you want to quit?" = "Voc\x00ea tem certeza que quer sair?"
+			bear = Mute
+			Birthplace = "Local de nascen\x00e7a"
+			"Blood type" = "Tipo sangu\x00edneo"
+			"Current address" = Morada actual
+			"e-mail" = e-mail
+			Error = Erro
+			"game version" = "Vers\x00e3o do jogo"
+			Marriage = Casamento
+			"Music off" = "M\x00fasica desactivada"
+			"Music on?" = "Activar m\x00fasica?"
+			NO = "N\x00e3o"
+			"No, thanks!" = "N\x00e3o, obrigado"
+			OK = OK
+			Sex = Sexo
+			"Sort by" = Organizar por
+			"Sound off" = Sons desactivados
+			"Sounds on?" = Activar sons?
+			Warning = Aviso
+			Web = Web
+			"Yes, sure!" = Sim, claro!
+			"You are here" = "Est\x00e1s aqui"
+		}
+		"plot / story"
+		{
+			Chapter = "Cap\x00edtulo"
+			Character = Personagem
+			Ending = Final
+			"Final Boss" = Boss Final
+			Intro = "Introdu\x00e7\x00e3o"
+			Outro = "Ep\x00edlogo"
+			Page = "P\x00e1gina"
+			Story = "Hist\x00f3ria"
+		}
+		rate
+		{
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = "Editor de N\x00edveis"
+		}
+	}
+}

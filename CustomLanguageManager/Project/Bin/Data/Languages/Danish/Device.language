@@ -1,0 +1,43 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Spil pauset
+			"mobile phone" = mobiltelefon
+			tablet = tablet
+			console = konsol
+			multitouch = multi-touch
+			resolution = "opl\x00f8sning"
+			screen = "sk\x00e6rm"
+			display = "sk\x00e6rm"
+			"Game resumed" = Spil fortsat
+			"Tilt device to control" = Vip enheden for at styre
+			Accelometer = Accelerometer
+			gyroscope = Gyroskop
+			mouse = mus
+			keyboard = tastatur
+			"pad controller" = pad controller
+			"headphones recommended" = Hovedtelefoner anbefalet
+		}
+		"device orientation"
+		{
+			"device orientation" = Enheds retning
+			"landscape orientation" = Liggende
+			"portrait orientation" = "St\x00e5ende"
+			"left handed" = "Venstreh\x00e5ndet"
+			"right handed" = "H\x00f8jerh\x00e5ndet"
+		}
+		gesture
+		{
+			"Shake device" = Ryst enheden
+			"pinch zoom" = To-finger zoom
+			swipe = "Tr\x00e6k"
+			"drag and drop" = "Tr\x00e6k og slip"
+			rotate = "Rot\x00e9r"
+			"double click" = Dubbelt klik
+		}
+	}
+}

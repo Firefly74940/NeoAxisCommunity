@@ -1,0 +1,93 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Po\x021bi desc\x0103rca un joc GRATUIT ACUM!"
+			"FREE app of the day!" = "Aplica\x021bia GRATUIT\x0102 a zilei!"
+			"Today for FREE" = "GRATIS numai ast\x0103zi"
+			"Daily FREE apps" = "Aplica\x021biile GRATIS ale zilei"
+			"Play for FREE" = "Joac\x0103 GRATUIT"
+			"Download for FREE" = "Descarc\x0103 GRATUIT"
+			"FREE to download" = "GRATIS de desc\x0103rcat"
+			"You have won ..." = "Ai c\x00e2\x0219tigat..."
+			"Collect your prize now !" = Strange castigul acum!
+			"Coming soon to (pick market)" = "In cur\x00e2nd \x00een (...)"
+			"Game contains in-app purchases" = "Jocul con\x021bine achizi\x021bii \x00een aplica\x021bie"
+			"Game requires internet connection" = Jocul are nevoie de o conexiune la Internet
+			"Internet not available" = "Nu exist\x0103 conexiune la Internet"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "Tranzac\x021bie e\x0219uat\x0103"
+			"Purchase cancelled" = "Tranzac\x021bie anulat\x0103"
+			"Please try again later" = "V\x0103 rug\x0103m \x00eencerca\x021bi din nou mai t\x00e2rziu"
+			"Store is not available" = Magazinul nu este disponibil
+			Restore = "Restabile\x0219te"
+			"Restore all purchases to this device ?" = "Vrei s\x0103 resetezi toate tranzac\x021biile f\x0103cute pe acest dispozitiv?"
+			"Remove ads" = "Scap\x0103 de reclame"
+			"Double time" = Timp dublu
+			"Double gold" = Aur dublu
+			"Double lives" = "Vie\x021bi duble"
+			"Restore Now" = "Restabile\x0219te acum"
+			"Unlock ..." = "Deblocheaz\x0103 ..."
+			"..." = "az\x0103 ..."
+			"No ads" = "F\x0103r\x0103 reclame"
+			"Buy hints" = "Cump\x0103r\x0103 sugestii"
+			"Buy gold" = "Cump\x0103r\x0103 aur"
+			"Buy gems" = "Cump\x0103r\x0103 diamante"
+			"Get full version" = "Cump\x0103r\x0103 versiunea complet\x0103"
+			"Get a refund" = "Ob\x021bine\x021bi o rambursare"
+			"Unlock all levels" = "Deblocheaz\x0103 toate nivelele"
+			"Unlock all game modes" = "Deblocheaz\x0103 toate modurile de joc"
+			"Get more hints" = "Ob\x021bine mai multe indicii"
+			"Get more gold for FREE" = "Ob\x021bine mai mult aur GRATUIT"
+		}
+		question
+		{
+			"How do you rate this game?" = Cum notezi acesti joc?
+		}
+	}
+}

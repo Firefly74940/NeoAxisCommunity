@@ -1,0 +1,86 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = BRAZILIAN PORTUGUESE
+		}
+		God
+		{
+			God = Deus
+			Goddess = Deusa
+			"False god" = Falso Deus
+			Buddha = Buda
+			Savior = Salvador
+		}
+		Angel
+		{
+			Angel = Anjo
+			"Fallen angel" = "Anjo Ca\x00eddo"
+			Michael = Miguel
+			Gabriel = Gabriel
+			Rafael = Rafael
+			Uriel = Uriel
+		}
+		"Holy presence"
+		{
+			Fairy = Fada
+			Genie = "G\x00eanio"
+			Ghost = Fantasma
+			Dwarf = "An\x00e3o"
+			Undine = Ondina
+			Gnome = Gnomo
+			Salamander = Salamandra
+			Sylph = Silfo
+			Phoenix = "F\x00eanix"
+			Elf = Elfo
+			Nymph = Ninfa
+		}
+		Demon
+		{
+			Demon = "Dem\x00f4nio"
+			Satan = Satan
+			Lucifer = "L\x00facifer"
+			Baphomet = "Bafom\x00e9"
+			Belial = Burial
+			Belphegor = Belfegor
+			Mammon = Mamon
+			Incubus = "\x00cdncubo"
+			Succubus = "S\x00facubo"
+			Beelzebub = Belzebu
+			Cerberus = "C\x00e9rbero"
+			Familiar = Familiar
+		}
+		Monster
+		{
+			Monster = Monstro
+			Slime = Gosma
+			Vampire = Vampiro
+			Zombie = Zumbi
+			Undead = Morto-Vivo
+			"Wolf Man" = Lobisomem
+			Beastman = Brutamontes
+			Goblin = Goblin
+		}
+		Dragon
+		{
+			Dragon = "Drag\x00e3o"
+			Firedrake = "Drag\x00e3o de Fogo"
+			"Ice dragon" = "Drag\x00e3o de Gelo"
+			"Water dragon" = "Drag\x00e3o D\'\x00e1gua"
+			"Thunder dragon" = "Drag\x00e3o do Trov\x00e3o"
+			Wyvern = Serpe
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotauro
+			Centaur = Centauro
+			Harpy = Harpia
+			Hydra = Hidra
+			Cyclops = Ciclope
+			Titan = "Tit\x00e3"
+		}
+	}
+}

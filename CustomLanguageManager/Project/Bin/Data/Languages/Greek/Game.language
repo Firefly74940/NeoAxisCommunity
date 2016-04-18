@@ -1,0 +1,41 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		"game category"
+		{
+		}
+		"game theme"
+		{
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+		}
+		online
+		{
+		}
+		Race
+		{
+			laps = "\x03b3\x03cd\x03c1\x03bf\x03b9"
+			position = "\x03b8\x03ad\x03c3\x03b7"
+			track = "\x03c0\x03af\x03c3\x03c4\x03b1"
+			"race track" = "\x03c0\x03af\x03c3\x03c4\x03b1 \x03b1\x03b3\x03ce\x03bd\x03c9\x03bd"
+			fuel = "\x03ba\x03b1\x03cd\x03c3\x03b9\x03bc\x03b1"
+			oil = "\x03bb\x03ac\x03b4\x03b9\x03b1"
+			gear = "\x03c4\x03b1\x03c7\x03cd\x03c4\x03b7\x03c4\x03b1"
+			suspension = "\x03b1\x03bd\x03b1\x03c1\x03c4\x03ae\x03c3\x03b5\x03b9\x03c2"
+			tire = "\x03bb\x03ac\x03c3\x03c4\x03b9\x03c7\x03bf"
+			wheel = "\x03c4\x03b9\x03bc\x03cc\x03bd\x03b9"
+			rim = "\x03b6\x03ac\x03bd\x03c4\x03b1"
+			clutch = "\x03c3\x03c5\x03bc\x03c0\x03bb\x03ad\x03ba\x03c4\x03b7\x03c2"
+			light = "\x03c6\x03c9\x03c2"
+		}
+		Board
+		{
+		}
+	}
+}

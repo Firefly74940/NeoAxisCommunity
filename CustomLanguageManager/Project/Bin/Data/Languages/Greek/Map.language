@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		Direction
+		{
+		}
+		Building
+		{
+		}
+		Nature
+		{
+		}
+		Plant
+		{
+		}
+		Weather
+		{
+		}
+		Space
+		{
+		}
+	}
+}

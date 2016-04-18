@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = DUTCH
+		}
+		God
+		{
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+		}
+		Dragon
+		{
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

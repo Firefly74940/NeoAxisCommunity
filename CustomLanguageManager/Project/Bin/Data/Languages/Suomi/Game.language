@@ -1,0 +1,53 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tornipuolustus
+			Puzzle = Puzzle
+			"Endless runner" = Juoksu
+			Shooter = Ammuskelu
+			Adventure = Seikkailu
+			Quiz = Tietovisa
+			"Vertical shooter (like Tyrian)" = pystyammuskelu
+			"Fast-paced game" = Nopeatempoinen peli
+			Strategy = Strategia
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasia
+			Science = Tiede
+			Medieval = Keskiaika
+			Modern = Moderni
+			Ancient = Muinaisaika
+			"World War" = Maailmansota
+			"Wild West / Western" = "Villi L\x00e4nsi"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = "T\x00e4ysversio"
+			"Lite version" = Kevytversio
+			"Free version (Freemium)" = Ilmaisversio
+			"Premium version" = Premiumversio
+		}
+		online
+		{
+			"Singleplayer game" = Yksinpeli
+			"Multiplayer game" = Moninpeli
+			"Asynchronous multiplayer" = Vuoropohjainen
+			"Hotseat mode" = Pelivuoromoodi
+		}
+		Race
+		{
+		}
+		Board
+		{
+		}
+	}
+}

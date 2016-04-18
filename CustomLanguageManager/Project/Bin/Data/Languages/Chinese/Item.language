@@ -1,0 +1,58 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		Arms
+		{
+			Sword = "\x5251"
+			Longsword = "\x957f\x5251"
+			Dagger = "\x77ed\x5251"
+			Katana = "\x65e5\x672c\x5200"
+			Whip = "\x97ad\x5b50"
+			Knife = "\x5c0f\x5200"
+			Cane = "\x6756"
+			Wand = "\x68d2"
+			Bow = "\x5f13"
+			Knuckles = "\x62f3"
+			Katar = "\x62f3\x523a"
+			Mace = "\x5782"
+			Axe = "\x65a7"
+			Staff = "\x6743\x6756"
+			Crossbow = "\x5341\x5b57\x5f13"
+		}
+		Gun
+		{
+			Pistol = "\x624b\x67aa"
+			Rifle = "\x6765\x590d\x67aa"
+			"Sniper rifle" = "\x72d9\x51fb\x67aa"
+			"Machine gun" = "\x673a\x67aa"
+			Cannon = "\x5927\x70ae"
+		}
+		Protector
+		{
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+		}
+		medicine
+		{
+		}
+	}
+}

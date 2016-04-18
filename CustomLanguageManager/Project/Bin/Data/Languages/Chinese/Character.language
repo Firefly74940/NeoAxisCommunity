@@ -1,0 +1,76 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		Character
+		{
+			Male = "\x7537\x6027"
+			Woman = "\x5973\x6027"
+			Youth = "\x9752\x5e74"
+			"Mrs." = "\x592b\x4eba"
+			Adult = "\x6210\x4eba"
+			Children = "\x5152\x7ae5"
+			Boy = "\x5c11\x5e74"
+			Girl = "\x5c11\x5973"
+			"Old man" = "\x8001\x4eba"
+			"Old woman" = "\x8001\x592a\x592a"
+		}
+		Family
+		{
+			Grandfather = "\x7956\x7236/\x723a\x723a || \x5916\x7956\x7236/\x516c\x516c"
+			Grandmother = "\x7956\x6bcd/\x5af2\x5af2 || \x5916\x7956\x6bcd/\x5a46\x5a46"
+			Father = "\x7236\x89aa/\x7238\x7238"
+			Mother = "\x6bcd\x89aa/\x5abd\x5abd"
+			"(Elder) Brother" = "\x54e5/\x54e5\x54e5"
+			"(Younger) Brother" = "\x5f1f/\x5f1f\x5f1f"
+			"(Elder) Sister" = "\x59d0/\x59d0\x59d0"
+			"(Younger) Sister" = "\x59b9/\x59b9\x59b9"
+			Son = "\x5152\x5b50"
+			Daughter = "\x5973\x5152"
+			Grandson = "\x5b6b\x5152"
+			"Grand-daughter" = "\x5b6b\x5973"
+			"Great-grandson" = "\x66fe\x5b6b\x5152"
+			Uncle = "\x4f2f\x7236 | \x53d4\x7236 || \x8205\x7236/\x8205\x8205"
+			Aunt = "\x59d1\x59d1 || \x963f\x59e8"
+		}
+		fantasy
+		{
+			Priest = "\x7267\x5e08"
+			Hunter = "\x730e\x4eba"
+			Paladin = "\x5723\x9a91\x58eb"
+			Warlock = "\x672f\x58eb"
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+			Position = "\x8eab\x5206"
+			Emperor = "\x7687\x5e1d"
+			Empress = "\x7687\x540e"
+			King = "\x570b\x738b"
+			Queen = "\x5973\x738b"
+			Prince = "\x738b\x5b50"
+			Princess = "\x516c\x4e3b"
+			Royal = "\x738b\x65cf"
+			Duke = "\x516c\x7235"
+			Count = "\x4f2f\x7235"
+			Noble = "\x8d35\x65cf/\x8af8\x4faf"
+			Villager = "\x6751\x6c11"
+			Merchant = "\x5546\x4eba/\x79c1\x5546"
+			Farmers = "\x8fb2\x6c11"
+			Slave = "\x5974\x96b8"
+		}
+		Occupation
+		{
+		}
+	}
+}

@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

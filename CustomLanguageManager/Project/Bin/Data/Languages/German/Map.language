@@ -1,0 +1,118 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		Direction
+		{
+			Direction = Richtung
+			"Move Left" = Nach links bewegen
+			"Move right" = Nach rechts bewegen
+			"Move up" = Nach oben bewegen
+			"Move down" = Nach unten bewegen
+			"Move forward" = Nach vorne bewegen
+			North = Norden
+			South = "S\x00fcden"
+			East = Osten
+			West = Westen
+			Northeast = Nordost
+			Southeast = "S\x00fcdost"
+			Northwest = Nordwest
+			Southwest = "S\x00fcdwest"
+		}
+		Building
+		{
+			Castle = "Burg / Schloss"
+			"Castle town" = Burgstadt
+			City = Stadt
+			Town = Ortschaft
+			Village = Dorf
+			Building = "Geb\x00e4ude"
+			Hut = "H\x00fctte"
+			Dungeon = "Kerker / Verlies"
+			Well = Brunnen
+			Jail = "Gef\x00e4ngnis"
+		}
+		Nature
+		{
+			Nature = Natur
+			Forest = Wald
+			Mountain = Berg
+			"Dense forest" = Dichter Wald
+			Amazon = Amazonas
+			River = Fluss
+			Grassland = Grassland
+			"Sandy beach" = Sandstrand
+			Sea = See
+			Ford = Furt
+			Cave = "H\x00f6hle"
+			Underground = Untergrund
+			Underworld = Unterwelt
+			Desert = "W\x00fcste"
+			Sand = Sand
+			Stone = Stein
+			Rock = Fels
+			Mud = Schlamm
+		}
+		Plant
+		{
+			Plant = Pflanze
+			Flower = Blume
+			Grass = Gras
+			Tree = Baum
+			Stem = Stamm
+			Root = Wurzel
+			Fruit = Frucht
+			Species = Spezies
+			Sap = Pflanzensaft
+			Seed = "Saat / Samen"
+		}
+		Weather
+		{
+			Weather = Wetter
+			Air = Luft
+			Sky = Himmel
+			Wind = Wind
+			Shine = Sonnenschein
+			Cloud = Wolke
+			Cloudiness = "Bew\x00f6lkung"
+			Rain = Regen
+			Shower = Schauer
+			Thunderstorm = Gewitter
+			Thunder = Donner
+			Fog = Nebel
+			Haze = Dunst
+			Snow = Schnee
+			Sleet = Graupel
+			Hail = Hagel
+			Storm = Sturm
+			Typhoon = Taifun
+			Sandstorm = Sandsturm
+		}
+		Space
+		{
+			Space = Weltraum
+			Sun = Sonne
+			Mercury = Merkur
+			Venus = Venus
+			Earth = Erde
+			Mars = Mars
+			Jupiter = Jupiter
+			Saturn = Saturn
+			Uranus = Uranus
+			Neptune = Neptun
+			Pluto = Pluto
+			Moon = Mond
+			Star = Stern
+			Planet = Planet
+			Comet = Komet
+			Meteor = Meteor
+			Satellite = Sattelit
+			Debris = "Tr\x00fcmmer"
+		}
+	}
+}

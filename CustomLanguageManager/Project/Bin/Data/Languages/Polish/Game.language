@@ -1,0 +1,79 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower defense
+			Puzzle = Puzzle
+			"Endless runner" = "Platform\x00f3wka"
+			Shooter = Strzelanka
+			Adventure = "Przygod\x00f3wka"
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = "Strzelanka / Shoot \'em Up"
+			"Fast-paced game" = "Gra akcji / dynamiczna gra"
+			Strategy = Strategia
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasy
+			Science = Nauka
+			Medieval = "\x015aredniowiecze"
+			Modern = "Tera\x017aniejszo\x015b\x0107"
+			Ancient = "Staro\x017cytno\x015b\x0107"
+			"World War" = "Wojna \x015bwiatowa"
+			"Wild West / Western" = "Dziki Zach\x00f3d"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = "Pe\x0142na wersja"
+			"Lite version" = Wersja demo
+			"Free version (Freemium)" = Wersja darmowa (freemium)
+			"Premium version" = "Wersja p\x0142atna"
+		}
+		online
+		{
+			"Singleplayer game" = Gra dla jednego gracza
+			"Multiplayer game" = Gra dla wielu graczy
+			"Asynchronous multiplayer" = Niesynchroniczna rozgrywka sieciowa
+			"Hotseat mode" = "Gor\x0105ce krzes\x0142a"
+		}
+		Race
+		{
+			laps = "Okr\x0105\x017cenia"
+			position = Pozycja
+			track = Trasa
+			"race track" = "Tor wy\x015bcigowy"
+			fuel = Paliwo
+			oil = Olej
+			gear = Bieg
+			suspension = Zawieszenie
+			tire = Opona
+			wheel = "Ko\x0142o"
+			rim = Felga
+			clutch = "Sprz\x0119g\x0142o"
+			light = "\x015awiat\x0142o"
+		}
+		Board
+		{
+			Board = Plansza
+			Dice = "Ko\x015b\x0107"
+			"Roll (Dice)" = "Rzut ko\x015bci\x0105"
+			Domino = Domino
+			"Card (Playing)" = Karty
+			"Draw(Card)" = "Wyci\x0105gnij kart\x0119 / Poci\x0105gnij kart\x0119"
+			Pass = "Pomi\x0144 / Pas"
+			Deck = Talia
+			"Play (noun)" = Zagraj
+			Slam = Uderz
+			"Discard Pile" = Stos odrzuconych
+			"Boneyard (Dominoes)" = Pula
+			Turn = Tura
+		}
+	}
+}

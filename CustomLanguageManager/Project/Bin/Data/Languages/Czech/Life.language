@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

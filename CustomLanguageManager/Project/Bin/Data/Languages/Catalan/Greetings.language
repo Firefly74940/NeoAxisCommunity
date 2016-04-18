@@ -1,0 +1,26 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		Greetings
+		{
+			Hello = Hola
+			Welcome = Benvingut
+			"Good luck" = Bona sort
+			"Congratulations!" = Felicitats!
+		}
+		Thanks
+		{
+			"Thank you" = "Gr\x00e0cies"
+			"Thank you very much" = "Moltes gr\x00e0cies"
+		}
+		shop
+		{
+		}
+	}
+}

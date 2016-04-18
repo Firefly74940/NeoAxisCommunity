@@ -1,0 +1,40 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		Arms
+		{
+		}
+		Gun
+		{
+			Rifle = Fusilo
+		}
+		Protector
+		{
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+			Clock = Monero
+		}
+		medicine
+		{
+		}
+	}
+}

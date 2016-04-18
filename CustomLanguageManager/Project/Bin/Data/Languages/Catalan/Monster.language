@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = CATALAN
+		}
+		God
+		{
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+		}
+		Dragon
+		{
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

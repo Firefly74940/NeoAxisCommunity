@@ -1,0 +1,159 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = DE
+		}
+		accounts
+		{
+			"Account name" = Zugangsname
+			"Forgot your password?" = "\x3147"
+			"Incorrect login or password" = Fehlerhaftes Login oder Passwort
+			Login = Login
+			"Login using Facebook account" = Mit Facebook einloggen
+			Password = Passwort
+			Register = Registrieren
+			"Remember me on this computer" = Erinnere dich an mich auf diesem Computer
+		}
+		Animal
+		{
+			YES = JA
+		}
+		"button label"
+		{
+			"About us" = "\x00dcber uns"
+			Achievements = Achievements
+			Audio = Audio
+			Back = "Zur\x00fcck"
+			Cancel = Abbrechen
+			Challenge = Herausforderung
+			"Choose hero" = "Held ausw\x00e4hlen"
+			"Choose language" = "Sprache ausw\x00e4hlen"
+			"Choose level" = "Level ausw\x00e4hlen"
+			"Contact us" = Kontaktiere uns
+			Continue = Fortsetzen
+			Controls = Steuerung
+			Credits = Credits
+			"Do not know" = "Wei\x00df nicht"
+			Easy = Leicht
+			"Game Center" = Game Center
+			"Game editor" = Spieleditor
+			"Game mode" = Spielmodus
+			Hard = Schwer
+			Help = Hilfe
+			"How to play" = Anleitung
+			Language = Sprache
+			Leaderboards = Bestenliste
+			"Level Select" = "Level w\x00e4hlen"
+			"Load Game" = Spiel laden
+			Loot = "Pl\x00fcndern"
+			"Main Menu" = "Hauptmen\x00fc"
+			Married = Verheiratet
+			Menu = "Men\x00fc"
+			"More Apps" = Mehr Apps
+			"More Games" = Mehr Spiele
+			"New Game" = Neues Spiel
+			"New order" = Neue Bestellung
+			Next = "N\x00e4chste"
+			Normal = Normal
+			Options = "Einstellungen zur\x00fccksetzen"
+			"Order Online" = Online bestellen
+			Pause = Pause
+			"Pick character" = "Character ausw\x00e4hlen"
+			Play = full
+			"Play Again" = Nochmal spielen
+			Preferences = Voreinstellungen
+			Previous = Vorherige
+			Quit = Verlassen
+			"Remind me later" = "Erinnere mich sp\x00e4ter"
+			Replay = Wiederholen
+			"Reset Options" = "Einstellungen zur\x00fccksetzen"
+			Retry = Nochmal versuchen
+			"Sandbox mode" = Sandkasten Modus
+			"Save game" = Spiel speichern
+			Scoreboard = Punkteliste
+			Search = Suche
+			Secret = Geheim
+			Shop = Shop
+			Single = Ledig
+			"Skip Level" = "Level \x00fcberspringen"
+			Store = Laden
+			Tutorial = Anleitung
+			"Update order" = "Bestellung \x00e4ndern"
+		}
+		"gameplay label"
+		{
+			"Base score" = Basis-Punktzahl
+			"Best results" = Beste Ergebnisse
+			"Best score" = Beste Punktzahl
+			"Game over" = Spielende
+			Highscore = Highscore
+			Lives = Leben
+			"Lives left" = "Leben \x00fcbrig"
+			"Money left" = "Geld \x00fcbrig"
+			Score = Punkte
+			Time = Zeit
+			"Time left" = "Zeit \x00fcbrig"
+			"Total score" = Gesamtpunkte
+			"Your score" = Deine Punkte
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = Alter
+			"All rights reserved" = Alle Rechte vorbehalten
+			"Are you sure you want to quit?" = "Willst du wirklich aufh\x00f6ren?"
+			bear = Stumm
+			Birthplace = Geburtsort
+			"Blood type" = Blutgruppe
+			"Current address" = Adresse
+			"e-mail" = E-Mail
+			Error = Fehler
+			"game version" = Spielversion
+			Marriage = Familienstand
+			"Music off" = Musik aus
+			"Music on?" = Musik an?
+			NO = NEIN
+			"No, thanks!" = Nein, danke!
+			OK = OK
+			Sex = Geschlecht
+			"Sort by" = Sortieren nach
+			"Sound off" = Ton aus
+			"Sounds on?" = Ton an?
+			Warning = Warnung
+			Web = Web
+			"Yes, sure!" = Ja, gern!
+			"You are here" = Du bist hier
+		}
+		"plot / story"
+		{
+			Chapter = Kapitel
+			Character = Charakter
+			Comics = Comics
+			Ending = Ende
+			"Final Boss" = Endgegner
+			Intro = Einleitung
+			Outro = Endsequenz
+			Page = Seite
+			Story = Geschichte
+		}
+		rate
+		{
+			"Please Rate Us!" = Bitte bewerte uns!
+			"Rate our app" = Bewerte unsere App
+			"Rate Us" = Bewerte uns
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = Leveleditor
+		}
+	}
+}

@@ -1,0 +1,22 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		Greetings
+		{
+			"Congratulations!" = Geluk!
+		}
+		Thanks
+		{
+			"Thank you very much" = baie dankie
+		}
+		shop
+		{
+		}
+	}
+}

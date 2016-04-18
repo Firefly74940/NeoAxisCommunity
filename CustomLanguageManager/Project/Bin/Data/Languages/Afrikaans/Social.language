@@ -1,0 +1,14 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		social
+		{
+		}
+	}
+}

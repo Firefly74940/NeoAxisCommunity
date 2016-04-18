@@ -1,0 +1,42 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Jeu en pause
+			"mobile phone" = mobile
+			tablet = tablette
+			console = console
+			multitouch = multitouch
+			resolution = "r\x00e9solution"
+			screen = "\x00e9cran"
+			display = affichage
+			"Game resumed" = Jeu en cours
+			"Tilt device to control" = "Incliner l\'appareil pour contr\x00f4ler"
+			Accelometer = "Acc\x00e9l\x00e9rom\x00e8tre"
+			gyroscope = gyroscope
+			mouse = Souris
+			keyboard = Clavier
+			"pad controller" = Manette
+		}
+		"device orientation"
+		{
+			"device orientation" = "orientation de l\'appareil"
+			"landscape orientation" = Mode paysage
+			"portrait orientation" = Mode portrait
+			"left handed" = gaucher
+			"right handed" = droitier
+		}
+		gesture
+		{
+			"Shake device" = "Secouer l\'appareil"
+			"pinch zoom" = pincer
+			swipe = glisser
+			"drag and drop" = "glisser d\x00e9poser"
+			rotate = tourner
+			"double click" = double cliquer
+		}
+	}
+}

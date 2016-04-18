@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		social
+		{
+			"Share an achievement" = Condividi il risultato
+			"Post to Twitter" = condividi su Twitter
+			"Share on Facebook" = condividi su Facebook
+			"Your score has been posted to Facebook!" = "Il tuo punteggio \x00e8 stato condiviso su Facebook!"
+			"Your score has been posted to Twitter!" = "Il tuo punteggio \x00e8 stato condiviso su Twitter"
+			"Thank you for playing!" = Grazie per aver giocato!
+			"Find a friend" = Trova un amico
+			"Invite a friend" = Invita un amico
+			"Start a chat" = comincia a chattare
+			"Chat room" = Stanza della Chat
+			"Share photo on Facebook" = Condividi la foto su facebook
+			"Like Us" = metti mi piace
+			"Follow Us" = Seguici
+			"Tell about us" = dicono di noi
+			"Share score" = Condividi punteggio
+		}
+	}
+}

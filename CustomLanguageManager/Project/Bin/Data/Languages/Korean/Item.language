@@ -1,0 +1,109 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		Arms
+		{
+			Sword = "\xc18c\xb4dc / \xac80"
+			Longsword = "\xb871\xc18c\xb4dc / \xc7a5\xac80"
+			Dagger = "\xb2e8\xac80"
+			Katana = "\xce74\xd0c0\xb098 / \xc77c\xbcf8\xb3c4"
+			Whip = "\xcc44\xcc0d"
+			Knife = "\xb098\xc774\xd504"
+			Cane = "\xc9c0\xd321\xc774"
+			Wand = "\xbd09 / \xc644\xb4dc"
+			Bow = "\xd65c / \xbcf4\xc6b0"
+			Knuckles = "\xad8c\xac11 / \xb108\xd074"
+			Katar = "\xce74\xd0c0\xb974"
+			Mace = "\xba54\xc774\xc2a4 / \xace4\xbd09"
+			Axe = "\xc561\xc2a4 / \xb3c4\xb07c"
+			Staff = "\xc644\xb4dc / \xc9c0\xd321\xc774"
+			Crossbow = "\xd06c\xb85c\xc2a4\xbcf4\xc6b0 / \xc11d\xad81"
+		}
+		Gun
+		{
+			Pistol = "\xad8c\xcd1d"
+			Rifle = "\xc18c\xcd1d"
+			"Sniper rifle" = "\xc800\xaca9 \xc18c\xcd1d"
+			"Machine gun" = "\xae30\xad00\xcd1d"
+			Cannon = "\xb300\xd3ec"
+			"Laser rifle" = "\xb808\xc774\xc800 \xcd1d"
+			"Beam gun" = "\xbe54 \xac74"
+		}
+		Protector
+		{
+			Shield = "\xbc29\xd328"
+			Armor = "\xac11\xc637"
+			Helmet = "\xd22c\xad6c"
+			Forearm = "\xc190\xbaa9 \xbcf4\xd638\xad6c"
+			Mantle = "\xb9dd\xd1a0"
+			Boots = "\xbd80\xce20"
+			"Chain mail" = "\xc0ac\xc2ac \xac11\xc637"
+			Belt = "\xd601\xb760 / \xbca8\xd2b8"
+			Crown = "\xc655\xad00"
+		}
+		Accessory
+		{
+			Accessory = "\xc545\xc138\xc0ac\xb9ac/ \xc7a5\xc2e0\xad6c"
+			Jewelry = "\xc7a5\xc2e0\xad6c"
+			Ring = "\xbc18\xc9c0"
+			Pierce = "\xd53c\xc5b4\xc2a4/\xd53c\xc5b4\xc2f1"
+			Necklace = "\xbaa9\xac78\xc774"
+			Bracelet = "\xd314\xcc0c"
+		}
+		Costume
+		{
+			Costume = "\xbcf5\xc7a5"
+			Clothing = "\xc758\xb958"
+			Clothes = "\xc637"
+			Jacket = "\xc0c1\xc758"
+			Underwear = "\xc18d\xc637"
+			Socks = "\xc591\xb9d0"
+			Sweater = "\xc2a4\xc6e8\xd130"
+			Sleepwear = "\xc7a0\xc637"
+			Pajamas = "\xd30c\xc790\xb9c8"
+			Bra = "\xbe0c\xb798\xc9c0\xc5b4"
+			Panties = "\xd32c\xd2f0"
+			Stockings = "\xc2a4\xd0c0\xd0b9"
+			"Garter belt" = "\xac00\xb354\xbca8\xd2b8"
+			Makeup = "\xd654\xc7a5"
+			Lipstick = "\xb9bd\xc2a4\xd2f1"
+			Perfume = "\xd5a5\xc218"
+			Swimsuit = "\xc218\xc601\xbcf5"
+			Bikini = "\xbe44\xd0a4\xb2c8"
+		}
+		"Special Moves"
+		{
+			"Special Moves" = "\xd544\xc0b4\xae30"
+			Swordsmanship = "\xac80\xc220"
+		}
+		Magic
+		{
+			Magic = "\xb9c8\xbc95"
+			Apparition = "\xd658\xc601"
+			Recovery = "\xbcf5\xad6c"
+			"Attack magic" = "\xacf5\xaca9 \xb9c8\xbc95"
+		}
+		item
+		{
+			Coin = "\xb3d9\xc804"
+			Clock = "\xc2dc\xacc4"
+			Artifact = "\xc720\xbb3c"
+			Fossil = "\xd654\xc11d"
+			Bone = "\xbf08"
+		}
+		medicine
+		{
+			medicine = "\xc57d"
+			"Recovery medicine" = "\xd68c\xbcf5\xc57d"
+			Antidote = "\xd574\xb3c5\xc81c"
+			"Revival medicine" = "\xbd80\xd65c\xc57d"
+			Herb = "\xc57d\xcd08"
+		}
+	}
+}

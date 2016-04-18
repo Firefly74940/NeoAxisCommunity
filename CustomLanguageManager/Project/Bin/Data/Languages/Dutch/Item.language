@@ -1,0 +1,66 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		Arms
+		{
+			Sword = Zwaard
+			Dagger = Dolk
+			Katana = Katana
+			Knife = Mes
+			Axe = Bijl
+			Staff = Staf
+			Crossbow = Kruisboog
+		}
+		Gun
+		{
+			Pistol = Pistool
+			Rifle = Geweer
+			"Sniper rifle" = Scherpschuttersgeweer
+			"Machine gun" = Machinegeweer
+			Cannon = Kanon
+		}
+		Protector
+		{
+			Shield = Schild
+			Belt = Riem
+		}
+		Accessory
+		{
+			Jewelry = juwelen
+			Ring = ring
+			Necklace = ketting
+			Bracelet = armband
+		}
+		Costume
+		{
+			Costume = kostuum
+			Clothing = kleding
+			Clothes = kleren
+			Jacket = jas
+			Underwear = ondergoed
+			Socks = sokken
+			Sweater = trui
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+			Magic = magie
+		}
+		item
+		{
+		}
+		medicine
+		{
+			medicine = medicijn
+			Herb = kruid
+		}
+	}
+}

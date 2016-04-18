@@ -1,0 +1,153 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		Character
+		{
+			Male = Masculino
+			Woman = Mujer
+			Youth = Joven
+			"Mrs." = "Se\x00f1ora"
+			Adult = Adulto
+			Children = "Ni\x00f1os / Ni\x00f1as (m/f)"
+			Boy = Chico
+			Girl = Chica
+			"Old man" = Anciano
+			"Old woman" = Anciana
+			Gentleman = Caballero
+			Lady = Dama
+			Character = Personaje
+			Hero = "H\x00e9roe"
+			"Supporting role" = Papel secundario
+			"Small role" = "Pequ\x00f1o papel"
+			"Role of the villain" = Papel de villano
+			Heroine = Heroina
+			Fellow = Seguidor
+			Friend = Amigos
+			"Formidable enemy" = Enemigo formidable
+			Revenge = Venganza
+		}
+		Family
+		{
+			Family = Familia
+			Grandfather = Abuelo
+			Grandmother = Abuela
+			Father = Padre
+			Mother = Madre
+			"(Elder) Brother" = Hermano
+			"(Younger) Brother" = Hermano
+			"(Elder) Sister" = Hermana
+			"(Younger) Sister" = Hermana
+			Child = "Ni\x00f1o"
+			Son = Hijo
+			Daughter = Hija
+			Grandson = Nieto
+			"Grand-daughter" = Nieta
+			"Great-grandson" = Bisnieto
+			Relative = Familiar
+			Uncle = "T\x00edo"
+			Aunt = "T\x00eda"
+			"The cousin" = Primo
+			"Female cousin" = Prima
+		}
+		fantasy
+		{
+			Savior = Salvador
+			Fighter = Luchador
+			Priest = Cura
+			Magician = Mago
+			Sage = Sabio
+			Summoner = Sumo
+			Alchemist = Alquimista
+			Knight = Caballero
+			Swordsman = Espadachin
+			"Kung fu master" = Maestro de KungFu
+			Hunter = Cazador
+			Rogue = "P\x00edcaro"
+			Adventurer = Aventurero
+			Ninja = Ninja
+			Samurai = Samurai
+			"Dragon knight" = "Caballero drag\x00f3n"
+			Assassin = Asesino
+			Spy = "Esp\x00eda"
+			Dancer = Danzante
+			Merchant = Mercader
+			Robot = Robot
+			Android = Androide
+			Paladin = "Palad\x00edn"
+			Crusader = Cruzado
+			Wizard = Mago
+			Warlock = Brujo
+			Sorcerer = Hechicero
+			Monk = Monje
+		}
+		Army
+		{
+			Army = "Ej\x00e9rcito"
+			Commander = Comandante
+			General = General
+			Captain = "Capit\x00e1n"
+			Infantry = Soldado
+			"Light infantry" = "Infanter\x00eda ligera"
+			"Heavy Infantry" = "Infanter\x00eda pesada"
+			"Soldier rifle" = Soldado con rifle
+			Sniper = Francotirador
+			Grenadier = Granadero
+			"Infantry long spear" = Lancero
+			Engineer = Ingeniero
+			Bowman = Arquero
+			Cavalry = "Caballer\x00eda"
+			"Light cavalry" = "Cabalerr\x00eda ligera"
+			"Cavalry hunting" = "Caballer\x00eda de caza"
+			Lancer = Lancero
+			"Heavy cavalry" = "Caballr\x00eda pesada"
+			Artillery = "Artiller\x00eda"
+			"Fast moving artillery" = "Artiller\x00eda ligera"
+			"Armored soldiers" = Soldados armados
+			"Spear soldier machine" = Ballesta
+			Tanker = Tanque
+			"Armored infantry" = "Infanter\x00eda Armada"
+			Guardsman = Guardia
+		}
+		Class
+		{
+			Class = Clase
+		}
+		Position
+		{
+			Position = "Posici\x00f3n"
+			King = Rey
+			Princess = Princesa
+			Royal = Realeza
+			Noble = Noble
+			Merchant = Mercante
+			Villager = Aldeano
+			Farmers = Granjero
+			Slave = Esclavo
+		}
+		Occupation
+		{
+			Occupation = "Ocupaci\x00f3n"
+			Craftsman = Obrero
+			Carpenter = Carpintero
+			Bakery = Panadero
+			Butcher = Carnicero
+			Greengrocer = Verdulero
+			"Liquor store" = Tienda de licores
+			Inn = Mesonero
+			Traveler = Viajero
+			Teacher = Profesor
+			"(Female) Teacher" = Profesor
+			Disciple = Disciplina
+			Apprentice = Aprendiz
+			Gambler = Jugador
+			Whore = Furcia
+			"Wanted man" = Fujitivo
+		}
+	}
+}

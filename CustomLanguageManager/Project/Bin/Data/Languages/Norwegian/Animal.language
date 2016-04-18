@@ -1,0 +1,107 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		animal
+		{
+			Animal = Dyr
+			Animals = Dyr
+			Pet = "Kj\x00e6ledyr"
+			Human = Menneske
+			Monkey = Ape
+			Gorilla = Gorilla
+			Orangutan = Orangutang
+			Dog = Hund
+			Cat = Katt
+			Puppy = Valp
+			Kitten = Kattunge
+			Rat = Rotte
+			Squirrel = Ekorn
+			"Guinea pig" = Marsvin
+			Cattle = Kveg
+			Pig = Gris
+			Wolf = Ulv
+			Bear = "Bj\x00f8rn"
+			Panda = Panda
+			"Polar bear" = "Isbj\x00f8rn"
+			Bat = Flaggermus
+			Tiger = Tiger
+			Lion = "L\x00f8ve"
+			Cheetah = Gepard
+			Panther = Panter
+			Hyena = Hyene
+			Fox = Rev
+			"Raccoon dog" = "M\x00e5rhund"
+			Horse = Hest
+			Deer = Hjort
+			Zebra = Zebra
+			Camel = Kamel
+			Ass = Esel
+			Giraffe = Giraff
+			Elephant = Elefant
+			Rhinoceros = Nesehorn
+			Hippopotamus = Flodhest
+			Mammoth = Mammut
+			Koala = Koala
+			Kangaroo = Kenguru
+			Sloth = Dovendyr
+			Cow = Ku
+			Ox = Okse
+		}
+		Bird
+		{
+			Birds = Fugler
+			Sparrow = Spurv
+			Crow = "Kr\x00e5ke"
+			Penguin = Pingvin
+			Hawk = Hauk
+			Eagle = "\x00d8rn"
+			Condor = Kondor
+			Swan = Svane
+		}
+		Insect
+		{
+			Insect = Insekt
+			Butterfly = Sommerfugl
+			Moth = "M\x00f8ll"
+			Mantis = Kneler
+			"Rhinoceros beetle" = Nesehornbille
+			"Stag beetle" = Hjortebille
+			Beetle = Bille
+			Mosquito = Mygg
+			Ladybug = "Marih\x00f8ne"
+			Spider = Edderkopp
+			Dragonfly = "\x00d8yenstikker"
+		}
+		fish
+		{
+			Fish = Fisk
+			Shark = Hai
+			Whale = Hval
+			Dolphin = Delfin
+			Octopus = Blekksprut
+			Squid = Blekksprut
+		}
+		Reptiles
+		{
+			Reptiles = Reptiler
+			Gator = Alligator
+			Lizard = "\x00d8gle"
+			Newt = Salamander
+			Gecko = Gekko
+			Snake = Slange
+			Turtle = Skilpadde
+			Chameleon = Kameleon
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaur
+			Tyrannosaurus = Tyrannosaurus
+		}
+	}
+}

@@ -1,0 +1,61 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Toren verdediging
+			Puzzle = Puzzel
+			"Endless runner" = Rennen
+			Shooter = Eerstepersoons schietspel
+			Adventure = Avontuur
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = Verticale shooter (zoals Tyrian)
+			"Fast-paced game" = spel met hoog tempo
+			Strategy = Strategie
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasie
+			Science = Wetenschap
+			Medieval = Middeleeuws
+			Modern = Modern
+			Ancient = Historisch
+			"World War" = Wereldoorlog
+			"Wild West / Western" = Western
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = Volledige versie
+			"Lite version" = Lichtere versie
+			"Free version (Freemium)" = Gratis versie
+			"Premium version" = Premium versie
+		}
+		online
+		{
+		}
+		Race
+		{
+			laps = rondes
+			position = positie
+			fuel = brandstof
+			oil = olie
+			gear = versnelling
+			tire = band
+			wheel = wiel
+			light = lamp
+		}
+		Board
+		{
+			Dice = Dobbelsteen
+			"Roll (Dice)" = Gooi
+			Domino = Domino
+			"Card (Playing)" = Kaart
+		}
+	}
+}

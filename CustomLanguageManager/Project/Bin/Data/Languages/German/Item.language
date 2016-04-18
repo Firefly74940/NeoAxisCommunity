@@ -1,0 +1,98 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		Arms
+		{
+			Sword = Schwert
+			Longsword = Langschwert
+			Dagger = Dolch
+			Katana = Katana
+			Whip = Peitsche
+			Knife = Messer
+			Cane = "Stock / Gehstock"
+			Wand = Zauberstab
+			Bow = Bogen
+			Knuckles = "Kn\x00f6chel"
+			Axe = Axt
+			Staff = Stab
+			Crossbow = Armbrust
+		}
+		Gun
+		{
+			Pistol = Pistole
+			Rifle = Gewehr
+			"Sniper rifle" = "Scharfsch\x00fctzengewehr"
+			"Machine gun" = Maschinengewehr
+			Cannon = Kanone
+			"Laser rifle" = Lasergewehr
+		}
+		Protector
+		{
+			Shield = Schild
+			Armor = Panzer
+			Helmet = Helm
+			Forearm = Vorderarm
+			Mantle = Mantel
+			Boots = "Schuhe / Stiefel"
+			"Chain mail" = Kettenhemd
+			Belt = "G\x00fcrtel"
+			Crown = Krone
+		}
+		Accessory
+		{
+			Ring = Ring
+			Necklace = Halsband
+			Bracelet = Armband
+		}
+		Costume
+		{
+			Costume = "Kost\x00fcm"
+			Clothing = Bekleidung
+			Clothes = Kleidung
+			Jacket = Jacke
+			Underwear = "Unterw\x00e4sche"
+			Socks = Socken
+			Sleepwear = Schlafanzug
+			Pajamas = Pyjama
+			Bra = BH
+			Panties = Unterhosen
+			Makeup = Make-up
+			Lipstick = Lippenstift
+			Perfume = "Parf\x00fcm"
+			Swimsuit = Badeanzug
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = "Spezialf\x00e4higkeit"
+		}
+		Magic
+		{
+			Magic = Magie
+			Recovery = Erholung
+			"Attack magic" = Offensive Magie
+		}
+		item
+		{
+			Coin = "M\x00fcnze"
+			Clock = Uhr
+			Artifact = Artefakt
+			Fossil = Fossil
+			Bone = Knochen
+		}
+		medicine
+		{
+			medicine = Medizin
+			"Recovery medicine" = Medizin
+			Antidote = Gegengift
+			"Revival medicine" = Wiederbelebungs-Medizin
+			Herb = "Kr\x00e4uter"
+		}
+	}
+}

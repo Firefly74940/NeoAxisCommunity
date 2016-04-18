@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = ROMANIAN
+		}
+		God
+		{
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+		}
+		Dragon
+		{
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

@@ -1,0 +1,24 @@
+language
+{
+	toolsUICulture = el-GR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GREEK
+		}
+		color
+		{
+			Orange = rfff
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+		}
+		Move
+		{
+		}
+	}
+}

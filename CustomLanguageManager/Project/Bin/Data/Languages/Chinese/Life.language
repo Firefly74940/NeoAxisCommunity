@@ -1,0 +1,52 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		Cooking
+		{
+			Cooking = "\x70f9\x996a"
+			Pan = "\x9505"
+			Pot = "\x58f6"
+			"Kitchen knife" = "\x83dc\x5200"
+		}
+		Tableware
+		{
+			Knife = "\x5200\x5b50"
+			Spoon = "\x52fa\x5b50"
+			Fork = "\x53c9\x5b50"
+			Chopsticks = "\x7b77\x5b50"
+			Dish = "\x76d8\x5b50"
+			Cup = "\x676f\x5b50"
+		}
+		Food
+		{
+			Food = "\x98df\x7269"
+			Rice = "\x7c73\x996d"
+			Soup = "\x6c64"
+			Meat = "\x8089"
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

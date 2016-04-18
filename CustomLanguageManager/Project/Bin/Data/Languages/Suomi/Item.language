@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		Arms
+		{
+		}
+		Gun
+		{
+		}
+		Protector
+		{
+		}
+		Accessory
+		{
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+		}
+		medicine
+		{
+		}
+	}
+}

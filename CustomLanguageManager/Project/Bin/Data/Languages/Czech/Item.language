@@ -1,0 +1,54 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		Arms
+		{
+			Sword = "Me\x010d"
+			Dagger = "D\x00fdka"
+			Knife = "N\x016f\x017e"
+			Bow = Luk
+			Axe = Sekera
+			Crossbow = "Ku\x0161"
+		}
+		Gun
+		{
+			Pistol = Pistole
+			Rifle = "Pu\x0161ka"
+			"Sniper rifle" = "Odst\x0159elova\x010dka"
+		}
+		Protector
+		{
+			Shield = "\x0160t\x00edt"
+			Armor = "Brn\x011bn\x00ed"
+			Helmet = "P\x0159ilba"
+		}
+		Accessory
+		{
+			Ring = Prsten
+		}
+		Costume
+		{
+		}
+		"Special Moves"
+		{
+		}
+		Magic
+		{
+		}
+		item
+		{
+			Coin = Mince
+			Bone = Kost
+		}
+		medicine
+		{
+			Antidote = Protijed
+		}
+	}
+}

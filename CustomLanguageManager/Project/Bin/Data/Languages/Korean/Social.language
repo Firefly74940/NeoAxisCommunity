@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		social
+		{
+			"Share an achievement" = "\xb3c4\xc804 \xacfc\xc81c \xacf5\xc720"
+			"Post to Twitter" = "Twitter\xc5d0 \xac8c\xc2dc\xd558\xae30"
+			"Share on Facebook" = "Facebook\xc73c\xb85c \xacf5\xc720\xd558\xae30"
+			"Your score has been posted to Facebook!" = "\xb2f9\xc2e0\xc758 \xc810\xc218\xac00 Facebook\xc5d0 \xb4f1\xb85d\xb418\xc5c8\xc2b5\xb2c8\xb2e4!"
+			"Your score has been posted to Twitter!" = "\xb2f9\xc2e0\xc758 \xc810\xc218\xac00 Twitter\xc5d0 \xb4f1\xb85d\xb418\xc5c8\xc2b5\xb2c8\xb2e4!"
+			"Thank you for playing!" = "\xd50c\xb808\xc774\xd574 \xc8fc\xc154\xc11c \xac10\xc0ac\xd569\xb2c8\xb2e4!"
+			"Find a friend" = "\xce5c\xad6c \xcc3e\xae30"
+			"Invite a friend" = "\xce5c\xad6c \xcd08\xb300"
+			"Start a chat" = "\xb300\xd654 \xc2dc\xc791"
+			"Chat room" = "\xb300\xd654\xbc29"
+			"Share photo on Facebook" = "\xc0ac\xc9c4\xc744 Facebook\xc73c\xb85c \xacf5\xc720"
+			"Like Us" = "\xc88b\xc544\xc694! \xd558\xae30"
+			"Follow Us" = "\xd314\xb85c\xc6b0\xd558\xae30"
+			"Tell about us" = "\xc18c\xbb38\xb0b4\xae30"
+			"Share score" = "\xc810\xc218 \xacf5\xc720"
+		}
+	}
+}

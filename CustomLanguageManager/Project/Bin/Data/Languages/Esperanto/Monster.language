@@ -1,0 +1,39 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = ESPERANTO
+		}
+		God
+		{
+			God = Dio
+			Goddess = Diino
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+			Dwarf = Nano
+			Elf = Elfo
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+			Zombie = Zombio
+			Goblin = Koboldo
+		}
+		Dragon
+		{
+			Dragon = Drako
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

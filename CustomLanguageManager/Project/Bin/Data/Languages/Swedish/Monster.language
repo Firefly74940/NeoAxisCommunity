@@ -1,0 +1,82 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = SWEDISH
+		}
+		God
+		{
+			God = Gud
+			Goddess = Gudinna
+			"False god" = Falsk gud
+			Buddha = Buddha
+			Savior = "Fr\x00e4lsare"
+		}
+		Angel
+		{
+			Angel = "\x00c4ngel"
+			"Fallen angel" = "Fallen \x00e4ngel"
+			Michael = Mikael
+			Gabriel = Gabriel
+			Rafael = Rafael
+			Uriel = Uriel
+		}
+		"Holy presence"
+		{
+			Fairy = Fe
+			Genie = Ande
+			Ghost = "Sp\x00f6ke"
+			Dwarf = "Dv\x00e4rg"
+			Undine = Undin
+			Gnome = Gnom
+			Salamander = Salamander
+			Sylph = Sylph
+			Phoenix = Fenix
+			Elf = Alv
+			Nymph = Nymf
+		}
+		Demon
+		{
+			Demon = Demon
+			Satan = Satan
+			Lucifer = Lucifer
+			Baphomet = Baphomet
+			Mammon = Mammon
+			Incubus = Incubus
+			Succubus = Succuba
+			Beelzebub = Beelzebub
+			Cerberus = Kerberos
+		}
+		Monster
+		{
+			Monster = Monster
+			Slime = Slem
+			Vampire = Vampyr
+			Zombie = Zombie
+			Undead = "Od\x00f6d"
+			"Wolf Man" = Ulvman
+			Beastman = Odjur
+			Goblin = Vette
+		}
+		Dragon
+		{
+			Dragon = Drake
+			Firedrake = Elddrake
+			"Ice dragon" = Isdrake
+			"Water dragon" = Vattendrake
+			"Thunder dragon" = "\x00c5skdrake"
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotaur
+			Centaur = Kentaur
+			Harpy = Harpya
+			Hydra = Hydra
+			Cyclops = Cyklop
+			Titan = Titan
+		}
+	}
+}

@@ -1,0 +1,79 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "\x7acb\x523b\x4e0b\x8f7d\x514d\x8d39\x6e38\x620f"
+			"FREE app of the day!" = "\x5f53\x65e5\x514d\x8d39app"
+			"Today for FREE" = "\x4eca\x65e5\x514d\x8d39"
+			"Daily FREE apps" = "\x6bcf\x65e5\x514d\x8d39app"
+			"Play for FREE" = "\x514d\x8d39\x73a9"
+			"Download for FREE" = "\x514d\x8d39\x4e0b\x8f7d"
+			"FREE to download" = "\x514d\x8d39\x4e0b\x8f7d"
+			"You have won ..." = "\x4f60\x8d62\x5f97\x4e86"
+			"Collect your prize now !" = "\x9a6c\x4e0a\x9886\x53d6\x5956\x54c1"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "\x8d2d\x4e70\x5931\x8d25"
+			"Purchase cancelled" = "\x8d2d\x4e70\x53d6\x6d88"
+			"Please try again later" = "\x8bf7\x7a0d\x540e\x518d\x8bd5"
+			"Store is not available" = "\x5546\x5e97\x4e0d\x53ef\x7528"
+			Restore = "\x6062\x590d"
+			"Restore all purchases to this device ?" = "\x6062\x590d\x6240\x6709\x8d2d\x4e70\x5230\x6b64\x53f0\x8bbe\x5907\xff1f"
+			"Remove ads" = "\x79fb\x9664\x5e7f\x544a"
+			"Double time" = "\x53cc\x500d\x65f6\x95f4"
+			"Double gold" = "\x53cc\x500d\x91d1\x94b1"
+			"Unlock ..." = "\x89e3\x9501"
+			"..." = "\x5347\x7ea7"
+			"No ads" = "\x65e0\x5e7f\x544a"
+			"Buy gold" = "\x8d2d\x4e70\x91d1\x5e01"
+			"Buy gems" = "\x8d2d\x4e70\x94bb\x77f3"
+		}
+		question
+		{
+		}
+	}
+}

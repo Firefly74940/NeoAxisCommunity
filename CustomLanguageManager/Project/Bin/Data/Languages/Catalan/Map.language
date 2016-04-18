@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		Direction
+		{
+		}
+		Building
+		{
+		}
+		Nature
+		{
+		}
+		Plant
+		{
+		}
+		Weather
+		{
+		}
+		Space
+		{
+		}
+	}
+}

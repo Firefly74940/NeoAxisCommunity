@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		Cooking
+		{
+			Cooking = cuisson
+			Pan = "po\x00eale"
+			Pot = casserole
+			"Kitchen knife" = couteau de cuisine
+		}
+		Tableware
+		{
+			Tableware = vaisselle
+			Knife = couteau
+			Spoon = "cuill\x00e8re"
+			Fork = fouchette
+			Chopsticks = baguettes
+			Dish = plat
+			Cup = coupe
+		}
+		Food
+		{
+			Food = nourriture
+			Rice = riz
+			Soup = soupe
+			Meat = viande
+			"Grilled meat" = grillade
+			Steak = steak
+			"Hamburger Steak" = "burger \x00e0 la viande"
+			Hamburger = hamburger
+			Spaghetti = spaghetti
+			Stew = "rago\x00fbt"
+			Ramen = ramen
+			Pizza = pizza
+			Candy = bonbon
+			"Soft-serve ice cream" = glace en cornet
+		}
+		Vegetables
+		{
+			Vegetables = "l\x00e9gumes"
+			Rice = riz
+			Wheat = "bl\x00e9"
+			Barley = orge
+			Cabbage = chou
+			Pepper = piment
+			Carrot = carotte
+			Radish = radis
+			Potato = pomme de terre
+			"Sweet potato" = patate douce
+			Onion = oignon
+			Beans = haricots
+			Garlic = ail
+		}
+		Drink
+		{
+			Drink = boire
+			Water = eau
+			Milk = lait
+			Coffee = "caf\x00e9"
+			"Black tea" = "th\x00e9 noir"
+			Tea = "th\x00e9"
+			Juice = jus
+			Coke = Cola
+		}
+		Material
+		{
+			Material = "Mat\x00e9riau"
+			Mineral = Minerai
+			Platinum = platine
+			Gold = or
+			Silver = argent
+			Bronze = bronze
+			Iron = fer
+			Steel = acier
+			Crystal = crystal
+			Marble = marbre
+		}
+		Vehicle
+		{
+			Vehicle = "v\x00e9hicule"
+			Car = voiture
+			Bike = moto
+			Bicycle = "v\x00e9lo"
+			Tank = char
+			Jeep = jeep
+		}
+		Plane
+		{
+			Plane = avion
+			Fighter = chasseur
+			Interceptor = intercepteur
+			"Reconnaissance aircraft" = avion de reconnaissance
+			"Stealth machine" = avion espion
+			Airliner = avion de ligne
+			"Unmanned aircraft" = drone
+			Helicopter = "h\x00e9licopt\x00e8re"
+			Balloon = "montgolfi\x00e8re"
+			"Hang glider" = aile volante
+			Parachute = parachute
+		}
+		Ship
+		{
+			Ship = navire
+			Yacht = yacht
+			Raft = canot
+			Ferry = ferry
+			Tanker = "p\x00e9trolier"
+			Warship = croiseur
+			Battleship = destroyer
+			"Mother ship" = "vaisseau-m\x00e8re"
+			"Aircraft Carrier" = porte-avions
+			Escort = "fr\x00e9gate"
+			Submarine = sous-marin
+		}
+	}
+}

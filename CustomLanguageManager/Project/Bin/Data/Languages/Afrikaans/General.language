@@ -1,0 +1,25 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		color
+		{
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = spring
+		}
+		Move
+		{
+			Run = hardloop
+		}
+	}
+}

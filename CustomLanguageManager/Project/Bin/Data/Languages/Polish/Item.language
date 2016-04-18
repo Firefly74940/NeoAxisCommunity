@@ -1,0 +1,108 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		Arms
+		{
+			Sword = Miecz
+			Longsword = "Miecz d\x0142ugi"
+			Dagger = Sztylet
+			Katana = Katana
+			Whip = Bicz
+			Knife = "N\x00f3\x017c"
+			Cane = Laska
+			Wand = "R\x00f3\x017cd\x017cka"
+			Bow = "\x0141uk"
+			Knuckles = Kastet
+			Katar = Katar
+			Mace = Buzdygan
+			Axe = "Top\x00f3r"
+			Staff = Kostur
+			Crossbow = Kusza
+		}
+		Gun
+		{
+			Pistol = Pistolet
+			Rifle = Strzelba
+			"Sniper rifle" = "Snajperka / Strzelba snajperska"
+			"Machine gun" = Karabin maszynowy
+			Cannon = "Dzia\x0142o"
+			"Laser rifle" = Strzelba laserowa
+			"Beam gun" = "Bro\x0144 laserowa"
+		}
+		Protector
+		{
+			Shield = Tarcza
+			Armor = Pancerz
+			Helmet = "He\x0142m"
+			Forearm = Karwasz
+			Mantle = "P\x0142aszcz"
+			Boots = Buty
+			"Chain mail" = Kolczuga
+			Belt = Pasek
+			Crown = Korona
+		}
+		Accessory
+		{
+			Accessory = Dodatek
+			Jewelry = "Bi\x017cuteria"
+			Ring = "Pier\x015bcie\x0144"
+			Pierce = Kolczyk
+			Necklace = Naszyjnik
+			Bracelet = Bransoleta
+		}
+		Costume
+		{
+			Costume = Kostium
+			Clothing = Ubranie
+			Clothes = Ubrania
+			Jacket = Kurtka
+			Underwear = Bielizna
+			Socks = Skarpetki
+			Sweater = Sweter
+			Sleepwear = "Pi\x017cama"
+			Pajamas = "Pi\x017cama"
+			Bra = Stanik
+			Panties = Majtki
+			Stockings = Rajstopy
+			"Garter belt" = "Podwi\x0105zka"
+			Makeup = "Makija\x017c"
+			Lipstick = Szminka
+			Perfume = Perfumy
+			Swimsuit = "Str\x00f3j k\x0105pielowy"
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = Specjalne ruchy
+			Swordsmanship = "Pos\x0142ugiwanie si\x0119 mieczem"
+		}
+		Magic
+		{
+			Magic = Magia
+			Apparition = "Widziad\x0142o"
+			Recovery = Regeneracja
+			"Attack magic" = "Atak magi\x0105"
+		}
+		item
+		{
+			Coin = Moneta
+			Clock = Zegar
+			Artifact = Artefakt
+			Bone = "Ko\x015b\x0107"
+		}
+		medicine
+		{
+			medicine = Lekarstwo
+			"Recovery medicine" = Lek
+			Antidote = Odtrutka
+			"Revival medicine" = "Mikstura zmartwychwstania / Mikstura o\x017cywienia"
+			Herb = "Zio\x0142o"
+		}
+	}
+}

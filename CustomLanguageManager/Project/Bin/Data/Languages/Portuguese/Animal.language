@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		animal
+		{
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

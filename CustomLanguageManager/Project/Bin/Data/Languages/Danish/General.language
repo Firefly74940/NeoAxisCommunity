@@ -1,0 +1,59 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		color
+		{
+			Orange = Orange
+			Red = "R\x00f8d"
+			Blue = "Bl\x00e5"
+			Green = "Gr\x00f8n"
+			Yellow = Gul
+			Cyan = Cyan
+			Purple = Lilla
+			White = Hvid
+			Black = Sort
+			Gray = "Gr\x00e5"
+			Violet = Violet
+			Platinum = Platin
+			Gold = Guld
+			Silver = "S\x00f8lv"
+			Bronze = Bronze
+			Clear = Gennemsigtig
+			Iridescence = Irisering
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Hop
+			Heal = Helbred
+			Shoot = Skyd
+			Collect = Opsaml
+			Capture = Fang
+			Destroy = "\x00d8del\x00e6g"
+			Attack = Angrib
+			Defend = Beskyt
+			Hit = "Sl\x00e5"
+			Kick = Spark
+			Headbutt = Skalde
+			Stomp = Stamp
+			Walljump = "V\x00e6ghop"
+			Dash = Sprint
+		}
+		Move
+		{
+			Run = "L\x00f8b"
+			Walk = "G\x00e5"
+			Skip = Spring over
+			Escape = Flygt
+			"Stealthy steps" = Snigende
+		}
+	}
+}

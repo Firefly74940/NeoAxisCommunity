@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		animal
+		{
+			Animal = Animal
+			Animals = Animales
+			Pet = Mascota
+			Human = Humano
+			Monkey = Mono
+			Gorilla = Gorila
+			Orangutan = "Orangut\x00e1n"
+			Dog = Perro
+			Cat = Gato
+			Puppy = Cachorro
+			Kitten = Gatito
+			Rat = Rata
+			Squirrel = Ardilla
+			"Guinea pig" = Cobaya
+			Cattle = Ganado
+			Pig = Cerdo
+			Wolf = Lobo
+			Bear = Oso
+			Panda = Panda
+			"Polar bear" = Oso polar
+			Bat = "Murci\x00e9lago"
+			Tiger = Tigre
+			Lion = "Le\x00f3n"
+			Cheetah = Guepardo
+			Panther = Pantera
+			Hyena = Hiena
+			Fox = Zorro
+			"Raccoon dog" = Mapache
+			Horse = Caballo
+			Deer = Ciervo
+			Zebra = Cebra
+			Camel = Camello
+			Ass = Asno
+			Giraffe = Jirafa
+			Elephant = Elefante
+			Rhinoceros = Rinoceronte
+			Hippopotamus = "Hipop\x00f3tamo"
+			Mammoth = Mamut
+			Koala = Koala
+			Kangaroo = Canguro
+			Sloth = Perezoso
+			Cow = Vaca
+			Ox = Buey
+			Rabbit = Conejo
+		}
+		Bird
+		{
+			Birds = "P\x00e1jaros"
+			Sparrow = "Gorri\x00f3n"
+			Crow = Cuervo
+			Penguin = Pinguino
+			Hawk = "Halc\x00f3n"
+			Eagle = "\x00c1guila"
+			Condor = "C\x00f3ndor"
+			Swan = Cisne
+			Duck = Pato
+		}
+		Insect
+		{
+			Insect = Insecto
+			Butterfly = Mariposa
+			Moth = Polilla
+			Mantis = Mantis religiosa
+			"Rhinoceros beetle" = Escarabajo ciervo
+			"Stag beetle" = Escabajo pelotero
+			Beetle = Escarabajo
+			Mosquito = Mosquito
+			Ladybug = Mariquita
+			Spider = "Ara\x00f1a"
+			Dragonfly = "Lib\x00e9lula"
+		}
+		fish
+		{
+			Fish = Pez
+			Shark = "Tibur\x00f3n"
+			Whale = Ballena
+			Dolphin = "Delf\x00edn"
+			Octopus = Pulpo
+			Squid = Calamar
+		}
+		Reptiles
+		{
+			Reptiles = Reptiles
+			Gator = Gator
+			Lizard = Lagarto
+			Newt = "Trit\x00f3n"
+			Gecko = Geco
+			Snake = Serpiente
+			Turtle = Totuga
+			Chameleon = "Camale\x00f3n"
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaurio
+			Tyrannosaurus = Tiranosaurio
+			Pteranodon = "Terod\x00e1ctilo"
+			Triceratops = Triceratops
+			Plesiosaur = Plesiosauro
+			Stegosaurus = Stegosaurus
+			Protoceratops = Protoceratops
+			Iguanodon = Iguanadon
+		}
+	}
+}

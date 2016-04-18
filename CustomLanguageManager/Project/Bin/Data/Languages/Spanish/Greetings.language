@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		Greetings
+		{
+			Hello = Hola
+			"How do you do" = "\x00bfQu\x00e9 tal est\x00e1s?"
+			Welcome = Bienvenido
+			"Please enjoy" = Disfruta
+			"Good luck" = Buena suerte
+			"Have a good day" = "Que tengas un buen d\x00eda"
+			"Welcome back" = Bienvenido de nuevo
+			"Cheers for good work" = Buen trabajo
+			"Good bye" = "Adi\x00f3s"
+			"Congratulations!" = "\x00a1Felicidades!"
+		}
+		Thanks
+		{
+			"Thank you" = Gracias
+			"Thank you very much" = "\x00a1Muchas Gracias!"
+		}
+		shop
+		{
+			Welcome = Bienvenido
+			"What are you looking for?" = "\x00bfQu\x00e9 buscas?"
+			"Thanks for your business" = "Gracias por tu colaboraci\x00f3n"
+			"I am looking forward to seeing you again" = Encantado de verte otra vez
+		}
+	}
+}

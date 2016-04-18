@@ -1,0 +1,85 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = CHINESE
+		}
+		God
+		{
+			God = "\x795e/\x4e0a\x5e1d"
+			Goddess = "\x5973\x795e"
+			"False god" = "\x5047\x795e"
+			Buddha = "\x4f5b/\x4f5b\x9640"
+			Savior = "\x6551\x8d16\x4e3b"
+		}
+		Angel
+		{
+			Angel = "\x5929\x4f7f"
+			"Fallen angel" = "\x5815\x843d\x5929\x4f7f"
+			Michael = "\x7c73\x8fe6\x52d2"
+			Gabriel = "\x52a0\x767e\x5217"
+			Rafael = "\x62c9\x6590\x5c14"
+			Uriel = "\x4e4c\x5217\x5c14"
+		}
+		"Holy presence"
+		{
+			Fairy = "\x4ed9\x5b50/\x5996\x7cbe"
+			Genie = "\x93ae\x5c3c"
+			Ghost = "\x9b3c"
+			Dwarf = "\x4f8f\x5112"
+			Undine = "\x6c34\x5973\x795e"
+			Gnome = "\x5730\x7cbe"
+			Salamander = "\x706b\x8725\x8734"
+			Sylph = "\x98a8\x7cbe"
+			Phoenix = "\x9cf3\x51f0"
+			Elf = "\x7cbe\x9748"
+			Nymph = "\x5be7\x8299/\x4ed9\x5973"
+		}
+		Demon
+		{
+			Demon = "\x5996\x602a/\x5996\x9b54"
+			Satan = "\x6492\x65e6"
+			Lucifer = "\x8def\x897f\x6cd5"
+			Baphomet = "\x5df4\x98ce\x7279"
+			Belial = "\x5f7c\x5217"
+			Belphegor = "\x8c9d\x723e\x82ac\x683c"
+			Mammon = "\x746a\x9580"
+			Incubus = "\x5922\x9b54"
+			Succubus = "\x9b45\x9b54"
+			Beelzebub = "\x5df4\x529b\x897f\x535c"
+			Cerberus = "\x53ef\x9b6f\x8c9d\x6d1b\x65af/\x523b\x8033\x67cf\x6d1b\x65af"
+			Familiar = "\x4f7f\x9b54"
+		}
+		Monster
+		{
+			Monster = "\x602a\x7269"
+			Vampire = "\x5438\x8840\x9b3c"
+			"Jiangshi/Kyonshi (Chinese \"hopping\" zombie)" = "\x6bad\x5c4d"
+			Zombie = "\x55aa\x5c4d/\x6d3b\x6b7b\x4eba"
+			Undead = "\x6d3b\x5c4d/\x884c\x5c4d"
+			"Wolf Man" = "\x72fc\x4eba"
+			Beastman = "\x7363\x4eba"
+			Goblin = "\x54e5\x5e03\x6797"
+			Kobold = "\x67ef\x5b9d"
+		}
+		Dragon
+		{
+			Dragon = "\x9f8d"
+			Firedrake = "\x706b\x9f8d"
+			"Water dragon" = "\x6c34\x9f8d"
+			Wyvern = "\x98db\x9f8d"
+		}
+		"Greek myth"
+		{
+			Minotaur = "\x7c73\x8bfa\x9676/\x725b\x5934\x4eba"
+			Centaur = "\x4eba\x9a6c"
+			Harpy = "\x9e70\x8eab\x5973\x5996"
+			Hydra = "\x4e5d\x5934\x86c7"
+			Cyclops = "\x72ec\x773c\x5de8\x4eba"
+			Titan = "\x63d0\x5766\x5de8\x4eba"
+		}
+	}
+}

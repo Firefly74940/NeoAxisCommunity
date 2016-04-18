@@ -1,0 +1,111 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "T\x00e9l\x00e9charger notre jeu GRATUITEMENT d\x00e8s MAINTENANT"
+			"FREE app of the day!" = App GRATUITE du jour
+			"Today for FREE" = "Aujourd\'hui GRATUIT"
+			"Daily FREE apps" = Des apps GRATUITES tous les jours
+			"Play for FREE" = Jouez GRATUITEMENT
+			"Download for FREE" = "T\x00e9l\x00e9chargez GRATUITEMENT"
+			"FREE to download" = "T\x00e9l\x00e9chargement GRATUIT"
+			"You have won ..." = "Vous avez gagn\x00e9 ..."
+			"Collect your prize now !" = "R\x00e9cup\x00e9rez votre prix d\x00e8s maintenant !"
+			"Coming soon to (pick market)" = "Bient\x00f4t disponible sur (pick market)"
+			"Easy to learn yet hard to master" = "Facile \x00e0 apprendre, difficile \x00e0 ma\x00eetriser"
+			"Game contains in-app purchases" = "Le jeu permet des achats int\x00e9gr\x00e9s"
+			"Game requires internet connection" = "Le jeu a besoin d\'une connexion Internet"
+			"Internet not available" = "Non connect\x00e9 \x00e0 Internet"
+		}
+		"IAP - Modal title"
+		{
+			"Upgrade to full version" = "Mise \x00e0 jour vers la version compl\x00e8te"
+		}
+		"IAP - Main button A"
+		{
+			Upgrade = "Mettre \x00e0 jour"
+		}
+		"IAP - Secondary button B"
+		{
+			"Already purchased?" = "Vous avez d\x00e9j\x00e0 achet\x00e9 cet article?"
+		}
+		"IAP - Message A"
+		{
+			"Upgrading..." = "Mise \x00e0 jour en cours..."
+		}
+		"IAP - Message B"
+		{
+			"Restoring..." = Restauration en cours...
+		}
+		"IAP - Final message 1st line A"
+		{
+			"Thank you for upgrading!" = "Merci pour avoir mis \x00e0 jour!"
+		}
+		"IAP - Final message 1st line B"
+		{
+			"Your purchased has been restored!" = "Vos achats pr\x00e9c\x00e9dents \x00e9t\x00e9 restaur\x00e9s!"
+		}
+		"IAP - Final message 2nd line"
+		{
+			"Enjoy the full version ;)" = "Profitez de la version compl\x00e8te ;)"
+		}
+		"IAP - Error 1"
+		{
+			"Internet not available. This purchase requires Internet connection." = "Non connect\x00e9 \x00e0 Internet. Cet achat a besoin d\'une connexion Internet."
+		}
+		"IAP - Error 2"
+		{
+			"Store is not available. Please try again later." = "La boutique n\'est pas disponible. Merci de r\x00e9essayer ult\x00e9rieurement."
+		}
+		"IAP - Error 3"
+		{
+			"This device does not allow in-app purchases. Please, check your configuration." = "Ce dispositif ne permet pas achats in-app. S\'il vous pla\x00eet v\x00e9rifier votre configuration."
+		}
+		"IAP - IAP item name"
+		{
+			"Full version" = "Version compl\x00e8te"
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "Transaction \x00e9chou\x00e9e"
+			"Purchase cancelled" = "Transaction annul\x00e9e"
+			"Please try again later" = "Merci de r\x00e9essayer ult\x00e9rieurement"
+			"Store is not available" = "La boutique n\'est pas disponible"
+			Restore = Restaurer
+			"Restore all purchases to this device ?" = Restaurer vos achats sur cet appareil ?
+			"Remove ads" = "Enlever les publicit\x00e9s"
+			"Double time" = Temps x2
+			"Double gold" = Or x2
+			"Double lives" = Vies x2
+			"Restore Now" = Restaurer
+			"Unlock ..." = "D\x00e9bloquer ..."
+			"..." = "Am\x00e9liorer ..."
+			"No ads" = "Sans publicit\x00e9"
+			"Buy hints" = Acheter des indices
+			"Buy gold" = "Acheter de l\'or"
+			"Buy gems" = Acheter des gemmes
+			"Get full version" = "Acheter la version compl\x00e8te"
+			"Get a refund" = Remboursement
+			"Unlock all levels" = "D\x00e9bloquer tous les niveaux"
+			"Unlock all game modes" = "D\x00e9bloquer tous les modes de jeu"
+			"Get more hints" = "Plus d\'indices"
+			"Get more gold for FREE" = "Plus d\'or GRATUITEMENT"
+		}
+		question
+		{
+			"How do you rate this game?" = Comment noteriez-vous ce jeu ?
+			"Would you like to rate & review game now ?" = Souhaitez-vous donner une note et un commentaire au jeu ?
+			"Do you like our game ?" = Aimez-vous notre jeu ?
+			"Would you like to provide feedback to developers ?" = "Souhaitez-vous transmettre un message aux d\x00e9veloppeurs ?"
+			"Would you like to watch game trailer ?" = "Voulez-vous avoir un aper\x00e7u vid\x00e9o du jeu ?"
+			"Would you like to watch video game tutorial ?" = "Voulez-vous regarder la vid\x00e9o de tutoriel ?"
+		}
+	}
+}

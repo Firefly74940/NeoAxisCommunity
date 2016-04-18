@@ -1,0 +1,104 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Pobierz teraz DARMOW\x0104 gr\x0119!"
+			"FREE app of the day!" = DARMOWA gra dnia!
+			"Today for FREE" = Tylko dzisiaj gra za DARMO!
+			"Daily FREE apps" = Codziennie DARMOWE gry!
+			"Play for FREE" = Graj za DARMO!
+			"Download for FREE" = Pobierz za DARMO!
+			"FREE to download" = "Pobierz gr\x0119 za DARMO!"
+			"You have won ..." = "Wygra\x0142e\x015b ..."
+			"Collect your prize now !" = "Odbierz swoj\x0105 nagrod\x0119 !"
+			"Coming soon to (pick market)" = "Ju\x017c nied\x0142ugo dost\x0119pna w ..."
+			"Easy to learn yet hard to master" = "\x0141atwa do nauczenia si\x0119, trudna do opanowania"
+			"Game contains in-app purchases" = "Gra zawiera mikrop\x0142atno\x015bci"
+			"Game requires internet connection" = "Gra wymaga dost\x0119pu do internetu"
+			"Internet not available" = "Internet niedost\x0119pny"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+			"Already purchased?" = "Ju\x017c kupione?"
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+			"Internet not available. This purchase requires Internet connection." = "Brak dost\x0119pu do internetu. Ten zakup wymaga dost\x0119pu do internetu"
+		}
+		"IAP - Error 2"
+		{
+			"Store is not available. Please try again later." = "Sklep niedost\x0119pny. Spr\x00f3buj p\x00f3\x017aniej"
+		}
+		"IAP - Error 3"
+		{
+			"This device does not allow in-app purchases. Please, check your configuration." = "To urz\x0105dzenie nie zezwala na zakupy w aplikacjach. Prosz\x0119 sprawdzi\x0107 swoje ustawienia"
+		}
+		"IAP - IAP item name"
+		{
+			"Full version" = "Pe\x0142na wersja"
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Zakup nieudany
+			"Purchase cancelled" = Zakup wycofany
+			"Please try again later" = "Spr\x00f3buj p\x00f3\x017aniej"
+			"Store is not available" = "Sklep nie jest dost\x0119pny"
+			Restore = "Przywr\x00f3\x0107 zakup"
+			"Restore all purchases to this device ?" = "Przywr\x00f3ci\x0107 wszystkie zakupy?"
+			"Remove ads" = "Usu\x0144 reklamy"
+			"Double time" = "Wi\x0119cej czasu"
+			"Double gold" = "Wi\x0119cej z\x0142ota"
+			"Double lives" = "Wi\x0119cej \x017cy\x0107"
+			"Restore Now" = "Przywr\x00f3\x0107 teraz"
+			"Unlock ..." = Odblokuj ...
+			"..." = Ulepsz ...
+			"No ads" = Brak reklam
+			"Buy hints" = Kup podpowiedzi
+			"Buy gold" = "Kup z\x0142oto"
+			"Buy gems" = Kup klejnoty
+			"Get full version" = "Kup pe\x0142n\x0105 wersj\x0119"
+			"Get a refund" = Zwrot zakupu
+			"Unlock all levels" = Odblokuj wszystkie poziomy
+			"Unlock all game modes" = Odblokuj wszystkie tryby gry
+			"Get more hints" = "Wi\x0119cej podpowiedzi"
+			"Get more gold for FREE" = "Wi\x0119cej z\x0142ota za DARMO"
+		}
+		question
+		{
+			"How do you rate this game?" = "Jak oceniasz t\x0105 gr\x0119?"
+			"Would you like to rate & review game now ?" = "Czy chcesz oceni\x0107 gr\x0119?"
+			"Do you like our game ?" = "Lubisz nasz\x0105 gr\x0119 ?"
+			"Would you like to provide feedback to developers ?" = "Czy chcesz przekaza\x0107 tw\x00f3rcom swoj\x0105 opini\x0119?"
+			"Would you like to watch game trailer ?" = "Czy chcesz zobaczy\x0107 zwiastun gry?"
+			"Would you like to watch video game tutorial ?" = "Czy chcesz zobaczy\x0107 samouczek gry?"
+		}
+	}
+}

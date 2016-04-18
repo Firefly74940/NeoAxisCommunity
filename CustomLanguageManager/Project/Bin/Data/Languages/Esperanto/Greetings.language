@@ -1,0 +1,24 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		Greetings
+		{
+			Hello = Saluton
+			Welcome = Bonvenu
+		}
+		Thanks
+		{
+			"Thank you" = Dankon
+		}
+		shop
+		{
+			Welcome = Bonvenu
+		}
+	}
+}

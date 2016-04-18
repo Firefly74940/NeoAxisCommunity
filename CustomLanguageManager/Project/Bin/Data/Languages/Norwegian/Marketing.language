@@ -1,0 +1,96 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Du kan laste ned GRATIS spill n\x00e5"
+			"FREE app of the day!" = Dagens gratisapp!
+			"Today for FREE" = Helt gratis i dag!
+			"Daily FREE apps" = Daglig GRATIS apps
+			"Play for FREE" = Spill GRATIS
+			"Download for FREE" = Last ned GRATIS
+			"FREE to download" = "GRATIS \x00e5 laste ned"
+			"You have won ..." = Du har vunnet ...
+			"Collect your prize now !" = "F\x00e5 premien din n\x00e5!"
+			"Coming soon to (pick market)" = Kommer snart til (velg marked)
+			"Easy to learn yet hard to master" = "Lett \x00e5 l\x00e6re, vanskelig \x00e5 mestre"
+			"Game contains in-app purchases" = "Spillet inneholder in-app kj\x00f8p"
+			"Game requires internet connection" = Spillet krever internettilkobling
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "Kj\x00f8p mislykket"
+			"Purchase cancelled" = "Kj\x00f8p kansellert"
+			"Please try again later" = "Pr\x00f8v igjen senere"
+			"Store is not available" = Butikken er ikke tilgjenglig
+			Restore = Gjenopprett
+			"Restore all purchases to this device ?" = "Gjenopprett alle tidligere kj\x00f8p p\x00e5 denne enheten?"
+			"Remove ads" = Fjern reklame
+			"Double time" = Dobbel tid
+			"Double gold" = Dobbelt gull
+			"Double lives" = Dobbelt liv
+			"Restore Now" = "Gjenopprett n\x00e5"
+			"Unlock ..." = "L\x00e5s opp ..."
+			"..." = Oppgrader
+			"No ads" = Ingen reklame
+			"Buy hints" = "Kj\x00f8p hint"
+			"Buy gold" = "Kj\x00f8p gull"
+			"Buy gems" = "Kj\x00f8p edelstener"
+			"Get full version" = "Kj\x00f8p fullversjon"
+			"Get a refund" = "F\x00e5 refundert penger"
+			"Unlock all levels" = "L\x00e5s opp alle niv\x00e5er"
+			"Unlock all game modes" = "L\x00e5s opp alle spill moduser"
+			"Get more hints" = "F\x00e5 flere tips"
+			"Get more gold for FREE" = "F\x00e5 mere gull GRATIS"
+		}
+		question
+		{
+			"Would you like to rate & review game now ?" = "Har du lyst til \x00e5 vurdere og skrive en omtale om spillet n\x00e5?"
+			"Do you like our game ?" = "Liker du spillet v\x00e5rt?"
+			"Would you like to provide feedback to developers ?" = "Har du noen tilbakemeldinger til v\x00e5re utviklere?"
+			"Would you like to watch game trailer ?" = Vil du se spilltraileren?
+		}
+	}
+}

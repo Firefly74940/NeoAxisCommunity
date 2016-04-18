@@ -1,0 +1,14 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		social
+		{
+		}
+	}
+}

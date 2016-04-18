@@ -1,0 +1,53 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = EO
+		}
+		accounts
+		{
+		}
+		Animal
+		{
+			YES = Jes
+		}
+		"button label"
+		{
+			Audio = "A\x016ddio"
+			Controls = Kontroloj
+			Easy = Facila
+			Hard = Malfacila
+			Help = Helpi
+			Play = Ludi
+		}
+		"gameplay label"
+		{
+			Time = Tempo
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = "A\x011do"
+			NO = Ne
+			OK = OK
+			Warning = Averto
+		}
+		"plot / story"
+		{
+		}
+		rate
+		{
+		}
+		test
+		{
+		}
+		teste
+		{
+		}
+	}
+}

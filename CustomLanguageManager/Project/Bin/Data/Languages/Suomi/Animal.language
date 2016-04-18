@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		animal
+		{
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

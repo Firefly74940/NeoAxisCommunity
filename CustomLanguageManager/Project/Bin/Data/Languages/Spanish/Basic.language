@@ -1,0 +1,159 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = ES
+		}
+		accounts
+		{
+			"Account name" = Nombre de Usuario
+			"Forgot your password?" = "\x00bfOlvid\x00f3 su contrase\x00f1a?"
+			"Incorrect login or password" = "Usuario o contrase\x00f1a incorrectos"
+			Login = Ingresar
+			"Login using Facebook account" = Entra con tu cuenta de Facebook
+			Password = "Contrase\x00f1a"
+			Register = Registrar
+			"Remember me on this computer" = "Recu\x00e9rdeme en este ordenador"
+		}
+		Animal
+		{
+			YES = "S\x00cd"
+		}
+		"button label"
+		{
+			"About us" = Sobre nosotros
+			Achievements = Logros
+			Audio = Audio
+			Back = "Atr\x00e1s"
+			Cancel = Cancelar
+			Challenge = "Desaf\x00edo"
+			"Choose hero" = "Elige un h\x00e9roe"
+			"Choose language" = Cambiar idioma
+			"Choose level" = Elige nivel
+			"Contact us" = "Cont\x00e1ctanos (cont\x00e1ctenos is more formal)"
+			Continue = Continuar
+			Controls = Controles
+			Credits = "Cr\x00e9ditos"
+			"Do not know" = Desconocido
+			Easy = "F\x00e1cil"
+			"Game Center" = Game Center
+			"Game editor" = Editor de juego
+			"Game mode" = Modo de juego
+			Hard = "Dif\x00edcil"
+			Help = Ayuda
+			"How to play" = "C\x00f3mo jugar"
+			Language = Idioma
+			Leaderboards = Clasificaciones
+			"Level Select" = Selector de nivel
+			"Load Game" = Cargar partida
+			Loot = Saqueo
+			"Main Menu" = "Men\x00fa principal"
+			Married = "Casado/a"
+			Menu = "Men\x00fa"
+			"More Apps" = "M\x00e1s apps"
+			"More Games" = "M\x00e1s juegos"
+			"New Game" = Nuevo juego
+			"New order" = Nuevo pedido
+			Next = Siguiente
+			Normal = Normal
+			Options = Ajustes
+			"Order Online" = Pedir online
+			Pause = Pausar
+			"Pick character" = Elige un personaje
+			Play = Jugar
+			"Play Again" = Jugar otra vez
+			Preferences = Preferencias
+			Previous = Anterior
+			Quit = Salir
+			"Remind me later" = "Recordar m\x00e1s tarde"
+			Replay = Volver a jugar
+			"Reset Options" = Restaurar opciones
+			Retry = Reintentar
+			"Sandbox mode" = Entorno de pruebas
+			"Save game" = Salvar partida
+			Scoreboard = Tabla de puntuaciones
+			Search = Buscar
+			Secret = Secreto
+			Shop = Tienda
+			Single = "Soltero/a"
+			"Skip Level" = Saltar nivel
+			Store = Tienda
+			Tutorial = Tutorial
+			"Update order" = Modificar pedido
+		}
+		"gameplay label"
+		{
+			"Base score" = "Puntuaci\x00f3n base"
+			"Best results" = Mejor resultado
+			"Best score" = "Mejor puntuaci\x00f3n"
+			"Game over" = Fin del juego
+			Highscore = "Puntuaci\x00f3n m\x00e1xima"
+			Lives = Vidas
+			"Lives left" = Vidas restantes
+			"Money left" = Dinero restante
+			Score = Puntuaciones
+			Time = Tiempo
+			"Time left" = Tiempo restante
+			"Total score" = "Puntuaci\x00f3n total"
+			"Your score" = "Tu puntuaci\x00f3n"
+		}
+		"How to edit"
+		{
+			"About words, it is useful to use the translation google, and bulk editing." = facebook
+		}
+		label
+		{
+			Age = Edad
+			"All rights reserved" = Todos los derechos reservados
+			"Are you sure you want to quit?" = "\x00bfSeguro que quieres salir?"
+			bear = Silenciar
+			Birthplace = Lugar de Nacimiento
+			"Blood type" = "Grupo Sangu\x00edneo"
+			"Current address" = Domicilio
+			"e-mail" = email
+			Error = Error
+			"game version" = "Versi\x00f3n del juego"
+			Marriage = Estado Civil
+			"Music off" = "Desactivar m\x00fasica"
+			"Music on?" = "\x00bfActivar m\x00fasica?"
+			NO = NO
+			"No, thanks!" = "No, \x00a1gracias!"
+			OK = OK
+			Sex = Sexo
+			"Sort by" = Ordenar por
+			"Sound off" = Desactivar sonido
+			"Sounds on?" = "\x00bfActivar sonido?"
+			Warning = Advertencia
+			Web = Web
+			"Yes, sure!" = "S\x00ed, \x00a1por supuesto!"
+			"You are here" = "Usted est\x00e1 aqu\x00ed"
+		}
+		"plot / story"
+		{
+			Chapter = "Cap\x00edtulo"
+			Character = Personaje
+			Comics = "C\x00f3mics"
+			Ending = Final
+			"Final Boss" = Monstruo final
+			Intro = "Introducci\x00f3n"
+			Outro = "Ep\x00edlogo"
+			Page = "P\x00e1gina"
+			Stage = "P\x00e1gina"
+			Story = Historia
+		}
+		rate
+		{
+			"Rate our app" = "Califica nuestra aplicaci\x00f3n"
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = Editor de niveles
+		}
+	}
+}

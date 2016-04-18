@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

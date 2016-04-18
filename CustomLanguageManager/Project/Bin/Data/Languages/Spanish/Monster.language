@@ -1,0 +1,88 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = SPANISH
+		}
+		God
+		{
+			God = Dios
+			Goddess = Diosa
+			"False god" = Falso dios
+			Buddha = Buda
+			Savior = Salvador
+		}
+		Angel
+		{
+			Angel = "\x00c1ngel"
+			"Fallen angel" = "\x00c1ngel caido"
+			Michael = Miguel
+			Gabriel = Gabriel
+			Rafael = Rafael
+			Uriel = Uriel
+			Archangel = "Arc\x00e1ngel"
+		}
+		"Holy presence"
+		{
+			Fairy = Hada
+			Genie = Genio
+			Ghost = Fantasma
+			Dwarf = Enano
+			Undine = Ondina
+			Gnome = Nome
+			Salamander = Salamandra
+			Sylph = "S\x00edlfide"
+			Phoenix = "F\x00e9nix"
+			Elf = Elfo
+			Nymph = ninfa
+		}
+		Demon
+		{
+			Demon = Demonio
+			Satan = "Sat\x00e1n"
+			Lucifer = Lucifer
+			Baphomet = Bafomet
+			Belial = Belial
+			Mammon = Mamon
+			Incubus = "\x00cdncubo"
+			Succubus = "s\x00facubo"
+			Beelzebub = Belzebub
+			Cerberus = Cerbero
+			Familiar = Familiar
+		}
+		Monster
+		{
+			Monster = Montruo
+			Slime = Baba
+			Vampire = Vampiro
+			"Jiangshi/Kyonshi (Chinese \"hopping\" zombie)" = Jiang Shi
+			Zombie = Zombi
+			Undead = No-muerto
+			"Wolf Man" = Hombrelobo
+			Beastman = Bestia
+			Goblin = Duende
+		}
+		Dragon
+		{
+			Dragon = Dragon
+			Firedrake = Dragon de fuego
+			"Ice dragon" = "Drag\x00f3n de hielo"
+			"Water dragon" = "Drag\x00f3n de agua"
+			"Thunder dragon" = Dragon trueno
+			"Sat dragon" = Sat dragon
+			Wyvern = Wyvern
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotauro
+			Centaur = Centauro
+			Harpy = "Arp\x00eda"
+			Hydra = Hidra
+			Cyclops = "C\x00edclope"
+			Titan = "Tit\x00e1n"
+		}
+	}
+}

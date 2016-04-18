@@ -1,0 +1,111 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Descarga AHORA la app GRATIS
+			"FREE app of the day!" = "App GRATIS del d\x00eda"
+			"Today for FREE" = "\x00a1Hoy GRATIS!"
+			"Daily FREE apps" = Apps GRATIS diariamente
+			"Play for FREE" = Juega GRATIS
+			"Download for FREE" = Descarga GRATIS
+			"FREE to download" = Descarga GRATIS
+			"You have won ..." = Has ganado...
+			"Collect your prize now !" = "\x00a1Recolecta tu premio ahora!"
+			"Coming soon to (pick market)" = Muy pronto en (tienda)
+			"Easy to learn yet hard to master" = "F\x00e1cil de aprender, dif\x00edcil de dominar"
+			"Game contains in-app purchases" = Este juego permite realizar compras directas
+			"Game requires internet connection" = "El juego requiere conexi\x00f3n a internet"
+			"Internet not available" = Internet no disponible
+		}
+		"IAP - Modal title"
+		{
+			"Upgrade to full version" = "Actualizar a la versi\x00f3n completa"
+		}
+		"IAP - Main button A"
+		{
+			Upgrade = Actualizar
+		}
+		"IAP - Secondary button B"
+		{
+			"Already purchased?" = "\x00bfYa has comprado esto?"
+		}
+		"IAP - Message A"
+		{
+			"Upgrading..." = Actualizando...
+		}
+		"IAP - Message B"
+		{
+			"Restoring..." = Restaurando...
+		}
+		"IAP - Final message 1st line A"
+		{
+			"Thank you for upgrading!" = "\x00a1Gracias por actualizar!"
+		}
+		"IAP - Final message 1st line B"
+		{
+			"Your purchased has been restored!" = "\x00a1Tus compras han sido restauradas!"
+		}
+		"IAP - Final message 2nd line"
+		{
+			"Enjoy the full version ;)" = "Disfruta de la versi\x00f3n completa ;)"
+		}
+		"IAP - Error 1"
+		{
+			"Internet not available. This purchase requires Internet connection." = "Internet no disponible. Esta compra requiere conexi\x00f3n a Internet."
+		}
+		"IAP - Error 2"
+		{
+			"Store is not available. Please try again later." = "Tienda no disponible. Por favor, int\x00e9ntalo m\x00e1s tarde."
+		}
+		"IAP - Error 3"
+		{
+			"This device does not allow in-app purchases. Please, check your configuration." = "Este dispositivo no permite compras integradas. Por favor, revise su configuraci\x00f3n."
+		}
+		"IAP - IAP item name"
+		{
+			"Full version" = "Versi\x00f3n completa"
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Error en la compra
+			"Purchase cancelled" = Compra cancelada
+			"Please try again later" = "Por favor, int\x00e9ntalo m\x00e1s tarde"
+			"Store is not available" = Tienda no disponible
+			Restore = Restaurar
+			"Restore all purchases to this device ?" = "\x00bfRestaurar todas las compras?"
+			"Remove ads" = Sin publicidad
+			"Double time" = Duplicar tiempo
+			"Double gold" = Duplicar oro
+			"Double lives" = Duplicar vidas
+			"Restore Now" = Restaurar ahora
+			"Unlock ..." = Desbloquear...
+			"..." = Actualizar...
+			"No ads" = Sin publicidad
+			"Buy hints" = Comprar pistas
+			"Buy gold" = Comprar oro
+			"Buy gems" = Comprar gemas
+			"Get full version" = "Obtener versi\x00f3n completa"
+			"Get a refund" = Obtener reembolso
+			"Unlock all levels" = Desbloquear todos los niveles
+			"Unlock all game modes" = Desbloquear todos los modos de juego
+			"Get more hints" = "Obtener m\x00e1s pistas"
+			"Get more gold for FREE" = "Obten m\x00e1s oro GRATIS"
+		}
+		question
+		{
+			"How do you rate this game?" = "\x00bfQu\x00e9 nota le pones a este juego?"
+			"Would you like to rate & review game now ?" = "\x00bfNos puntuas y haces un comentario del juego?"
+			"Do you like our game ?" = "\x00bfTe gusta nuestro juego?"
+			"Would you like to provide feedback to developers ?" = "\x00bfQuieres dar un comentario a los desarrolladores?"
+			"Would you like to watch game trailer ?" = "\x00bfVer un trailer del juego?"
+			"Would you like to watch video game tutorial ?" = "\x00bfVer tutorial en video?"
+		}
+	}
+}

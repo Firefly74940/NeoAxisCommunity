@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+		}
+		Material
+		{
+		}
+		Vehicle
+		{
+		}
+		Plane
+		{
+		}
+		Ship
+		{
+		}
+	}
+}

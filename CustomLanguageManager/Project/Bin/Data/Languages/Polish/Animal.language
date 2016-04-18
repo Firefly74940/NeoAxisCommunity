@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		animal
+		{
+			Animal = "Zwierz\x0119"
+			Animals = "Zwierz\x0119ta"
+			Pet = "Zwierz\x0119 domowe"
+			Human = "Cz\x0142owiek"
+			Monkey = "Ma\x0142pa"
+			Gorilla = Goryl
+			Orangutan = Orangutan
+			Dog = Pies
+			Cat = Kot
+			Puppy = Szczeniak
+			Kitten = Kociak
+			Rat = Szczur
+			Squirrel = "Wiewi\x00f3rka"
+			"Guinea pig" = "\x015awinka morska"
+			Cattle = "Byd\x0142o"
+			Pig = "\x015awinia"
+			Wolf = Wilk
+			Bear = "Nied\x017cwied\x017a"
+			Panda = Panda
+			"Polar bear" = "Nied\x017awied\x017a polarny"
+			Bat = Nietoperz
+			Tiger = Tygrys
+			Lion = Lew
+			Cheetah = Gepard
+			Panther = Pantera
+			Hyena = Hiena
+			Fox = Lis
+			"Raccoon dog" = Szop
+			Horse = "Ko\x0144"
+			Deer = "Jele\x0144"
+			Zebra = Zebra
+			Camel = "Wielb\x0142\x0105d"
+			Ass = "Osio\x0142"
+			Giraffe = "\x0179yrafa"
+			Elephant = "S\x0142o\x0144"
+			Rhinoceros = "Jednoro\x017cec"
+			Hippopotamus = Hipopotam
+			Mammoth = Mamut
+			Koala = "Koala / Nied\x017awied\x017a koala"
+			Kangaroo = Kangur
+			Sloth = Leniwiec
+			Cow = Krowa
+			Ox = "W\x00f3\x0142"
+			Rabbit = "kr\x00f3lik"
+		}
+		Bird
+		{
+			Birds = Ptaki
+			Sparrow = "Jask\x00f3\x0142ka"
+			Crow = Kruk
+			Penguin = Pingwin
+			Hawk = "Jastrz\x0105b"
+			Eagle = "Orze\x0142"
+			Condor = Kondor
+			Swan = "\x0141ab\x0105d\x017a"
+			Duck = Kaczka
+		}
+		Insect
+		{
+			Insect = Owad
+			Butterfly = Motyl
+			Moth = "\x0106ma"
+			Mantis = Modliszka
+			"Rhinoceros beetle" = "Rohatyniec nosoro\x017cec"
+			"Stag beetle" = Jelonek rogacz
+			Beetle = "\x017buk"
+			Mosquito = "Moskit / Komar"
+			Ladybug = Biedronka
+			Spider = "Paj\x0105k"
+			Dragonfly = "Wa\x017cka"
+		}
+		fish
+		{
+			Fish = Ryba
+			Shark = Rekin
+			Whale = Wieloryb
+			Dolphin = Delfin
+			Octopus = "O\x015bmiornica"
+			Squid = "Ka\x0142amarnica"
+		}
+		Reptiles
+		{
+			Reptiles = Gady
+			Gator = Krokodyl
+			Lizard = Jaszczurka
+			Newt = Traszka
+			Gecko = Gekon
+			Snake = "W\x0105\x017c"
+			Turtle = "\x017b\x00f3\x0142w"
+			Chameleon = Kameleon
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinozaur
+			Tyrannosaurus = Tyranozaur
+			Pteranodon = Pterodaktyl
+			Triceratops = Triceratops
+			Plesiosaur = Plezjozaur
+			Stegosaurus = Stegozaur
+			Protoceratops = Protoceratops
+			Iguanodon = Iguanodon
+		}
+	}
+}

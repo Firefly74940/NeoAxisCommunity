@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		Greetings
+		{
+			Hello = Hej
+			"How do you do" = "Hur m\x00e5r du?"
+			Welcome = "V\x00e4lkommen"
+			"Please enjoy" = "Vars\x00e5god"
+			"Good luck" = Lycka till
+			"Have a good day" = Ha en bra dag
+			"Welcome back" = "V\x00e4lkommen tillbaka"
+			"Cheers for good work" = "Sk\x00e5l f\x00f6r det goda arbetet"
+			"Good bye" = "Hejd\x00e5"
+			"Congratulations!" = Grattis!
+		}
+		Thanks
+		{
+			"Thank you" = Tack
+			"Thank you very much" = "Tack s\x00e5 mycket"
+		}
+		shop
+		{
+			Welcome = "V\x00e4lkommen"
+			"What are you looking for?" = Vad letar du efter?
+			"Thanks for your business" = "Tack f\x00f6r god aff\x00e4r"
+			"I am looking forward to seeing you again" = Jag ser fram emot att se dig igen
+		}
+	}
+}

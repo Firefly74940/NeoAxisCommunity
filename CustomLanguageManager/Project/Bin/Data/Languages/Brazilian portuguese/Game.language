@@ -1,0 +1,78 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defense
+			Puzzle = "Quebra-cabe\x00e7a"
+			"Endless runner" = Runner
+			Shooter = Tiro
+			Adventure = Aventura
+			Quiz = Trivia
+			"Vertical shooter (like Tyrian)" = Jogo de Nave
+			"Fast-paced game" = Jogo veloz
+			Strategy = "Estrat\x00e9gia"
+		}
+		"game theme"
+		{
+			Retro = "Retr\x00f4"
+			Fantasy = Fantasia
+			Science = "Ci\x00eancia"
+			Medieval = Medieval
+			Modern = Moderno
+			Ancient = Antigo
+			"World War" = Guerra Mundial
+			"Wild West / Western" = "Velho Oeste / Velhoeste / Western"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = "Vers\x00e3o completa"
+			"Lite version" = "Vers\x00e3o demo"
+			"Free version (Freemium)" = "Vers\x00e3o gratuita"
+			"Premium version" = "Vers\x00e3o premium"
+		}
+		online
+		{
+			"Singleplayer game" = Um jogador
+			"Multiplayer game" = "M\x00faltiplos jogadores"
+			"Asynchronous multiplayer" = "M\x00faltiplos jogadores ass\x00edncronos"
+			"Hotseat mode" = Um jogador de cada vez
+		}
+		Race
+		{
+			laps = voltas
+			position = "posi\x00e7\x00e3o"
+			track = curso
+			"race track" = pista de corrida
+			fuel = "combust\x00edvel"
+			oil = "\x00f3leo"
+			gear = marcha
+			suspension = "suspens\x00e3o"
+			tire = pneu
+			wheel = roda
+			rim = aro
+			clutch = embreagem
+			light = luz
+		}
+		Board
+		{
+			Board = Tabuleiro
+			Dice = Dado
+			"Roll (Dice)" = Rolar (Dado)
+			Domino = "Domin\x00f3"
+			"Card (Playing)" = Carta (Jogando)
+			"Draw(Card)" = Sacar
+			Pass = Passar
+			Deck = Baralho
+			"Play (noun)" = Jogo
+			Slam = Bater
+			"Discard Pile" = Pilha de descarte
+			"Boneyard (Dominoes)" = "Cemit\x00e9rio"
+		}
+	}
+}

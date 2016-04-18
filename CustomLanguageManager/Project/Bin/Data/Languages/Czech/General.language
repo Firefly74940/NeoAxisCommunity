@@ -1,0 +1,34 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		color
+		{
+			Orange = "Oran\x017eov\x00e1"
+			Red = "\x010cerven\x00e1"
+			Blue = "Modr\x00e1"
+			Green = "Zelen\x00e1"
+			Yellow = "\x017dlut\x00e1"
+			Purple = "Fialov\x00e1"
+			White = "B\x00edla"
+			Black = "\x010cern\x00e1"
+			Gray = "\x0160ed\x00e1"
+			Gold = "Zlat\x00e1"
+			Silver = "St\x0159\x00edbrn\x00e1"
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+		}
+		Move
+		{
+		}
+	}
+}

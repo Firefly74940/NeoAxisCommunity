@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = PORTUGUESE
+		}
+		God
+		{
+		}
+		Angel
+		{
+		}
+		"Holy presence"
+		{
+		}
+		Demon
+		{
+		}
+		Monster
+		{
+		}
+		Dragon
+		{
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

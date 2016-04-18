@@ -1,0 +1,77 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defense
+			Puzzle = Puzzle
+			"Endless runner" = Runner
+			Shooter = Shooter
+			Adventure = Adventure
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = "Shoot \'em up"
+			"Fast-paced game" = Schnelles Spiel
+			Strategy = Strategie
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasy
+			Science = Wissenschaft
+			Medieval = Mittelalter
+			Modern = Modern
+			Ancient = Antike
+			"World War" = Weltkrieg
+			"Wild West / Western" = Western
+		}
+		"game mode"
+		{
+			"Inifinite mode" = Unendlicher Modus
+		}
+		"game version"
+		{
+			"Full version" = Vollversion
+			"Lite version" = Demoversion
+			"Free version (Freemium)" = freie Version
+			"Premium version" = Premiumversion
+		}
+		online
+		{
+			"Singleplayer game" = Einzelspieler
+			"Multiplayer game" = Mehrspieler
+			"Asynchronous multiplayer" = Asynchroner Mehrspieler
+			"Hotseat mode" = Hotseat
+		}
+		Race
+		{
+			laps = Runden
+			position = Position
+			track = Strecke
+			"race track" = Rennstrecke
+			fuel = Treibstoff
+			oil = "\x00d6l"
+			gear = Gang
+			suspension = Federung
+			tire = Reifen
+			wheel = Rad
+			rim = Felge
+			clutch = Kupplung
+			light = Licht
+		}
+		Board
+		{
+			Board = Brett
+			Dice = "W\x00fcrfel"
+			"Roll (Dice)" = "w\x00fcrfeln"
+			Domino = Domino
+			"Card (Playing)" = (Spiel)Karte
+			"Draw(Card)" = Ziehen
+			Pass = Aussetzen
+			Deck = Deck
+			"Play (noun)" = Spiel
+			"Discard Pile" = Ablagestapel
+		}
+	}
+}

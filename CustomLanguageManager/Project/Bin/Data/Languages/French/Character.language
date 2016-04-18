@@ -1,0 +1,181 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		Character
+		{
+			Male = Homme
+			Woman = Femme
+			Youth = Jeune
+			"Mrs." = Mademoiselle
+			Adult = Adulte
+			Children = Enfant
+			Boy = "Gar\x00e7on"
+			Girl = Fille
+			"Old man" = Vieux
+			"Old woman" = Vieille
+			Gentleman = Gentilhomme
+			Lady = Dame
+			Character = Personnage
+			Hero = "H\x00e9ros"
+			"Supporting role" = "R\x00f4le secondaire"
+			"Small role" = "Petit r\x00f4le"
+			"Role of the villain" = "R\x00f4le du Vilain"
+			Heroine = "H\x00e9ro\x00efne"
+			Fellow = Compagnon
+			Friend = Ami
+			"Formidable enemy" = Ennemi absolu
+			Revenge = Revanche
+		}
+		Family
+		{
+			Family = Famille
+			Grandfather = "Grand-p\x00e8re"
+			Grandmother = "Grand-m\x00e8re"
+			Father = "P\x00e8re"
+			Mother = "M\x00e8re"
+			"(Elder) Brother" = "Fr\x00e8re ain\x00e9"
+			"(Younger) Brother" = "Fr\x00e8re cadet"
+			"(Elder) Sister" = "Soeur ain\x00e9e"
+			"(Younger) Sister" = Soeur cadette
+			Child = Enfant
+			Son = Fils
+			Daughter = Fille
+			Grandson = Petit-fils
+			"Grand-daughter" = Petite-fille
+			"Great-grandson" = "Arri\x00e8re-petit-fils"
+			Relative = Parent
+			Uncle = Oncle
+			Aunt = Tante
+			"The cousin" = Cousin
+			"Female cousin" = Cousine
+		}
+		fantasy
+		{
+			Savior = Sauveur
+			Fighter = Combattant
+			Priest = "Pr\x00eatre"
+			Magician = Magicien
+			Sage = Sage
+			Summoner = Invocateur
+			Alchemist = Alchimiste
+			Knight = Chevalier
+			Swordsman = "\x00c9p\x00e9iste"
+			"Kung fu master" = Maitre Kung-Fu
+			Hunter = Chasseur
+			Rogue = Voleur
+			Adventurer = Aventurier
+			Ninja = Ninja
+			Samurai = "Samura\x00ef"
+			"Dragon knight" = Chevalier dragon
+			Assassin = Assassin
+			Spy = Espion
+			Dancer = Danceur
+			Raver = Raveur
+			Merchant = Marchand
+			Robot = Robot
+			Android = "Andro\x00efde"
+			Paladin = Paladin
+			Crusader = "Crois\x00e9"
+			Wizard = Magicien
+			Warlock = "D\x00e9moniste"
+			Sorcerer = Sorcier
+			Monk = Moine
+		}
+		Army
+		{
+			Army = "Arm\x00e9e"
+			Commander = Commandant
+			General = "G\x00e9n\x00e9ral"
+			Captain = Capitaine
+			Infantry = Infanterie
+			"Light infantry" = "Infanterie l\x00e9g\x00e8re"
+			"Heavy Infantry" = Infanterie lourde
+			"Soldier rifle" = Fusil
+			Sniper = "Fusil \x00e0 lunette"
+			Grenadier = Grenadier
+			"Infantry long spear" = Pique
+			Engineer = "Ing\x00e9nieur"
+			Bowman = Archer
+			Cavalry = Cavalerie
+			"Light cavalry" = "Cavalerie l\x00e9g\x00e8re"
+			Lancer = Lancier
+			"Heavy cavalry" = Cavalerie lourde
+			Artillery = Artillerie
+			"Fast moving artillery" = Artillerie rapide
+			"Armored soldiers" = "Soldat blind\x00e9s"
+			"Fast armored soldier" = "Soldat blind\x00e9s rapides"
+			"Dragon soldier armor" = Armure du guerrier dragon
+			Guardsman = Soldat de la garde
+			Scout = "\x00c9claireur"
+			"Frontier guards" = "Guarde fronti\x00e8re"
+			"Border guard" = "Guarde fronti\x00e8re"
+			"Fire fighting soldier" = "Soldat du feu / Pompier"
+		}
+		Class
+		{
+			Class = Grade
+			Marshal = Capitaine
+			General = "G\x00e9n\x00e9ral"
+			"Lieutenant general" = "Lieutenant g\x00e9n\x00e9ral"
+			"Major general" = "G\x00e9n\x00e9ral de division"
+			"Brigadier General" = "G\x00e9n\x00e9ral de brigade"
+			Colonel = Colonel
+			"Lieutenant Colonel" = Lieutenant-Colonel
+			Major = Commandant
+			Captain = Capitaine
+			Lieutenant = Lieutenant
+			"Second lieutenant" = Sous-lieutenant
+			"Warrant officer" = Adjudant-chef
+			"Chief warrant officer" = Major
+			"Master Sergeant" = Sergent-chef
+			Sergeant = Sergent
+			Corporal = Caporal
+			"First class soldier" = Soldat (1re classe)
+		}
+		Position
+		{
+			Position = Rang
+			Emperor = Empereur
+			Empress = "Imp\x00e9ratrice"
+			King = Roi
+			Queen = Reine
+			Prince = Prince
+			Princess = Princesse
+			Royal = Royal
+			Duke = Duc
+			Duchess = Duchess
+			Count = Comte
+			Countess = Comtesse
+			Noble = Noble
+			Merchant = "Commer\x00e7ant"
+			Villager = Villageois
+			Farmers = Fermiers
+			Slave = Esclave
+		}
+		Occupation
+		{
+			Occupation = "M\x00e9tier"
+			Craftsman = Artisan
+			Carpenter = Charpentier
+			Bakery = Boulanger
+			Butcher = Boucher
+			Greengrocer = "Marchand de fruits et  l\x00e9gumes"
+			"Liquor store" = Caviste
+			Inn = Aubergiste
+			Traveler = Voyageur
+			Teacher = Professeur
+			"(Female) Teacher" = Enseignant
+			Disciple = Disciple
+			Apprentice = Apprenti
+			Gambler = Joueur
+			Whore = "Prostitu\x00e9e"
+			"Wanted man" = Fugitif
+		}
+	}
+}

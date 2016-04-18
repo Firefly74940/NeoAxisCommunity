@@ -1,0 +1,37 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Spill pauset
+			"mobile phone" = Mobiltelefon
+			tablet = nettbrett
+			console = konsoll
+			multitouch = multitouch
+			resolution = "oppl\x00f8sning"
+			screen = skjerm
+			display = skjerm
+			Accelometer = Akselerometer
+			gyroscope = Gyroskop
+			mouse = mus
+			keyboard = tastatur
+		}
+		"device orientation"
+		{
+			"landscape orientation" = Landskap
+			"portrait orientation" = Portrett
+			"left handed" = venstrehendt
+			"right handed" = "h\x00f8yrehendt"
+		}
+		gesture
+		{
+			"Shake device" = Rist enheten
+			"pinch zoom" = knip og forminsk
+			"drag and drop" = dra og slipp
+			rotate = "rot\x00e9r"
+			"double click" = dobbelklikk
+		}
+	}
+}

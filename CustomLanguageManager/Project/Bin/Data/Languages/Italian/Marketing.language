@@ -1,0 +1,99 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Ora puoi scaricare un gioco gratis
+			"FREE app of the day!" = Gioco GRATIS del giorno!
+			"Today for FREE" = Gratis per oggi
+			"Daily FREE apps" = App GRATIS del giorno
+			"Play for FREE" = Gioca GRATIS
+			"Download for FREE" = Scarica GRATIS
+			"FREE to download" = Scaricabile GRATIS
+			"You have won ..." = Hai vinto ...
+			"Collect your prize now !" = Colleziona i tuoi premi ora!
+			"Coming soon to (pick market)" = Prossimamente su...
+			"Easy to learn yet hard to master" = Facile da imparare, difficile da dominare
+			"Game contains in-app purchases" = "Il gioco contiene la modalit\x00e0 di acquisto In-App"
+			"Game requires internet connection" = Il gioco richiede una connessione Internet
+			"Internet not available" = Internet non disponibile
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Acquisto non riuscito
+			"Purchase cancelled" = Acquisto annullato
+			"Please try again later" = "Riprova pi\x00f9 tardi"
+			"Store is not available" = Store non disponibile
+			Restore = Ripristina
+			"Restore all purchases to this device ?" = Vuoi ripristinare tutti gli acquisti su questo telefono?
+			"Remove ads" = "Rimuovi pubblicit\x00e0"
+			"Double time" = Raddoppia tempo
+			"Double gold" = Raddoppia oro
+			"Double lives" = Raddoppia vite
+			"Restore Now" = Recupera ora...
+			"Unlock ..." = Sblocca ...
+			"..." = Aggiornanemto...
+			"No ads" = "Nessuna pubblicit\x00e0"
+			"Buy hints" = Compra suggerimenti
+			"Buy gold" = Compra oro
+			"Buy gems" = Compra gemme
+			"Get full version" = Ottieni la versione completa
+			"Get a refund" = Ottieni un rimborso
+			"Unlock all levels" = Sblocca tutti i livelli
+			"Unlock all game modes" = "Sblocca tutte le modalit\x00e0 di gioco"
+			"Get more hints" = "Ricevi pi\x00f9 indizi"
+			"Get more gold for FREE" = "Pi\x00f9 oro Gratis!"
+		}
+		question
+		{
+			"How do you rate this game?" = Quale punteggio dai a questo gioco?
+			"Would you like to rate & review game now ?" = Ti andrebbe di dare un voto al gioco?
+			"Do you like our game ?" = "Ti \x00e8 piaciuto il gioco?"
+			"Would you like to provide feedback to developers ?" = Vuoi inviare un commento agli sviluppatori?
+			"Would you like to watch game trailer ?" = Vuoi guardare il trailer?
+			"Would you like to watch video game tutorial ?" = Vuoi guardare il tutorial?
+		}
+	}
+}

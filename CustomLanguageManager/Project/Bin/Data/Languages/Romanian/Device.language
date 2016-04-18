@@ -1,0 +1,40 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = "Pauz\x0103 joc"
+			"mobile phone" = telefon mobil
+			tablet = "tablet\x0103"
+			console = "consol\x0103"
+			multitouch = multitouch
+			resolution = "rezolu\x021bie"
+			screen = ecran
+			display = "afi\x0219aj"
+			"Game resumed" = ecran
+			"Tilt device to control" = "Inclin\x0103 dispozitivul pentru a controla"
+			Accelometer = Accelerometru
+			gyroscope = giroscop
+			mouse = mouse
+			keyboard = "tastatur\x0103"
+		}
+		"device orientation"
+		{
+			"device orientation" = orientare dispozitiv
+			"landscape orientation" = "orientare orizontal\x0103"
+			"portrait orientation" = "orientare vertical\x0103"
+			"left handed" = "st\x00e2ngaci"
+			"right handed" = dreptaci
+		}
+		gesture
+		{
+			"Shake device" = "Agita\x021bi aparatul"
+			swipe = swipe
+			"drag and drop" = drag and drop
+			rotate = "rote\x0219te"
+			"double click" = dublu clic
+		}
+	}
+}

@@ -1,0 +1,98 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Je kunt het GRATIS spel NU downloaden
+			"FREE app of the day!" = GRATIS app van de dag!
+			"Today for FREE" = Vandaag GRATIS
+			"Daily FREE apps" = Iedere dag GRATIS apps
+			"Play for FREE" = Speel GRATIS
+			"Download for FREE" = Download GRATS
+			"FREE to download" = GRATIS te downloaden
+			"You have won ..." = Je hebt ... gewonnen
+			"Collect your prize now !" = Claim nu je prijs!
+			"Coming soon to (pick market)" = Binnenkort beschikbaar
+			"Easy to learn yet hard to master" = Makkelijk te leren, moeilijk te bemeesteren
+			"Game contains in-app purchases" = Spel bevat in app aankopen
+			"Game requires internet connection" = Game vereist internet verbinding
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Aankoop mislukt
+			"Purchase cancelled" = Aankoop geannuleerd
+			"Please try again later" = Probeer het later opnieuw
+			"Store is not available" = Winkel is niet beschikbaar
+			Restore = Herstellen
+			"Restore all purchases to this device ?" = Alle aankopen op dit apparaat herstellen?
+			"Remove ads" = Reclames weghalen
+			"Double time" = Dubbele tijd
+			"Double gold" = Dubbel goud
+			"Double lives" = Dubbele levens
+			"Restore Now" = Nu herstellen
+			"Unlock ..." = Ontgrendel ...
+			"..." = ... opwaarderen
+			"No ads" = Geen reclame
+			"Buy hints" = Koop hints
+			"Buy gold" = Koop goud
+			"Buy gems" = Koop diamanten
+			"Get full version" = Koop volledige versie
+			"Get a refund" = Terugbetaling
+			"Unlock all levels" = Ontgrendel alle levels
+			"Unlock all game modes" = Ontgrendel alle spel modus
+			"Get more hints" = Krijg meer hints
+			"Get more gold for FREE" = Krijg meer GRATIS goud
+		}
+		question
+		{
+			"How do you rate this game?" = Hoe beoordeel je het spel?
+			"Would you like to rate & review game now ?" = Wil je het spel nu beoordelen?
+			"Do you like our game ?" = Vind je ons spel leuk?
+			"Would you like to provide feedback to developers ?" = Wil je feedback geven aan onze ontwikkelaars?
+			"Would you like to watch game trailer ?" = Wil je de trailer bekijken?
+			"Would you like to watch video game tutorial ?" = Wil je een tutorial bekijken?
+		}
+	}
+}

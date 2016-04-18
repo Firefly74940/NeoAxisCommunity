@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		Greetings
+		{
+			Hello = Hej
+			"How do you do" = "Hvordan g\x00e5r det?"
+			Welcome = Velkommen
+			"Please enjoy" = Nyd venligst
+			"Good luck" = Held og lykke
+			"Have a good day" = "Ha\' en god dag"
+			"Welcome back" = Velkommen tilbage
+			"Cheers for good work" = "Sk\x00e5l for det gode arbejde"
+			"Good bye" = Farvel
+			"Congratulations!" = Tillykke!
+		}
+		Thanks
+		{
+			"Thank you" = Tak
+			"Thank you very much" = Mange tak
+		}
+		shop
+		{
+			Welcome = Velkommen
+			"What are you looking for?" = Hvad er du ude efter?
+			"Thanks for your business" = Tak for din handel
+			"I am looking forward to seeing you again" = Jeg ser frem til at se dig igen
+		}
+	}
+}

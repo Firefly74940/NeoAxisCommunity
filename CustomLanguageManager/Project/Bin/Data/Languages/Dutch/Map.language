@@ -1,0 +1,74 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		Direction
+		{
+			"Move Left" = Beweeg links
+			"Move right" = Beweeg rechts
+			"Move up" = Beweeg omhoog
+			"Move down" = Beweeg naar beneden
+			"Move forward" = Beweeg voorwaarts
+			North = Noord
+			South = Zuid
+			East = Oost
+			West = West
+			Northeast = Noord-oost
+			Southeast = Zuid-oost
+			Northwest = Noord-west
+			Southwest = Zuid-west
+		}
+		Building
+		{
+			Castle = Kasteel
+			City = Stad
+			Town = Dorp
+			Building = Gebouw
+			Hut = Hut
+			Dungeon = Kerker
+			Well = Put
+			Jail = Gevangenis
+		}
+		Nature
+		{
+			Nature = Natuur
+			Forest = Bos
+			Mountain = Berg
+			"Dense forest" = Dicht woud
+			River = Rivier
+			"Sandy beach" = Zandstrand
+			Sea = Zee
+			Cave = Grot
+			Shell = Schelp
+			Desert = Woestijn
+			Sand = Zand
+			Stone = Steen
+			Rock = Rots
+			Mud = Modder
+		}
+		Plant
+		{
+			Plant = Plant
+			Flower = Bloem
+			Grass = Gras
+			Tree = Boom
+			Root = Wortel
+			Fruit = Fruit
+			Seed = Zaad
+		}
+		Weather
+		{
+			Cloud = wolk
+			Cloudiness = bewolkt
+			Rain = regen
+		}
+		Space
+		{
+		}
+	}
+}

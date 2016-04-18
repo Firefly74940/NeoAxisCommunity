@@ -1,0 +1,104 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = NORWEGIAN
+		}
+		Direction
+		{
+			"Move Left" = "G\x00e5 til venstre"
+			"Move right" = "G\x00e5 til h\x00f8yre"
+			"Move up" = "G\x00e5 opp"
+			"Move down" = "G\x00e5 ned"
+			"Move forward" = "G\x00e5 forover"
+			North = Nord
+			South = "S\x00f8r"
+			East = "\x00d8st"
+			West = Vest
+			Northeast = "Nord\x00f8st"
+			Southeast = "S\x00f8r\x00f8st"
+			Northwest = Nordvest
+			Southwest = "S\x00f8rvest"
+		}
+		Building
+		{
+			Castle = Slott
+			City = By
+			Town = By
+			Village = Landsby
+			Building = Bygning
+			Hut = Hytte
+			Well = "Br\x00f8nn"
+			Jail = Fengsel
+		}
+		Nature
+		{
+			Nature = Natur
+			Forest = Skog
+			Mountain = Fjell
+			"Dense forest" = Tett skog
+			River = Elv
+			Sea = "Sj\x00f8"
+			Cave = Grotte
+			Shell = Skjell
+			Desert = "\x00d8rken"
+			Sand = Sand
+			Stone = Stein
+			Rock = Stein
+			Mud = Leire
+		}
+		Plant
+		{
+			Plant = Plante
+			Flower = Blomst
+			Grass = Gress
+			Tree = Tre
+			Stem = Stilk
+			Root = Rot
+			Fruit = Frukt
+			Species = Arter
+			Seed = "Fr\x00f8"
+		}
+		Weather
+		{
+			Weather = "V\x00e6r"
+			Air = Luft
+			Sky = Himmel
+			Wind = Vind
+			Cloud = Sky
+			Rain = Regn
+			Thunderstorm = "Tordenv\x00e6r"
+			Thunder = Torden
+			Fog = "T\x00e5ke"
+			Snow = "Sn\x00f8"
+			Sleet = Sludd
+			Hail = Hagl
+			Storm = Storm
+			Typhoon = Tyfon
+			Sandstorm = Sandstorm
+		}
+		Space
+		{
+			Space = Rommet
+			Sun = Sol
+			Mercury = Merkur
+			Venus = Venus
+			Earth = Jorden
+			Mars = Mars
+			Jupiter = Jupiter
+			Saturn = Saturn
+			Uranus = Uranus
+			Neptune = Neptun
+			Pluto = Pluto
+			Moon = "M\x00e5ne"
+			Star = Stjerne
+			Planet = Planet
+			Comet = Komet
+			Meteor = Meteor
+			Satellite = Satelitt
+		}
+	}
+}

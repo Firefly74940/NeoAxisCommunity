@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		Direction
+		{
+			"Move Left" = Move para esquerda
+			"Move right" = Move para direita
+			"Move up" = Move para cima
+			"Move down" = Move para baixo
+			"Move forward" = Move para a frente
+			North = Norte
+			South = Sul
+			East = Este
+			West = Oeste
+		}
+		Building
+		{
+		}
+		Nature
+		{
+		}
+		Plant
+		{
+		}
+		Weather
+		{
+		}
+		Space
+		{
+		}
+	}
+}

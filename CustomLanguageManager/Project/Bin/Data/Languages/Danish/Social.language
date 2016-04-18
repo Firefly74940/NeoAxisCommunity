@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		social
+		{
+			"Share an achievement" = "Del et trof\x00e6"
+			"Post to Twitter" = Post til Twitter
+			"Share on Facebook" = "Del p\x00e5 Facebook"
+			"Your score has been posted to Facebook!" = "Dine point er postet p\x00e5 Facebook"
+			"Your score has been posted to Twitter!" = "Dine point er postet p\x00e5 Twitter"
+			"Thank you for playing!" = Tak for spillet
+			"Find a friend" = Find en ven
+			"Invite a friend" = Inviter en ven
+			"Start a chat" = Start en chat
+			"Chat room" = Chatrum
+			"Share photo on Facebook" = "Del billeder p\x00e5 Facebook"
+			"Like Us" = Like os
+			"Follow Us" = "F\x00f8lg os"
+			"Tell about us" = "Fort\x00e6l om os"
+			"Share score" = Del din score
+		}
+	}
+}

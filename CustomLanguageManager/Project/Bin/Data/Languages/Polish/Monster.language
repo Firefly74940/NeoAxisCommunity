@@ -1,0 +1,86 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = POLISH
+		}
+		God
+		{
+			Goddess = Bogini
+			"False god" = "Fa\x0142szywy B\x00f3g"
+			Buddha = Budda
+			Savior = Zbawiciel
+		}
+		Angel
+		{
+			Angel = "Anio\x0142"
+			"Fallen angel" = "Upad\x0142y anio\x0142"
+			Michael = "Micha\x0142"
+			Gabriel = Gabriel
+			Rafael = "Rafa\x0142 / Rafael"
+			Uriel = Uriel
+			Archangel = "Archanio\x0142"
+		}
+		"Holy presence"
+		{
+			Fairy = "Wr\x00f3\x017cka"
+			Genie = "D\x017cin"
+			Ghost = Duch
+			Dwarf = Krasnolud
+			Undine = "Nimfa wodna / Najada"
+			Gnome = Gnom
+			Salamander = Salamandra
+			Sylph = Sylf
+			Phoenix = Feniks
+			Elf = Elf
+			Nymph = Nimfa
+		}
+		Demon
+		{
+			Demon = Demon
+			Satan = Szatan
+			Lucifer = Lucyfer
+			Baphomet = Bafomet
+			Belial = Burial
+			Belphegor = Belfegor
+			Mammon = Mammon
+			Incubus = Inkub
+			Succubus = Sukub
+			Beelzebub = Belzebub
+			Cerberus = Cerber
+			Familiar = "Przywo\x0142aniec"
+		}
+		Monster
+		{
+			Monster = "Potw\x00f3r"
+			Slime = Szlam
+			Vampire = Wampir
+			Zombie = Zombie
+			Undead = "Nieumar\x0142y"
+			"Wolf Man" = "Wilko\x0142ak"
+			Beastman = "Zwierzo\x0142ak"
+			Goblin = Goblin
+		}
+		Dragon
+		{
+			Dragon = Smok
+			Firedrake = Ognisty smok
+			"Ice dragon" = Lodowy smok
+			"Water dragon" = Wodny smok
+			"Thunder dragon" = Elektryczny smok
+			Wyvern = Wiwerna
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotaur
+			Centaur = Centaur
+			Harpy = Harpia
+			Hydra = Hydra
+			Cyclops = Cyklop
+			Titan = Tytan
+		}
+	}
+}

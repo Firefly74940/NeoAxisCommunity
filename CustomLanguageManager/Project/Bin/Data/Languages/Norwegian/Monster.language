@@ -1,0 +1,58 @@
+language
+{
+	toolsUICulture = nb-NO
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = NORWEGIAN
+		}
+		God
+		{
+			God = Gud
+			Goddess = Gudinne
+			"False god" = Falsk gud
+			Buddha = Buddha
+			Savior = Frelser
+		}
+		Angel
+		{
+			Angel = Engel
+			"Fallen angel" = Fallen engel
+		}
+		"Holy presence"
+		{
+			Fairy = Fe
+			Genie = "\x00c5nd"
+			Ghost = "Sp\x00f8kelse"
+			Dwarf = Dverg
+			Gnome = Gnom
+			Salamander = Salamander
+			Sylph = Sylfide
+			Phoenix = "F\x00f8niks"
+			Elf = Alv
+			Nymph = Nymfe
+		}
+		Demon
+		{
+			Demon = Demon
+			Satan = Satan
+			Lucifer = Lucifer
+		}
+		Monster
+		{
+			Monster = Monster
+			Slime = Slim
+			Vampire = Vampyr
+			Zombie = Zombie
+		}
+		Dragon
+		{
+			Dragon = Drage
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotaur
+		}
+	}
+}

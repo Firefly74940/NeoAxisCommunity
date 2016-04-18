@@ -1,0 +1,53 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Defesa de torres
+			Puzzle = Puzzle
+			Quiz = Jogo de perguntas
+			Strategy = "Estrat\x00e9gia"
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasia
+			Science = "Ci\x00eancia"
+			Medieval = Medieval
+			Modern = Moderno
+			Ancient = Antigo
+			"World War" = Guerra Mundial
+			"Wild West / Western" = Western
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+		}
+		online
+		{
+		}
+		Race
+		{
+			laps = voltas
+			position = "posi\x00e7\x00e3o"
+			track = pista
+			"race track" = pista de corridas
+			fuel = "combust\x00edvel"
+			oil = "\x00f3leo"
+			gear = marcha
+			suspension = "suspens\x00e3o"
+			tire = pneu
+			wheel = roda
+			rim = aro
+			clutch = embreagem
+			light = luz
+		}
+		Board
+		{
+		}
+	}
+}

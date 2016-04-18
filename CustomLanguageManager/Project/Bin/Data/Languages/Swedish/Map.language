@@ -1,0 +1,66 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		Direction
+		{
+			"Move Left" = "Flytta till v\x00e4nster"
+			"Move right" = "Flytta till h\x00f6ger"
+			"Move up" = "Flytta upp\x00e5t"
+			"Move down" = "Flytta ner\x00e5t"
+			"Move forward" = "Flytta fram\x00e5t"
+			North = Norr
+			South = Syd
+			East = "\x00d6st"
+			West = "V\x00e4st"
+		}
+		Building
+		{
+			Castle = Slott
+			"Castle town" = Slottsby
+			City = Stad
+			Village = By
+			Building = Byggnad
+			Hut = Hytt
+			Jail = "F\x00e4ngelse"
+		}
+		Nature
+		{
+			Nature = Natur
+			Forest = Skog
+			Mountain = Berg
+			River = Flod
+			"Sandy beach" = Sandstrand
+			Sea = "Sj\x00f6"
+			Cave = Grotta
+			Underground = Underjord
+			Shell = Skal
+			Desert = "\x00d6ken"
+			Sand = Sand
+			Stone = Sten
+			Rock = Sten
+			Mud = Lera
+		}
+		Plant
+		{
+			Plant = Planta
+			Flower = Blomma
+			Grass = "Gr\x00e4s"
+			Tree = "Tr\x00e4d"
+			Root = Rot
+			Fruit = Frukt
+			Species = Arter
+		}
+		Weather
+		{
+		}
+		Space
+		{
+		}
+	}
+}

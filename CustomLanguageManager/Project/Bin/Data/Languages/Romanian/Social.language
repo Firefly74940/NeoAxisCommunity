@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		social
+		{
+			"Share an achievement" = Impartaseste o realizare
+			"Post to Twitter" = Posteaza pe Twitter
+			"Share on Facebook" = Impartaseste pe Facebook
+			"Your score has been posted to Facebook!" = Scorul tau a fost postat pe Facebook!
+			"Your score has been posted to Twitter!" = Scorul tau a fost postat pe Twitter!
+			"Thank you for playing!" = Multumim ca ati jucat!
+			"Find a friend" = Gaseste un prieten
+			"Invite a friend" = Invita un prieten
+			"Start a chat" = Porneste o discutie
+			"Chat room" = Canal de discutie
+			"Share photo on Facebook" = Impartaseste poza pe Facebook
+			"Like Us" = Apreciaza-ne
+			"Follow Us" = Urmareste-ne
+			"Tell about us" = Spune despre noi
+			"Share score" = Impartaseste scor
+		}
+	}
+}

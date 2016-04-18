@@ -1,0 +1,67 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Nyn\x00ed si m\x016f\x017eete st\x00e1hnout hru zcela ZDARMA!"
+			"Today for FREE" = Dnes zcela zdarma!
+			"Play for FREE" = Hraj zdarma
+			"Download for FREE" = Stahuj zdarma
+			"FREE to download" = Zdarma stahnuj
+			"You have won ..." = "Vyhr\x00e1l jste ..."
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "N\x00e1kup se nezda\x0159il"
+			"Purchase cancelled" = "N\x00e1kup zru\x0161en"
+			"Please try again later" = "Zkuste to pros\x00edm pozd\x011bji"
+			Restore = Obnovit
+			"Remove ads" = Odstranit reklamy
+		}
+		question
+		{
+		}
+	}
+}

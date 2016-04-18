@@ -1,0 +1,65 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = "Tornf\x00f6rsvar"
+			Puzzle = Pussel
+			"Endless runner" = Evighetsspringare
+			Shooter = Skjutare
+			Adventure = "\x00c4ventyr"
+			Quiz = "Fr\x00e5gespel"
+			"Vertical shooter (like Tyrian)" = Vertikal skjutare
+			"Fast-paced game" = "H\x00f6ghastighetsspel"
+			Strategy = Strategi
+		}
+		"game theme"
+		{
+			Retro = Nostalgi
+			Fantasy = Fantasi
+			Science = Vetenskap
+			Medieval = Medeltid
+			Modern = Modern
+			Ancient = Forntid
+			"World War" = "V\x00e4rldskrig"
+			"Wild West / Western" = "Vilda v\x00e4stern / V\x00e4stern"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = Fullversion
+			"Lite version" = Provversion
+			"Free version (Freemium)" = Gratisversion
+			"Premium version" = Premiumversion
+		}
+		online
+		{
+			"Singleplayer game" = "Spel f\x00f6r en spelare"
+			"Multiplayer game" = "Spel f\x00f6r flera spelare"
+			"Asynchronous multiplayer" = Turbaserat spel
+		}
+		Race
+		{
+			laps = varv
+			position = position
+			track = bana
+			"race track" = "t\x00e4vlingsbana"
+			fuel = "br\x00e4nsle"
+			oil = olja
+			gear = "v\x00e4xel"
+			suspension = "fj\x00e4dring"
+			tire = "d\x00e4ck"
+			wheel = hjul
+			rim = "f\x00e4lg"
+			clutch = koppling
+			light = lyse
+		}
+		Board
+		{
+		}
+	}
+}

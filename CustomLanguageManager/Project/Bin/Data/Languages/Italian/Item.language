@@ -1,0 +1,109 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		Arms
+		{
+			Sword = Spada
+			Longsword = Spadone
+			Dagger = Daga
+			Katana = Katana
+			Whip = Frusta
+			Knife = Coltello
+			Cane = Bastone
+			Wand = Bacchetta magica
+			Bow = Arco
+			Knuckles = Nocche
+			Katar = Katar
+			Mace = Mazza
+			Axe = Ascia
+			Staff = Staffa
+			Crossbow = Balestra
+		}
+		Gun
+		{
+			Pistol = Pistola
+			Rifle = Fucile
+			"Sniper rifle" = Cecchino
+			"Machine gun" = Mitragliatore
+			Cannon = Cannone
+			"Laser rifle" = Fucile Laser
+			"Beam gun" = Pistola a raggi
+		}
+		Protector
+		{
+			Shield = Scudo
+			Armor = Corazza
+			Helmet = Elmetto
+			Forearm = Avambraccio
+			Mantle = Mantello
+			Boots = Stivali
+			"Chain mail" = Maglia a catena
+			Belt = Cintura
+			Crown = Corona
+		}
+		Accessory
+		{
+			Accessory = Accessori(o)
+			Jewelry = Gioielli
+			Ring = Anello
+			Pierce = Pendente
+			Necklace = Collana
+			Bracelet = Braccialetto
+		}
+		Costume
+		{
+			Costume = Costume
+			Clothing = Vestito
+			Clothes = Vestiti
+			Jacket = Giacca
+			Underwear = Intimo
+			Socks = Calzini
+			Sweater = Maglione
+			Sleepwear = Pigiama
+			Pajamas = Camicia da notte
+			Bra = Reggiseno
+			Panties = Mutande
+			Stockings = Calze
+			"Garter belt" = Reggicalze
+			Makeup = Trucco
+			Lipstick = Rossetto
+			Perfume = Profumo
+			Swimsuit = Costume da bagno
+			Bikini = Bikini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = Mosse speciali
+			Swordsmanship = "Abilit\x00e0 con la spada"
+		}
+		Magic
+		{
+			Magic = Magia
+			Apparition = Apparizione
+			Recovery = Guarigione
+			"Attack magic" = "Magia d\'attacco"
+		}
+		item
+		{
+			Coin = Moneta
+			Clock = Orologio
+			Artifact = Artefatto
+			Fossil = Fossile
+			Bone = Osso
+		}
+		medicine
+		{
+			medicine = Medicina
+			"Recovery medicine" = Medicina di guarigione
+			Antidote = Antidoto
+			"Revival medicine" = Medicina rivitalizzante
+			Herb = Erba medicinale
+		}
+	}
+}

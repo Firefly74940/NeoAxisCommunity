@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		Cooking
+		{
+			Cooking = Madlavning
+			Pan = Pande
+			Pot = Gryde
+			"Kitchen knife" = "K\x00f8kkenkniv"
+		}
+		Tableware
+		{
+			Tableware = Service
+			Knife = Kniv
+			Spoon = Ske
+			Fork = Gaffel
+			Chopsticks = Spisepinde
+			Dish = Ret
+			Cup = Kop
+		}
+		Food
+		{
+			Food = Mad
+			Rice = Ris
+			Soup = Suppe
+			Meat = "K\x00f8d"
+			"Grilled meat" = "Grillet k\x00f8d"
+			Steak = "B\x00f8f"
+			"Hamburger Steak" = "Hamburger b\x00f8f"
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Gryderet
+			Ramen = Nudler
+			Pizza = Pizza
+			Candy = Slik
+			"Soft-serve ice cream" = Softice
+		}
+		Vegetables
+		{
+			Vegetables = "Gr\x00f8nsager"
+			Rice = Ris
+			Wheat = Hvede
+			Barley = Byg
+			Cabbage = Salat
+			Pepper = Peberfrugt
+			Carrot = Gullerod
+			Radish = Radisse
+			Potato = Kartoffel
+			"Sweet potato" = "S\x00f8de kartofler"
+			Onion = "L\x00f8g"
+			Beans = "B\x00f8nner"
+			Garlic = "Hvidl\x00f8g"
+		}
+		Drink
+		{
+			Drink = Drik
+			Water = Vand
+			Milk = "M\x00e6lk"
+			Coffee = Kaffe
+			"Black tea" = Sort te
+			Tea = Te
+			Juice = Juice
+			Coke = Cola
+		}
+		Material
+		{
+			Material = Materiale
+			Mineral = Mineral
+			Platinum = Platin
+			Gold = Guld
+			Silver = "S\x00f8lv"
+			Bronze = Bronze
+			Iron = Jern
+			Steel = "St\x00e5l"
+			Crystal = Krystal
+			Marble = Marmor
+		}
+		Vehicle
+		{
+			Vehicle = "K\x00f8ret\x00f8j"
+			Car = Bil
+			Bike = Cykkel
+			Bicycle = Cykkel
+			Tank = Tank
+			Jeep = Jeep
+		}
+		Plane
+		{
+			Plane = Fly
+			Fighter = Jetjager
+			Interceptor = Opfanger
+			"Reconnaissance aircraft" = rekognosceringsfly
+			"Stealth machine" = Skjult maskine
+			Airliner = Passagerfly
+			"Unmanned aircraft" = Ubemandede fly
+			Helicopter = Helicopter
+			Balloon = Ballon
+			"Hang glider" = Hang glider
+			Parachute = "Faldsk\x00e6rm"
+		}
+		Ship
+		{
+			Ship = Skib
+			Yacht = Yacht
+			Raft = "T\x00f8mmerflode"
+			Ferry = "F\x00e6rge"
+			Tanker = Tanker
+			Warship = Krigsskib
+			Battleship = Kampskib
+			"Mother ship" = Moderskib
+			"Aircraft Carrier" = Hangarskib
+			Escort = Eskorte
+			Submarine = "Ub\x00e5d"
+		}
+	}
+}

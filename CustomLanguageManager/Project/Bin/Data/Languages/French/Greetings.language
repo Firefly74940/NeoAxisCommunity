@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		Greetings
+		{
+			Hello = Bonjour
+			"How do you do" = "Enchant\x00e9 | \x00e7a va ?"
+			Welcome = Bienvenue
+			"Please enjoy" = Profitez-en bien
+			"Good luck" = Bonne chance
+			"Have a good day" = "Passez une bonne journ\x00e9e"
+			"Welcome back" = Content de vous revoir !
+			"Cheers for good work" = Bravo pour le travail
+			"Good bye" = Au revoir
+			"Congratulations!" = "F\x00e9licitations !"
+		}
+		Thanks
+		{
+			"Thank you" = Merci
+			"Thank you very much" = merci beaucoup
+		}
+		shop
+		{
+			Welcome = Bienvenue
+			"What are you looking for?" = Que recherchez-vous ?
+			"Thanks for your business" = Merci de votre visite
+			"I am looking forward to seeing you again" = Au plaisir de vous revoir
+		}
+	}
+}

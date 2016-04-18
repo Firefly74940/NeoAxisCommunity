@@ -1,0 +1,56 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		Character
+		{
+			Male = Man
+			Woman = Kvinna
+			Youth = Ungdom
+			Adult = Vuxen
+			Children = Barn
+			Boy = Pojke
+			Girl = Flicka
+			"Old man" = Gammal man
+			"Old woman" = Gammal kvinna
+			Hero = "Hj\x00e4lte"
+			"Supporting role" = "St\x00f6djande roll"
+			"Small role" = Liten roll
+			Heroine = "Hj\x00e4ltinna"
+		}
+		Family
+		{
+		}
+		fantasy
+		{
+			Savior = "R\x00e4ddare"
+			Priest = "Pr\x00e4st"
+			Magician = Magiker
+			Knight = Knekt
+			"Kung fu master" = "Kung Fu-m\x00e4stare"
+			Adventurer = "\x00c4ventyrare"
+			Ninja = Ninja
+			Samurai = Samurai
+			Merchant = Handlare
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+			King = Kung
+			Merchant = Handlare
+		}
+		Occupation
+		{
+		}
+	}
+}

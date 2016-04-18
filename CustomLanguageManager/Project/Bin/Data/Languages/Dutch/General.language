@@ -1,0 +1,54 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		color
+		{
+			Orange = Oranje
+			Red = Rood
+			Blue = Blauw
+			Green = Groen
+			Yellow = Geel
+			Cyan = Cyaan
+			Purple = Paars
+			White = Wit
+			Black = Zwart
+			Gray = Grijs
+			Violet = Violet
+			Platinum = Platinum
+			Gold = Goud
+			Silver = Zilver
+			Bronze = Brons
+			Clear = Transparant
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Spring
+			Heal = Genees
+			Shoot = Schiet
+			Collect = Verzamel
+			Capture = Vang
+			Destroy = Vernietig
+			Attack = Val aan
+			Defend = Verdedig
+			Hit = Raak
+			Kick = Schop
+		}
+		Move
+		{
+			Move = Beweeg
+			Run = Ren
+			Walk = Loop
+			Skip = Sla over
+			Escape = Ontsnapping
+		}
+	}
+}

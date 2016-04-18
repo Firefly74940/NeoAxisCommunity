@@ -1,0 +1,114 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = CT
+		}
+		accounts
+		{
+		}
+		Animal
+		{
+		}
+		"button label"
+		{
+			"Pick character" = Triar personatge
+			Play = Jugar
+			"Play Again" = Tornar a jugar
+			Preferences = "Prefer\x00e8ncies"
+			Previous = Enrere
+			Quit = Sortir
+			"Remind me later" = "Torna-m\'ho a recordar"
+			Replay = Tornar a jugar
+			Options = "Configuraci\x00f3"
+			"Reset Options" = Restaurar la configuracio
+			Retry = Tornar a intentar
+			"Sandbox mode" = Terreny de proves
+			"Save game" = "Desar el progr\x00e8s"
+			Scoreboard = "Tabla de puntuaci\x00f3"
+			Search = Cerca
+			Secret = Secret
+			Shop = Botiga
+			Single = Jugar tot sol
+			"Skip Level" = Saltar nivell
+			Store = Tenda
+			Tutorial = Tutorial
+			"Update order" = Actualitzar la comanda
+		}
+		"gameplay label"
+		{
+			"Base score" = "Puntuaci\x00f3 base"
+			"Best results" = Millors resultats
+			"Best score" = "Millor puntuaci\x00f3"
+			"Game over" = Fi de la partida
+			Highscore = "M\x00e0xima puntuaci\x00f3"
+			Lives = Vides
+			"Lives left" = Vides restants
+			"Money left" = Diners restants
+			Score = "Puntuaci\x00f3"
+			Time = Temps
+			"Time left" = Temps restant
+			"Total score" = "Puntuaci\x00f3 total"
+			"Your score" = "La teva puntuaci\x00f3"
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = Edat
+			"All rights reserved" = Tots els drets reservats
+			"Are you sure you want to quit?" = "Est\x00e0s segur que vols sortir?"
+			bear = Silenciar
+			Birthplace = Lloc de naixement
+			"Blood type" = Grup sanguini
+			"Current address" = "Adre\x00e7a actual"
+			"e-mail" = "Correu electr\x00f2nic"
+			Error = Error
+			"game version" = "Versi\x00f3 del joc"
+			Marriage = Matrimoni
+			"Music off" = "Sense m\x00fasica"
+			"Music on?" = "Amb m\x00fasica"
+			NO = No
+			"No, thanks!" = "No, gr\x00e0cies!"
+			OK = "D\'acord"
+			Sex = Sexe
+			"Sort by" = Filtrar per
+			"Sound off" = Sense so
+			"Sounds on?" = Amb so
+			Warning = "Av\x00eds"
+			Web = Web
+			"Yes, sure!" = Entesos!
+			"You are here" = "Ets aqu\x00ed"
+		}
+		"plot / story"
+		{
+			Chapter = "Cap\x00edtol"
+			Character = Personatge
+			Comics = "C\x00f2mics"
+			Ending = Final
+			"Final Boss" = Enemic final
+			Intro = "Introducci\x00f3"
+			Outro = "Ep\x00edleg"
+			Page = "P\x00e0gina"
+			Stage = Escenari
+			Story = "Hist\x00f2ria"
+		}
+		rate
+		{
+			"Rate our app" = Punta la nostra app!
+			"Rate Us" = "Puntua\'ns!"
+		}
+		test
+		{
+			"only one" = "Nom\x00e9s un"
+		}
+		teste
+		{
+			"Level editor" = Editor de nivells
+		}
+	}
+}

@@ -1,0 +1,75 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = AFRIKAANS
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Jy kan die speletjie nou gratis aflaai.
+			"FREE app of the day!" = Gratis program van die dag!
+			"Today for FREE" = GRATIS vandag
+			"Daily FREE apps" = Daaglikse GRATIS programme
+			"Play for FREE" = Speel GRATIS
+			"Download for FREE" = Laai gratis af.
+			"FREE to download" = Gratis om af te laai.
+			"You have won ..." = Jy het gewen...
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Please try again later" = Probeer later asseblief
+			"Store is not available" = Winkel nie beskikbaar nie
+			"Remove ads" = Verwyder advertensies
+			"Double time" = Dubbel tyd
+			"Double gold" = Dubbel goud
+			"Double lives" = Dubbel lewens
+			"..." = Opgradeer
+			"No ads" = Geen advertensies
+			"Buy gold" = Koop goud
+			"Buy gems" = Koop juwele
+			"Get full version" = Kry vol weergawe
+		}
+		question
+		{
+		}
+	}
+}

@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = JAPANESE
+		}
+		Greetings
+		{
+			Hello = "\x3053\x3093\x306b\x3061\x306f"
+			"How do you do" = "\x306f\x3058\x3081\x307e\x3057\x3066"
+			Welcome = "\x3088\x3046\x3053\x305d"
+			"Please enjoy" = "\x697d\x3057\x3093\x3067\x304f\x3060\x3055\x3044/\x304a\x697d\x3057\x307f\x4e0b\x3055\x3044"
+			"Good luck" = "\x304c\x3093\x3070\x308c/\x691c\x8a0e\x3092\x7948\x308b"
+			"Have a good day" = "\x3044\x3063\x3066\x3089\x3063\x3057\x3083\x3044"
+			"Welcome back" = "\x304a\x304b\x3048\x308a\x306a\x3055\x3044"
+			"Cheers for good work" = "\x304a\x3064\x304b\x308c\x3055\x307e"
+			"Good bye" = "\x3055\x3088\x3046\x306a\x3089"
+			"Congratulations!" = "\x304a\x3081\x3067\x3068\x3046\x3054\x3056\x3044\x307e\x3059\xff01"
+		}
+		Thanks
+		{
+			"Thank you" = "\x3042\x308a\x304c\x3068\x3046"
+			"Thank you very much" = "\x3042\x308a\x304c\x3068\x3046\x3054\x3056\x3044\x307e\x3059"
+		}
+		shop
+		{
+			Welcome = "\x3044\x3089\x3063\x3057\x3083\x3044\x307e\x305b/\x3088\x3046\x3053\x305d"
+			"What are you looking for?" = "\x4f55\x3092\x304a\x63a2\x3057\x3067\x3059\x304b?"
+			"Thanks for your business" = "\x304a\x8cb7\x3044\x4e0a\x3052\x3042\x308a\x304c\x3068\x3046\x3054\x3056\x3044\x307e\x3059"
+			"I am looking forward to seeing you again" = "\x307e\x305f\x306e\x304a\x8d8a\x3057\x3092\x304a\x5f85\x3061\x3057\x3066\x3044\x307e\x3059"
+		}
+	}
+}

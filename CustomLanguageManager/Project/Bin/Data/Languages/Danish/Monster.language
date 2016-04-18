@@ -1,0 +1,79 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = DANISH
+		}
+		God
+		{
+			God = Gud
+			Goddess = Gudinde
+			"False god" = Falsk gud
+			Buddha = Buddha
+			Savior = Frelser
+		}
+		Angel
+		{
+			Angel = Engel
+			"Fallen angel" = Falden engel
+			Michael = Michael
+			Gabriel = Gabriel
+			Rafael = Rafael
+			Uriel = Uriel
+			Archangel = "\x00c6rkeengel"
+		}
+		"Holy presence"
+		{
+			Fairy = Fe
+			Genie = "\x00c5nd"
+			Ghost = "Sp\x00f8gelse"
+			Dwarf = "Dv\x00e6rg"
+			Undine = Undine
+			Gnome = Nome
+			Salamander = Salamander
+			Sylph = Sylfide
+			Phoenix = "Ph\x00f8nix"
+			Elf = Alf
+			Nymph = Nymfe
+		}
+		Demon
+		{
+			Demon = Demon
+			Satan = Satan
+			Lucifer = Lucifer
+			Cerberus = Kerberus
+		}
+		Monster
+		{
+			Monster = Monster
+			Slime = Slim
+			Vampire = Vampyr
+			Zombie = Zombie
+			Undead = "Levende d\x00f8de"
+			"Wolf Man" = Ulvemand
+			Beastman = Udyr
+			Goblin = Trold
+		}
+		Dragon
+		{
+			Dragon = Drage
+			Firedrake = Ild drage
+			"Ice dragon" = Is drage
+			"Water dragon" = Vand drage
+			"Thunder dragon" = Lyn drage
+			Wyvern = Lindormen
+		}
+		"Greek myth"
+		{
+			Minotaur = Minotaur
+			Centaur = Kentaur
+			Harpy = Harpy
+			Hydra = Hydra
+			Cyclops = Kyklop
+			Titan = Titan
+		}
+	}
+}

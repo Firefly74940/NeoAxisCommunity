@@ -1,0 +1,42 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = "\x4e00\x6642\x505c\x6b62\x4e2d"
+			"mobile phone" = "\x643a\x5e2f\x96fb\x8a71"
+			tablet = "\x30bf\x30d6\x30ec\x30c3\x30c8"
+			console = "\x30b2\x30fc\x30e0\x6a5f"
+			multitouch = "\x30de\x30eb\x30c1\x30bf\x30c3\x30c1"
+			resolution = "\x89e3\x50cf\x5ea6"
+			screen = "\x30b9\x30af\x30ea\x30fc\x30f3"
+			display = "\x30c7\x30a3\x30b9\x30d7\x30ec\x30a4"
+			"Game resumed" = "\x30b2\x30fc\x30e0\x3092\x518d\x958b"
+			"Tilt device to control" = "\x50be\x3051\x3066\x64cd\x4f5c"
+			Accelometer = "\x52a0\x901f\x5ea6\x30bb\x30f3\x30b5\x30fc"
+			gyroscope = "\x30b8\x30e3\x30a4\x30ed\x30b9\x30b3\x30fc\x30d7"
+			mouse = "\x30de\x30a6\x30b9"
+			keyboard = "\x30ad\x30fc\x30dc\x30fc\x30c9"
+			"pad controller" = "\x30b2\x30fc\x30e0\x30d1\x30c3\x30c9"
+		}
+		"device orientation"
+		{
+			"device orientation" = "\x30c7\x30d0\x30a4\x30b9\x306e\x5411\x304d"
+			"landscape orientation" = "\x6a2a\x5411\x304d"
+			"portrait orientation" = "\x7e26\x5411\x304d"
+			"left handed" = "\x5de6\x5229\x304d"
+			"right handed" = "\x53f3\x5229\x304d"
+		}
+		gesture
+		{
+			"Shake device" = "\x30c7\x30d0\x30a4\x30b9\x3092\x632f\x308b"
+			"pinch zoom" = "\x30d4\x30f3\x30c1\x30ba\x30fc\x30e0"
+			swipe = "\x30b9\x30ef\x30a4\x30d7"
+			"drag and drop" = "\x30c9\x30e9\x30c3\x30b0&\x30c9\x30ed\x30c3\x30d7"
+			rotate = "\x56de\x8ee2"
+			"double click" = "\x30c0\x30d6\x30eb\x30af\x30ea\x30c3\x30af"
+		}
+	}
+}

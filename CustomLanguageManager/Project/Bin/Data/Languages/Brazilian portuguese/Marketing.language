@@ -1,0 +1,99 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "Voc\x00ea pode baixar o jogo GR\x00c1TIS AGORA"
+			"FREE app of the day!" = "App Gr\x00e1tis do dia!"
+			"Today for FREE" = "Gr\x00e1tis hoje"
+			"Daily FREE apps" = "App Gr\x00e1tis todo dia"
+			"Play for FREE" = "Jogue Gr\x00e1tis"
+			"Download for FREE" = "Download Gr\x00e1tis"
+			"FREE to download" = "Gr\x00e1tis para download"
+			"You have won ..." = "Voc\x00ea ganhou ..."
+			"Collect your prize now !" = "Colete seu pr\x00eamio agora!"
+			"Coming soon to (pick market)" = Em breve no (escolha o mercado)
+			"Easy to learn yet hard to master" = "F\x00e1cil de aprender, mas dif\x00edcil de dominar"
+			"Game contains in-app purchases" = O jogo possui sistema de compras embutido
+			"Game requires internet connection" = "O jogo requer conex\x00e3o \x00e0 internet"
+			"Internet not available" = "Internet n\x00e3o dispon\x00edvel"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Compra falhou
+			"Purchase cancelled" = Compra cancelada
+			"Please try again later" = Por favor tente novamente mais tarde
+			"Store is not available" = "Loja n\x00e3o dispon\x00edvel"
+			Restore = Restaurar
+			"Restore all purchases to this device ?" = Restaurar todas as compras para esse dispositivo?
+			"Remove ads" = Remover propaganda
+			"Double time" = Dobro de tempo
+			"Double gold" = Dobro de ouro
+			"Double lives" = Dobro de vidas
+			"Restore Now" = Restaurar Agora
+			"Unlock ..." = Desbloquear ...
+			"..." = ...
+			"No ads" = Sem propagandas
+			"Buy hints" = Comprar dicas
+			"Buy gold" = Comprar ouro
+			"Buy gems" = "Comprar j\x00f3ias"
+			"Get full version" = "Obter vers\x00e3o completa"
+			"Get a refund" = Obter reembolso
+			"Unlock all levels" = "Desbloquear todos os n\x00edveis"
+			"Unlock all game modes" = Desbloquear todos os modos de jogos
+			"Get more hints" = Receba mais dicas
+			"Get more gold for FREE" = "Receba mais ouro GR\x00c1TIS"
+		}
+		question
+		{
+			"How do you rate this game?" = "Como voc\x00ea avalia este jogo?"
+			"Would you like to rate & review game now ?" = Gostaria de avaliar o nosso jogo agora?
+			"Do you like our game ?" = "Voc\x00ea gostou do nosso jogo?"
+			"Would you like to provide feedback to developers ?" = "Voc\x00ea gostaria de contatar os desenvolvedores?"
+			"Would you like to watch game trailer ?" = Gostaria de assistir o trailer do jogo?
+			"Would you like to watch video game tutorial ?" = Gostaria de assistir o tutorial?
+		}
+	}
+}

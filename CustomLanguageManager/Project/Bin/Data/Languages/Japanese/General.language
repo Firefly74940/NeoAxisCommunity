@@ -1,0 +1,61 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = JAPANESE
+		}
+		color
+		{
+			Orange = "\x30aa\x30ec\x30f3\x30b8\xff08\x6a59\xff09"
+			Red = "\x8d64"
+			Blue = "\x9752"
+			Green = "\x7dd1"
+			Yellow = "\x9ec4\x8272"
+			Cyan = "\x30b7\x30a2\x30f3"
+			Purple = "\x7d2b"
+			White = "\x767d"
+			Black = "\x9ed2"
+			Gray = "\x7070\x8272"
+			Violet = "\x7d2b"
+			Platinum = "\x30d7\x30e9\x30c1\x30ca\xff08\x767d\x91d1\xff09"
+			Gold = "\x91d1"
+			Silver = "\x9280"
+			Bronze = "\x9285"
+			Clear = "\x900f\x660e"
+			Iridescence = "\x7389\x866b\x8272\xff08\x69cb\x9020\x8272\xff09"
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = "\x30b8\x30e3\x30f3\x30d7"
+			Bounce = "\x8df3\x306d\x308b"
+			Heal = "\x56de\x5fa9"
+			Shoot = "\x6483\x3064"
+			Collect = "\x62fe\x3046/\x96c6\x3081\x308b"
+			Capture = "\x6355\x7372\x3059\x308b"
+			Destroy = "\x7834\x58ca\x3059\x308b"
+			Attack = "\x653b\x6483\x3059\x308b"
+			Defend = "\x5b88\x308b"
+			Hit = "\x6bb4\x308b"
+			Kick = "\x8e74\x308b"
+			Headbutt = "\x982d\x7a81\x304d"
+			Stomp = "\x8e0f\x307f\x3064\x3051\x308b"
+			Walljump = "\x58c1\x30c0\x30c3\x30b7\x30e5"
+			Dash = "\x30c0\x30c3\x30b7\x30e5"
+		}
+		Move
+		{
+			Move = "\x79fb\x52d5\x3059\x308b"
+			Run = "\x8d70\x308b"
+			Walk = "\x6b69\x304f"
+			Skip = "\x30b9\x30ad\x30c3\x30d7"
+			Escape = "\x9003\x3052\x308b"
+			"Stealthy steps" = "\x5fcd\x3073\x8db3"
+		}
+	}
+}

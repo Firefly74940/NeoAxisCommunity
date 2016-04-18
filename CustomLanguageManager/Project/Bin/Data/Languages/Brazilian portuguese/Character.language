@@ -1,0 +1,163 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		Character
+		{
+			Male = Homem
+			Woman = Mulher
+			Youth = Jovem
+			"Mrs." = Sra.
+			Adult = Adulto
+			Children = "Crian\x00e7a"
+			Boy = Menino
+			Girl = Menina
+			"Old man" = Velho
+			"Old woman" = Velha
+			Gentleman = Cavalheiro
+			Lady = Dama
+			Character = Personagem
+			Hero = "Her\x00f3i"
+			"Supporting role" = Papel Coadjuvante
+			"Small role" = Papel Pequeno
+			"Role of the villain" = "Papel de Vil\x00e3o"
+			Heroine = "Hero\x00edna"
+			Fellow = Companheiro
+			Friend = Amigo
+			"Formidable enemy" = "Inim\x00edgo formid\x00e1vel"
+			Revenge = "Vingan\x00e7a"
+		}
+		Family
+		{
+			Family = "Fam\x00edlia"
+			Grandfather = "Av\x00f4"
+			Grandmother = "Av\x00f3"
+			Father = Pai
+			Mother = "M\x00e3e"
+			"(Elder) Brother" = "Irm\x00e3o"
+			"(Younger) Brother" = "Irm\x00e3ozinho (optional)"
+			"(Elder) Sister" = "Irm\x00e3"
+			"(Younger) Sister" = "Irm\x00e3zinha (optional)"
+			Child = Filho
+			Son = Filho
+			Daughter = Filha
+			Grandson = Neto
+			"Great-grandson" = Bisneto
+			Relative = Parente
+			Uncle = Tio
+			Aunt = Tia
+			"The cousin" = Primo
+			"Female cousin" = Prima
+		}
+		fantasy
+		{
+			Savior = Salvador
+			Fighter = Lutador
+			Priest = Padre
+			Magician = "M\x00e1gico"
+			Sage = "S\x00e1bio"
+			Summoner = Invocador
+			Alchemist = Alquimista
+			Knight = Cavaleiro
+			Swordsman = Espadachim
+			"Kung fu master" = Mestre de Kung Fu
+			Adventurer = Aventureiro
+			Ninja = Ninja
+			Samurai = Samurai
+			"Dragon knight" = "Cavaleiro Drag\x00e3o"
+			Assassin = Assassino
+			Spy = "Espi\x00e3o"
+			Dancer = "Dan\x00e7arino"
+			Raver = Voraz
+			Merchant = Mercador
+			Robot = "Rob\x00f4"
+			Android = "Andr\x00f3ide"
+			Paladin = Paladino
+			Crusader = Cruzado
+			Wizard = Mago
+			Warlock = Bruxo
+			Sorcerer = Feiticeiro
+			Monk = Monge
+		}
+		Army
+		{
+			Army = "Ex\x00e9rcito"
+			Commander = Comandante
+			General = General
+			Captain = "Capit\x00e3o"
+			Infantry = Infantraria
+			"Light infantry" = Infantaria leve
+			"Heavy Infantry" = Infantaria pesada
+			Sniper = Atirador de elite
+			Engineer = Engenheiro
+			Bowman = Arqueiro
+			Cavalry = Cavalaria
+			"Light cavalry" = Cavalaria leve
+			Lancer = Lanceiro
+			"Heavy cavalry" = Cavalaria pesada
+			Artillery = Artilharia
+			"Armored soldiers" = Soldados Armados
+			"Armored infantry" = Infantaria Armada
+			Scout = Batedor
+			"Soldier messenger" = Mensageiro
+			"Border guard" = Guarda da fronteira
+		}
+		Class
+		{
+			Class = Classe
+			Marshal = Marechal
+			General = General
+			"Lieutenant general" = Tenente-general
+			"Major general" = Major-general
+			"Brigadier General" = General de Brigada
+			Colonel = Coronel
+			"Lieutenant Colonel" = Tenente-coronel
+			Major = Major
+			Captain = "Capit\x00e3o"
+			Lieutenant = Tenente
+			"Second lieutenant" = Segundo Tenente
+			"Warrant officer" = Subtenente
+			"Chief warrant officer" = Subtenente Chefe
+			Sergeant = Sargento
+			Corporal = Cabo
+			"Lance corporal" = Arvorado
+			"First class soldier" = Soldado de primeira classe
+		}
+		Position
+		{
+			Position = "Posi\x00e7\x00e3o"
+			King = Rei
+			Princess = Princesa
+			Royal = Realeza
+			Noble = Nobre
+			Merchant = Mercador
+			Villager = "Alde\x00e3o"
+			Farmers = Fazendeiro
+			Slave = Escravo
+		}
+		Occupation
+		{
+			Occupation = "Ocupa\x00e7\x00e3o"
+			Craftsman = "Artes\x00e3o"
+			Carpenter = Carpinteiro
+			Bakery = Padeiro
+			Butcher = "A\x00e7ougueiro"
+			Greengrocer = Quitandeiro
+			"Liquor store" = Loja de Bebidas
+			Inn = Pousada
+			Traveler = Viajante
+			Teacher = Professor
+			"(Female) Teacher" = Professora
+			Disciple = "Disc\x00edpulo"
+			Apprentice = Aprendiz
+			Gambler = Apostador
+			Whore = Prostituta
+			"Wanted man" = Procurado
+		}
+	}
+}

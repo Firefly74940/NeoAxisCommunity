@@ -1,0 +1,57 @@
+language
+{
+	toolsUICulture = zh-CN
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CHINESE
+		}
+		animal
+		{
+			Animal = "\x52a8\x7269"
+			Animals = "\x52a8\x7269"
+			Pet = "\x5ba0\x7269"
+			Human = "\x4eba\x7c7b"
+			Monkey = "\x7334\x5b50"
+			Gorilla = "\x7329\x7329"
+			Orangutan = "\x957f\x81c2\x733f"
+			Dog = "\x72d7"
+			Cat = "\x732b"
+			Puppy = "\x5c0f\x72d7"
+			Kitten = "\x5c0f\x732b"
+			Rat = "\x8001\x9f20"
+			Squirrel = "\x677e\x9f20"
+			Pig = "\x732a"
+			Wolf = "\x72fc"
+			Bear = "\x718a"
+			Panda = "\x718a\x732b"
+			"Polar bear" = "\x5317\x6781\x718a"
+			Bat = "\x8759\x8760"
+			Tiger = "\x8001\x864e"
+			Lion = "\x72ee\x5b50"
+			Fox = "\x72d0\x72f8"
+			Horse = "\x9a6c"
+			Zebra = "\x6591\x9a6c"
+			Giraffe = "\x957f\x9888\x9e7f"
+			Elephant = "\x5927\x8c61"
+		}
+		Bird
+		{
+		}
+		Insect
+		{
+			Mosquito = "\x868a\x5b50"
+			Spider = "\x8718\x86db"
+		}
+		fish
+		{
+		}
+		Reptiles
+		{
+		}
+		Dinosaur
+		{
+		}
+	}
+}

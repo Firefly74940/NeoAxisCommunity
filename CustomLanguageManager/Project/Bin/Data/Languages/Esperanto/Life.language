@@ -1,0 +1,46 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		Cooking
+		{
+		}
+		Tableware
+		{
+		}
+		Food
+		{
+			Food = "Man\x011da\x0135o"
+		}
+		Vegetables
+		{
+		}
+		Drink
+		{
+			Water = Akvo
+			Milk = Lakto
+			Coffee = Kafo
+		}
+		Material
+		{
+			Gold = Oro
+			Iron = Fero
+		}
+		Vehicle
+		{
+			Tank = Tanko
+		}
+		Plane
+		{
+			Plane = Aeroplano
+		}
+		Ship
+		{
+		}
+	}
+}

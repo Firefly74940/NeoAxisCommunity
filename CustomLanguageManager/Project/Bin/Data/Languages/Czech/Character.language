@@ -1,0 +1,45 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		Character
+		{
+			Male = "Mu\x017e"
+			Woman = "\x017dena"
+			Adult = "Dosp\x011bl\x00fd"
+			Children = "D\x00edt\x011b"
+			Boy = Kluk
+			Girl = Holka
+		}
+		Family
+		{
+			Family = Rodina
+			Father = Otec
+			Mother = Matka
+			Son = Syn
+			Daughter = Dcera
+			"The cousin" = Bratranec
+			"Female cousin" = "Sest\x0159enice"
+		}
+		fantasy
+		{
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+		}
+		Occupation
+		{
+		}
+	}
+}

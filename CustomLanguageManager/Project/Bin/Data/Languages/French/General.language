@@ -1,0 +1,59 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		color
+		{
+			Orange = Orange
+			Red = Rouge
+			Blue = Bleu
+			Green = Vert
+			Yellow = Jaune
+			Cyan = Cyan
+			Purple = Pourpre
+			White = Blanc
+			Black = Noir
+			Gray = Gris
+			Violet = Violet
+			Platinum = Platine
+			Gold = Orange
+			Silver = Argent
+			Bronze = Bronze
+			Clear = Transparent
+			Iridescence = Iridescent
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Sauter
+			Bounce = Rebondir
+			Heal = Soigner
+			Shoot = Tirer
+			Collect = Collecter
+			Capture = Capturer
+			Destroy = "D\x00e9truire"
+			Attack = Attaquer
+			Defend = "D\x00e9fendre"
+			Hit = Toucher
+			Kick = Taper
+			Headbutt = Coup de boule
+			Stomp = "Pi\x00e9tiner"
+		}
+		Move
+		{
+			Move = "Se d\x00e9placer"
+			Run = Courir
+			Walk = Marcher
+			Skip = Passer
+			Escape = "S\'\x00e9chapper"
+			"Stealthy steps" = Pas silencieux
+		}
+	}
+}

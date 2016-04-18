@@ -1,0 +1,122 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		Cooking
+		{
+			Cooking = Gotowanie
+			Pan = Patelnia
+			Pot = Garnek
+			"Kitchen knife" = "N\x00f3\x017c kuchenny"
+		}
+		Tableware
+		{
+			Tableware = "Zastawa sto\x0142owa"
+			Knife = "N\x00f3\x017c"
+			Spoon = "\x0141y\x017cka"
+			Fork = Widelec
+			Chopsticks = "Pa\x0142eczki"
+			Dish = Naczynie
+			Cup = Kubek
+		}
+		Food
+		{
+			Food = Jedzenie
+			Rice = "Ry\x017c"
+			Soup = Zupa
+			Meat = "Mi\x0119so"
+			"Grilled meat" = "Mi\x0119so z grilla"
+			Steak = Stek
+			"Hamburger Steak" = "Mi\x0119so hamburgerowe"
+			Hamburger = Hamburger
+			Spaghetti = Spaghetti
+			Stew = Gulasz
+			Ramen = Makaron
+			Pizza = Pizza
+			Candy = "S\x0142odycze"
+			"Soft-serve ice cream" = Lody
+		}
+		Vegetables
+		{
+			Vegetables = Warzywa
+			Rice = "Ry\x017c"
+			Wheat = Pszenica
+			Barley = "J\x0119czmie\x0144"
+			Cabbage = Kapusta
+			Pepper = Pieprz
+			Carrot = Marchew
+			Radish = Rzodkiew
+			Potato = Ziemniak
+			"Sweet potato" = Batat
+			Onion = Cebula
+			Beans = Fasola
+			Garlic = Czosnek
+		}
+		Drink
+		{
+			Drink = "Nap\x00f3j / Drink"
+			Water = Woda
+			Milk = Mleko
+			Coffee = Kawa
+			"Black tea" = Czarna herbata
+			Tea = Herbata
+			Juice = Sok
+			Coke = Cola
+		}
+		Material
+		{
+			Material = "Materia\x0142"
+			Mineral = "Minera\x0142"
+			Platinum = Platyna
+			Gold = "Z\x0142oto"
+			Silver = Srebro
+			Bronze = "Br\x0105z"
+			Iron = "\x017belazo"
+			Steel = Stal
+			Crystal = "Kryszta\x0142"
+			Marble = Marmur
+		}
+		Vehicle
+		{
+			Vehicle = Pojazd
+			Car = "Samoch\x00f3d/Auto"
+			Bike = Motor
+			Bicycle = Rower
+			Tank = "Czo\x0142g"
+			Jeep = "D\x017cip"
+		}
+		Plane
+		{
+			Plane = Samolot
+			Fighter = "My\x015bliwiec"
+			Interceptor = "My\x015bliwiec przechwytuj\x0105cy"
+			"Reconnaissance aircraft" = Samolot zwiadowczy
+			"Stealth machine" = "Niewidzialny my\x015bliwiec"
+			Airliner = "Samolot pasa\x017cerski"
+			"Unmanned aircraft" = "Samolot bezza\x0142ogowy"
+			Helicopter = Helikopter
+			Balloon = Balon
+			"Hang glider" = Lotnia
+			Parachute = Spadochron
+		}
+		Ship
+		{
+			Ship = "Statek / Okr\x0119t"
+			Yacht = Jacht
+			Raft = Tratwa
+			Ferry = Prom
+			Tanker = Tankowiec
+			Warship = "Okr\x0119t wojenny"
+			Battleship = Statek wojenny
+			"Mother ship" = Statek-matka
+			"Aircraft Carrier" = Lotniskowiec
+			Escort = "Okr\x0119t wojenny"
+			Submarine = "\x0141\x00f3d\x017a podwodna"
+		}
+	}
+}

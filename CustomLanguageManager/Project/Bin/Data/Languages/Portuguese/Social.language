@@ -1,0 +1,27 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		social
+		{
+			"Post to Twitter" = Publicar no Twitter
+			"Share on Facebook" = Partilhar no Facebook
+			"Your score has been posted to Facebook!" = "A tua pontua\x00e7\x00e3o foi publicada no Facebook!"
+			"Your score has been posted to Twitter!" = "A tua pontua\x00e7\x00e3o foi publicada no Twitter!"
+			"Thank you for playing!" = Obrigado por jogares!
+			"Find a friend" = Encontrar um amigo
+			"Invite a friend" = Convidar um amigo
+			"Start a chat" = Iniciar chat
+			"Chat room" = Sala de chat
+			"Share photo on Facebook" = Partilhar foto no Facebook
+			"Like Us" = Faz Like no Facebook
+			"Follow Us" = Segue-nos
+			"Tell about us" = "Fala de n\x00f3s"
+		}
+	}
+}

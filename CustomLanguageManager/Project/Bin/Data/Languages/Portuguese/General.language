@@ -1,0 +1,59 @@
+language
+{
+	toolsUICulture = pt-PT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = PORTUGUESE
+		}
+		color
+		{
+			Orange = Laranja
+			Red = Vermelho
+			Blue = Azul
+			Green = Verde
+			Yellow = Amarelo
+			Cyan = Ciano
+			Purple = Roxo
+			White = Branco
+			Black = Preto
+			Gray = Cinzento
+			Violet = Violeta
+			Platinum = Platina
+			Gold = Ouro
+			Silver = Prata
+			Bronze = Bronze
+			Clear = Claro
+			Iridescence = "Iridesc\x00eancia"
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Saltar
+			Bounce = Ricochetear
+			Heal = Curar
+			Shoot = Disparar
+			Collect = Obter
+			Capture = Capturar
+			Destroy = Destruir
+			Attack = Atacar
+			Defend = Defender
+			Hit = Atingir
+			Kick = Chutar
+			Headbutt = Cabecear
+			Stomp = Pisar
+		}
+		Move
+		{
+			Move = Mover
+			Run = Correr
+			Walk = Andar
+			Skip = Pular
+			Escape = Escapar
+			"Stealthy steps" = Passos furtivos
+		}
+	}
+}

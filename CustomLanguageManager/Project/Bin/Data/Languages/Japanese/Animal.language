@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = JAPANESE
+		}
+		animal
+		{
+			Animal = "\x52d5\x7269"
+			Animals = "\x52d5\x7269\x305f\x3061"
+			Pet = "\x30da\x30c3\x30c8"
+			Human = "\x4eba\x9593"
+			Monkey = "\x30b5\x30eb (\x733f)"
+			Gorilla = "\x30b4\x30ea\x30e9"
+			Orangutan = "\x30aa\x30e9\x30f3\x30a6\x30fc\x30bf\x30f3"
+			Dog = "\x30a4\x30cc\x00a0(\x72ac)"
+			Cat = "\x30cd\x30b3\x00a0(\x732b)"
+			Puppy = "\x4ed4\x30a4\x30cc (\x4ed4\x72ac)"
+			Kitten = "\x4ed4\x30cd\x30b3 (\x4ed4\x732b)"
+			Rat = "\x30cd\x30ba\x30df (\x9f20)"
+			Squirrel = "\x30ea\x30b9"
+			"Guinea pig" = "\x30e2\x30eb\x30e2\x30c3\x30c8"
+			Cattle = "\x30a6\x30b7 (\x725b)"
+			Pig = "\x30d6\x30bf (\x8c5a)"
+			Wolf = "\x30aa\x30aa\x30ab\x30df (\x72fc)"
+			Bear = "\x30af\x30de (\x718a)"
+			Panda = "\x30d1\x30f3\x30c0"
+			"Polar bear" = "\x30b7\x30ed\x30af\x30de"
+			Bat = "\x30b3\x30a6\x30e2\x30ea (\x8759\x8760)"
+			Tiger = "\x30c8\x30e9 (\x864e)"
+			Lion = "\x30e9\x30a4\x30aa\x30f3"
+			Cheetah = "\x30c1\x30fc\x30bf\x30fc"
+			Panther = "\x30d2\x30e7\x30a6 (\x8c79)"
+			Hyena = "\x30cf\x30a4\x30a8\x30ca"
+			Fox = "\x30ad\x30c4\x30cd (\x72d0)"
+			"Raccoon dog" = "\x30bf\x30cc\x30ad (\x72f8)"
+			Horse = "\x30a6\x30de (\x99ac)"
+			Deer = "\x30b7\x30ab (\x9e7f)"
+			Zebra = "\x30b7\x30de\x30a6\x30de"
+			Camel = "\x30e9\x30af\x30c0"
+			Ass = "\x30ed\x30d0"
+			Giraffe = "\x30ad\x30ea\x30f3"
+			Elephant = "\x30be\x30a6 (\x8c61)"
+			Rhinoceros = "\x30b5\x30a4"
+			Hippopotamus = "\x30ab\x30d0"
+			Mammoth = "\x30de\x30f3\x30e2\x30b9"
+			Koala = "\x30b3\x30a2\x30e9"
+			Kangaroo = "\x30ab\x30f3\x30ac\x30eb\x30fc"
+			Sloth = "\x30ca\x30de\x30b1\x30e2\x30ce"
+			Cow = "\x725d\x725b"
+			Ox = "\x7261\x725b"
+			Rabbit = "\x30a6\x30b5\x30ae"
+		}
+		Bird
+		{
+			Birds = "\x9ce5"
+			Sparrow = "\x3059\x305a\x3081"
+			Crow = "\x30ab\x30e9\x30b9"
+			Penguin = "\x30da\x30f3\x30ae\x30f3"
+			Hawk = "\x30bf\x30ab (\x9df9)"
+			Eagle = "\x30ef\x30b7 (\x9df2)"
+			Condor = "\x30b3\x30f3\x30c9\x30eb"
+			Swan = "\x767d\x9ce5"
+			Duck = "\x30a2\x30d2\x30eb"
+		}
+		Insect
+		{
+			Insect = "\x6606\x866b"
+			Butterfly = "\x8776"
+			Moth = "\x86fe"
+			Mantis = "\x87f7\x8782"
+			"Rhinoceros beetle" = "\x30ab\x30d6\x30c8\x866b"
+			"Stag beetle" = "\x30af\x30ef\x30ac\x30bf\x866b"
+			Beetle = "\x30ab\x30ca\x30d6\x30f3"
+			Mosquito = "\x868a"
+			Ladybug = "\x30c6\x30f3\x30c8\x30a6\x866b"
+			Spider = "\x30af\x30e2"
+			Dragonfly = "\x30c8\x30f3\x30dc"
+		}
+		fish
+		{
+			Fish = "\x3055\x304b\x306a (\x9b5a)"
+			Shark = "\x30b5\x30e1 (\x9bab)"
+			Whale = "\x30af\x30b8\x30e9 (\x9be8)"
+			Dolphin = "\x30a4\x30eb\x30ab"
+			Octopus = "\x30bf\x30b3"
+			Squid = "\x30a4\x30ab"
+		}
+		Reptiles
+		{
+			Reptiles = "\x722c\x866b\x985e"
+			Gator = "\x30ef\x30cb"
+			Lizard = "\x30c8\x30ab\x30b2"
+			Newt = "\x30a4\x30e2\x30ea"
+			Gecko = "\x30e4\x30e2\x30ea"
+			Snake = "\x86c7"
+			Turtle = "\x4e80"
+			Chameleon = "\x30ab\x30e1\x30ec\x30aa\x30f3"
+		}
+		Dinosaur
+		{
+			Dinosaur = "\x6050\x7adc"
+			Tyrannosaurus = "\x30c6\x30a3\x30e9\x30ce\x30b5\x30a6\x30eb\x30b9"
+			Pteranodon = "\x30d7\x30c6\x30e9\x30ce\x30c9\x30f3"
+			Triceratops = "\x30c8\x30ea\x30b1\x30e9\x30c8\x30d7\x30b9"
+			Plesiosaur = "\x30d7\x30ec\x30b7\x30aa\x30b5\x30a6\x30eb\x30b9"
+			Stegosaurus = "\x30b9\x30c6\x30b4\x30b5\x30a6\x30eb\x30b9"
+			Protoceratops = "\x30d7\x30ed\x30c8\x30b1\x30e9\x30c8\x30d7\x30b9"
+			Iguanodon = "\x30a4\x30b0\x30a2\x30ce\x30c9\x30f3"
+		}
+	}
+}

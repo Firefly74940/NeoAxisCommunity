@@ -1,0 +1,16 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		device
+		{
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+		}
+	}
+}

@@ -1,0 +1,11 @@
+fullName = "CustomLanguageManager"
+componentTypes = "Other"
+platforms = "Windows, MacOSX"
+enableByDefaultPlatforms = "Windows, MacOSX"
+
+path
+{
+	path = "CustomLanguageManager.dll"
+	platforms = "Windows, MacOSX"
+	entryPoint = True
+}

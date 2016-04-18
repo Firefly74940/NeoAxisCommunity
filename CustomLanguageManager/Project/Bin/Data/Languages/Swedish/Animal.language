@@ -1,0 +1,100 @@
+language
+{
+	toolsUICulture = sv-SE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SWEDISH
+		}
+		animal
+		{
+			Animal = Djur
+			Animals = Djur
+			Pet = Husdjur
+			Human = "M\x00e4nniska"
+			Monkey = Apa
+			Gorilla = Gorilla
+			Orangutan = Orangutang
+			Dog = Hund
+			Cat = Katt
+			Puppy = Valp
+			Kitten = Kattunge
+			Rat = "R\x00e5tta"
+			Squirrel = Ekorre
+			"Guinea pig" = Marsvin
+			Cattle = "N\x00f6tkreatur"
+			Pig = Gris
+			Wolf = Varg
+			Bear = "Bj\x00f6rn"
+			Panda = Panda
+			"Polar bear" = "Isbj\x00f6rn"
+			Bat = Fladdermus
+			Tiger = Tiger
+			Lion = Lejon
+			Cheetah = Gepard
+			Panther = Panter
+			Hyena = Hyena
+			Fox = "R\x00e4v"
+			"Raccoon dog" = "M\x00e5rdhund"
+			Horse = "H\x00e4st"
+			Deer = "R\x00e5djur"
+			Zebra = Zebra
+			Camel = Kamel
+			Ass = "\x00c5sna"
+			Giraffe = Giraff
+			Elephant = Elefant
+			Rhinoceros = "Nosh\x00f6rning"
+			Hippopotamus = "Flodh\x00e4st"
+			Mammoth = Mammut
+			Koala = Koala
+			Kangaroo = "K\x00e4nguru"
+			Sloth = "Seng\x00e5ngare"
+			Cow = Ko
+			Ox = Oxe
+		}
+		Bird
+		{
+			Birds = "F\x00e5glar"
+			Sparrow = Sparvfink
+			Crow = "Kr\x00e5ka"
+			Penguin = Pingvin
+			Hawk = "H\x00f6k"
+			Eagle = "\x00d6rn"
+			Condor = Kondor
+			Swan = Svan
+		}
+		Insect
+		{
+			Insect = Insekt
+			Butterfly = "Fj\x00e4ril"
+			Moth = Mal
+			Mantis = Syrsa
+			Beetle = Skalbagge
+			Mosquito = Mygga
+			Ladybug = Nyckelpiga
+			Spider = Spindel
+			Dragonfly = Slenda
+		}
+		fish
+		{
+			Fish = Fisk
+			Shark = Haj
+			Whale = Val
+			Dolphin = Delfin
+			Octopus = "Bl\x00e4ckfisk"
+			Squid = "Bl\x00e4ckfisk"
+		}
+		Reptiles
+		{
+			Reptiles = Reptiler
+			Snake = Orm
+			Turtle = "Sk\x00f6ldpadda"
+			Chameleon = Kameleont
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaurie
+		}
+	}
+}

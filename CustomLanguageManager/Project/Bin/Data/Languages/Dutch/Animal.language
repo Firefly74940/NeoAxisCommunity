@@ -1,0 +1,102 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DUTCH
+		}
+		animal
+		{
+			Animal = Dier
+			Animals = Dieren
+			Pet = Huisdier
+			Human = Mens
+			Monkey = Aap
+			Gorilla = Gorilla
+			Orangutan = Orang Oetan
+			Dog = Hond
+			Cat = Kat
+			Puppy = Puppy
+			Kitten = Kitten
+			Rat = Rat
+			Squirrel = Eekhoorn
+			"Guinea pig" = Cavia
+			Cattle = Vee
+			Pig = Varken
+			Wolf = Wolf
+			Bear = Beer
+			Panda = Panda beer
+			"Polar bear" = IJsbeer
+			Bat = Vleermuis
+			Tiger = Tijger
+			Lion = Leeuw
+			Cheetah = Cheetah
+			Panther = Panter
+			Hyena = Hyena
+			Fox = Vos
+			"Raccoon dog" = Wasbeer
+			Horse = Paard
+			Deer = Hert
+			Zebra = Zebra
+			Camel = Kameel
+			Ass = Ezel
+			Giraffe = Giraffe
+			Elephant = Olifant
+			Rhinoceros = Neushoorn
+			Hippopotamus = Nijlpaard
+			Mammoth = Mammoet
+			Koala = Koala
+			Kangaroo = Kangaroe
+			Sloth = Luiaard
+			Cow = Koe
+			Ox = Os
+			Rabbit = Konijn
+		}
+		Bird
+		{
+			Birds = Vogels
+			Crow = Kraai
+			Penguin = Pinguin
+			Hawk = Havik
+			Swan = Zwaan
+			Duck = Eend
+		}
+		Insect
+		{
+			Insect = Insect
+			Butterfly = Vlinder
+			Moth = Mot
+			Mantis = Bidspinkhaan
+			Beetle = Kever
+			Mosquito = Mug
+			Ladybug = Lieveheersbeestje
+			Spider = Spin
+			Dragonfly = Libelle
+		}
+		fish
+		{
+			Fish = Vis
+			Shark = Haai
+			Whale = Walvis
+			Dolphin = Dolfijn
+			Octopus = Octopus
+			Squid = Inktvis
+		}
+		Reptiles
+		{
+			Reptiles = Reptielen
+			Gator = Krokodil
+			Lizard = Hagedis
+			Gecko = Gekko
+			Snake = Slang
+			Turtle = Schildpad
+			Chameleon = Kameleon
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaurus
+		}
+	}
+}

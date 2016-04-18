@@ -1,0 +1,23 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		color
+		{
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+		}
+		Move
+		{
+		}
+	}
+}

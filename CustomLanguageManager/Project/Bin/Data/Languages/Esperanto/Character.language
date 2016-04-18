@@ -1,0 +1,51 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ESPERANTO
+		}
+		Character
+		{
+			Male = Vira
+			Woman = Virina
+			Youth = Juna
+			"Mrs." = Sinjorino
+			Boy = Knabo
+			Girl = Knabino
+			Gentleman = Sinjoro
+			Lady = Sinjorino
+			Friend = Amiko
+		}
+		Family
+		{
+			Grandfather = Avo
+			Father = Patro
+			Mother = Patrino
+		}
+		fantasy
+		{
+			Ninja = "\x015cinobo"
+		}
+		Army
+		{
+			Army = Armeo
+			Captain = Kapitano
+		}
+		Class
+		{
+		}
+		Position
+		{
+			King = "Re\x011do"
+			Queen = "Re\x011dino"
+			Prince = Princo
+			Princess = Princino
+		}
+		Occupation
+		{
+		}
+	}
+}

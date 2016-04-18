@@ -1,0 +1,79 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defense
+			Puzzle = Rompicapo
+			"Endless runner" = Corsa
+			Shooter = Sparatutto
+			Adventure = Avventura
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = Shooter verticale
+			"Fast-paced game" = Gioco veloce
+			Strategy = Strategia
+		}
+		"game theme"
+		{
+			Retro = "Retr\x00f2"
+			Fantasy = Fantasy
+			Science = Scienza
+			Medieval = Medievale
+			Modern = Moderno
+			Ancient = Antico
+			"World War" = Guerra Mondiale
+			"Wild West / Western" = Western
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = Versione Completa
+			"Lite version" = Versione Gratuita
+			"Free version (Freemium)" = Versione Gratuita
+			"Premium version" = Versione Premium
+		}
+		online
+		{
+			"Singleplayer game" = Giocatore singolo
+			"Multiplayer game" = Multigiocatore
+			"Asynchronous multiplayer" = Multigiocatore asincrono
+			"Hotseat mode" = Modo attivo
+		}
+		Race
+		{
+			laps = Giro
+			position = Posizione
+			track = Circuito
+			"race track" = Circuito di gara
+			fuel = Benzina
+			oil = Olio
+			gear = Cambio
+			suspension = Sospensione
+			tire = Pneumatico
+			wheel = Ruota
+			rim = Cerchione
+			clutch = Frizione
+			light = Luce
+		}
+		Board
+		{
+			Board = Tavolo (di gioco)
+			Dice = Dado
+			"Roll (Dice)" = Tiro (di dado)
+			Domino = Domino
+			"Card (Playing)" = Carte (da gioco)
+			"Draw(Card)" = Pescare (una carta)
+			Pass = Passare
+			Deck = Mazzo
+			"Play (noun)" = Giocare
+			Slam = Schiacciare
+			"Discard Pile" = Pila degli scarti
+			"Boneyard (Dominoes)" = Cimitero (del domino)
+			Turn = Turno
+		}
+	}
+}

@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = es-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SPANISH
+		}
+		social
+		{
+			"Share an achievement" = Comparte un logro
+			"Post to Twitter" = Compartir en Twitter
+			"Share on Facebook" = Compartir en Facebook
+			"Your score has been posted to Facebook!" = "Tu puntuaci\x00f3n se ha compartido en Facebook"
+			"Your score has been posted to Twitter!" = "Tu puntuaci\x00f3n se ha compartido en Twitter"
+			"Thank you for playing!" = "\x00a1Gracias por jugar!"
+			"Find a friend" = Encuentra a un amigo
+			"Invite a friend" = Invitar a un amigo
+			"Start a chat" = Empezar chat
+			"Chat room" = Sala de chat
+			"Share photo on Facebook" = Compartir foto en Facebook
+			"Like Us" = Haz Like en Facebook
+			"Follow Us" = "S\x00edguenos"
+			"Tell about us" = Habla sobre nosotros
+			"Share score" = "Compartir puntuaci\x00f3n"
+		}
+	}
+}

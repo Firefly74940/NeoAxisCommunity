@@ -1,0 +1,108 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		Arms
+		{
+			Sword = Espada
+			Longsword = Montante
+			Dagger = Adaga
+			Katana = Katana
+			Whip = Chicote
+			Knife = Faca
+			Cane = Bengala
+			Wand = Vara
+			Bow = Arco
+			Knuckles = "Soco-Ingl\x00eas"
+			Katar = Katar
+			Mace = "Ma\x00e7a"
+			Axe = Machado
+			Staff = Cajado
+			Crossbow = Besta
+		}
+		Gun
+		{
+			Pistol = Pistola
+			Rifle = Rifle
+			"Sniper rifle" = "Rifle de precis\x00e3o"
+			"Machine gun" = Metralhadora
+			Cannon = "Canh\x00e3o"
+			"Laser rifle" = Rifle laser
+			"Beam gun" = Arma de raio
+		}
+		Protector
+		{
+			Shield = Escudo
+			Armor = Armadura
+			Helmet = Helmo
+			Forearm = "Antebra\x00e7o"
+			Mantle = Manto
+			Boots = Botas
+			"Chain mail" = Cota de malha
+			Belt = Cinto
+			Crown = Coroa
+		}
+		Accessory
+		{
+			Accessory = "Acess\x00f3rio"
+			Jewelry = "J\x00f3ias"
+			Ring = "An\x00e9l"
+			Pierce = Piercing
+			Necklace = Colar
+			Bracelet = Bracelete
+		}
+		Costume
+		{
+			Costume = Fantasia
+			Clothing = Vestes
+			Clothes = Roupas
+			Jacket = Jaqueta
+			Underwear = Cueca
+			Socks = Meias
+			Sweater = Agasalho
+			Sleepwear = Roupa de dormir
+			Pajamas = Pijama
+			Bra = "Suti\x00e3"
+			Panties = Calcinha
+			Stockings = "Meia-cal\x00e7a"
+			"Garter belt" = Cinta-liga
+			Makeup = Maquiagem
+			Lipstick = Batom
+			Perfume = Perfume
+			Swimsuit = Roupa de banho
+			Bikini = Biquini
+		}
+		"Special Moves"
+		{
+			"Special Moves" = Movimentos Especiais
+			Swordsmanship = Manejo de Espada
+		}
+		Magic
+		{
+			Magic = "M\x00e1gica"
+			Apparition = "Apari\x00e7\x00e3o"
+			Recovery = "Recupera\x00e7\x00e3o"
+			"Attack magic" = "Ataque m\x00e1gico"
+		}
+		item
+		{
+			Coin = Moeda
+			Clock = "Rel\x00f3gio"
+			Artifact = Artefato
+			Fossil = "F\x00f3ssil"
+			Bone = Osso
+		}
+		medicine
+		{
+			medicine = "Rem\x00e9dio"
+			"Recovery medicine" = "Rem\x00e9dio de Cura"
+			Antidote = "Ant\x00eddoto"
+			Herb = Erva
+		}
+	}
+}

@@ -1,0 +1,16 @@
+language
+{
+	toolsUICulture = af-ZA
+	textTranslations
+	{
+		device
+		{
+		}
+		"device orientation"
+		{
+		}
+		gesture
+		{
+		}
+	}
+}

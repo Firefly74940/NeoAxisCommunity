@@ -1,0 +1,190 @@
+language
+{
+	toolsUICulture = pl-PL
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = POLISH
+		}
+		Character
+		{
+			Male = "M\x0119\x017cczyzna"
+			Woman = Kobieta
+			Youth = "M\x0142odzieniec"
+			"Mrs." = Pani ---
+			Adult = "Doros\x0142y"
+			Children = Dziecko
+			Boy = "Ch\x0142opiec"
+			Girl = Dziewczynka
+			"Old man" = Starzec
+			"Old woman" = Staruszka
+			Gentleman = "D\x017centelmen"
+			Lady = Pani ---
+			Character = "Posta\x0107"
+			Hero = Bohater
+			"Supporting role" = "Posta\x0107 drugoplanowa"
+			"Small role" = "Posta\x0107 trzecioplanowa"
+			"Role of the villain" = "Posta\x0107 z\x0142oczy\x0144cy"
+			Heroine = Bohaterka
+			Fellow = Partner
+			Friend = Przyjaciel
+			"Formidable enemy" = "Przera\x017caj\x0105cy oponent"
+			Revenge = Zemsta
+		}
+		Family
+		{
+			Family = Rodzina
+			Grandfather = Dziadek
+			Grandmother = Babcia
+			Father = Tata
+			Mother = Mama
+			"(Elder) Brother" = (Starszy) Brat
+			"(Younger) Brother" = "(M\x0142odszy) Brat"
+			"(Elder) Sister" = (Starsza) Siostra
+			"(Younger) Sister" = "(M\x0142odsza) Siostra"
+			Child = Dziecko
+			Son = Syn
+			Daughter = "C\x00f3rka"
+			Grandson = Wnuk
+			"Grand-daughter" = Wnuczka
+			"Great-grandson" = Prawnuk
+			Relative = Krewny
+			Uncle = Wujek
+			Aunt = Ciocia
+			"The cousin" = Kuzyn
+			"Female cousin" = Kuzynka
+		}
+		fantasy
+		{
+			Savior = Zbawca
+			Fighter = Wojownik
+			Priest = "Kap\x0142an"
+			Magician = Mag
+			Sage = "M\x0119drzec"
+			Summoner = "Przywo\x0142ywacz"
+			Alchemist = Alchemik
+			Knight = Rycerz
+			Swordsman = Miecznik
+			"Kung fu master" = Mistrz kung-fu
+			Hunter = "\x0141owca"
+			Rogue = "\x0141otrzyk"
+			Adventurer = "Poszukiwacz przyg\x00f3d"
+			Ninja = Ninja
+			Samurai = Samuraj
+			"Dragon knight" = Smoczy rycerz
+			Assassin = "Zab\x00f3jca"
+			Spy = Szpieg
+			Dancer = Tancerz
+			Merchant = Kupiec
+			Robot = Robot
+			Android = Android
+			Paladin = Paladyn
+			Crusader = "Krzy\x017cak"
+			Wizard = Czarownik
+			Warlock = "Czarnoksi\x0119\x017cnik"
+			Sorcerer = Mag
+			Monk = Mnich
+		}
+		Army
+		{
+			Army = Armia
+			Commander = "Dow\x00f3dca"
+			General = "Genera\x0142"
+			Captain = Kapitan
+			Infantry = Piechota
+			"Light infantry" = Lekka piechota
+			"Heavy Infantry" = "Ci\x0119\x017cka piechota"
+			"Soldier rifle" = Strzelec
+			Sniper = Snajper
+			Grenadier = Grenadier
+			"Infantry long spear" = Pikinier
+			Engineer = "In\x017cynier"
+			Bowman = "\x0141ucznik"
+			Cavalry = Kawaleria
+			"Light cavalry" = Lekka kawaleria
+			Lancer = Lansjer
+			"Heavy cavalry" = "Ci\x0119\x017cka kawaleria"
+			Artillery = Artyleria
+			"Fast moving artillery" = Szybka artyleria
+			"Armored soldiers" = "Zbrojni \x017co\x0142nierze"
+			"Fast armored soldier" = "Szybcy zbrojni \x017co\x0142nierze"
+			"Spear soldier machine" = Balista
+			Tanker = Tankowiec
+			"Armored infantry" = Zbrojna piechota
+			"Dragon soldier armor" = Zbroja smoczego rycerza
+			Guardsman = "Stra\x017cnik"
+			"Soldier Development" = "Rozw\x00f3j \x017co\x0142nierzy"
+			Scout = Zwiadowca
+			"Soldier messenger" = "Pos\x0142aniec"
+			"Guard fortress" = "Forteca stra\x017cy"
+			"Guards colony" = "Kolonia stra\x017cy"
+			"Special branch of the army" = "Specjalny oddzia\x0142 armii"
+			"Border guard" = "Stra\x017c graniczna"
+			"Fire fighting soldier" = "Stra\x017cak"
+			"Sky soldier" = Lotnik
+		}
+		Class
+		{
+			Class = Klasa
+			Marshal = "Marsza\x0142ek"
+			General = "Genera\x0142"
+			"Lieutenant general" = "Genera\x0142 broni"
+			"Major general" = "Genera\x0142 dywizji"
+			"Brigadier General" = "Genera\x0142 brygady"
+			Colonel = "Pu\x0142kownik"
+			"Lieutenant Colonel" = "Podpu\x0142kownik"
+			Major = Major
+			Captain = Kapitan
+			Lieutenant = Porucznik
+			"Second lieutenant" = Podporucznik
+			"Warrant officer" = "Chor\x0105\x017cy"
+			"Chief warrant officer" = "Starszy chor\x0105\x017cy sztabowy"
+			"Master Sergeant" = "Starszy sier\x017cant"
+			Sergeant = "Sier\x017cant"
+			Corporal = Kapral
+			"Lance corporal" = Starszy szeregowy
+			"First class soldier" = Szeregowy
+			"Buck private" = Szeregowy
+		}
+		Position
+		{
+			Position = "Pozycja / Status"
+			Emperor = Cesarz
+			Empress = Cesarzowa
+			King = "Kr\x00f3l"
+			Queen = "Kr\x00f3lowa"
+			Prince = "Ksi\x0105\x017c\x0119"
+			Princess = "Ksi\x0119\x017cniczka"
+			Royal = "Cz\x0142onek rodziny kr\x00f3lewskiej"
+			Duke = "Ksi\x0105\x017c\x0119"
+			Duchess = "Ksi\x0119\x017cna"
+			Count = Hrabia
+			Countess = Hrabina
+			Noble = Szlachcic
+			Merchant = Kupiec
+			Villager = "Wie\x015bniak"
+			Farmers = Farmer
+			Slave = Niewolnik
+		}
+		Occupation
+		{
+			Occupation = "Zaw\x00f3d"
+			Craftsman = "Rzemie\x015blnik"
+			Carpenter = "Cie\x015bla"
+			Bakery = Piekarz
+			Butcher = "Rze\x017anik"
+			Greengrocer = Sprzedawca warzyw
+			"Liquor store" = Sprzedawca alkoholu
+			Inn = Tawerna
+			Traveler = "Podr\x00f3\x017cnik"
+			Teacher = Nauczyciel
+			"(Female) Teacher" = Nauczyciel
+			Disciple = "Adept / Wyznawca"
+			Apprentice = "Praktykant / Ucze\x0144"
+			Gambler = Hazardzista
+			Whore = Prostytutka
+			"Wanted man" = Poszukiwany
+		}
+	}
+}

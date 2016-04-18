@@ -1,0 +1,117 @@
+language
+{
+	toolsUICulture = pt-BR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = BRAZILIAN PORTUGUESE
+		}
+		Direction
+		{
+			Direction = "Dire\x00e7\x00e3o"
+			"Move Left" = Move para esquerda
+			"Move right" = Move para direita
+			"Move up" = Move para cima
+			"Move down" = Move para baixo
+			"Move forward" = Move para a frente
+			North = Norte
+			South = Sul
+			East = Leste
+			West = Oeste
+			Northeast = Nordeste
+			Southeast = Sudeste
+			Northwest = Noroeste
+			Southwest = Sudoeste
+		}
+		Building
+		{
+			Castle = Castelo
+			City = Cidade
+			Town = Vila
+			Village = Vilarejo
+			Building = "Pr\x00e9dio"
+			Hut = Cabana
+			Dungeon = "Calabou\x00e7o"
+			Well = "Po\x00e7o"
+			Jail = "Pris\x00e3o"
+		}
+		Nature
+		{
+			Nature = Natureza
+			Forest = Floresta
+			Mountain = Montanha
+			"Dense forest" = Floresta Densa
+			Amazon = Amazonia
+			River = Rio
+			Grassland = Pradaria
+			"Sandy beach" = Praia de Areia
+			Sea = Mar
+			Ford = Vau
+			Cave = Caverna
+			Underground = "Subterr\x00e2neo"
+			Underworld = Sub-mundo
+			Shell = Concha
+			Desert = Deserto
+			Sand = Areia
+			Stone = Pedra
+			Rock = Rocha
+			Mud = Lama
+		}
+		Plant
+		{
+			Plant = Planta
+			Flower = Flor
+			Grass = Grama
+			Tree = "\x00c1rvore"
+			Stem = Haste
+			Root = "Ra\x00edz"
+			Fruit = Fruta
+			Species = "Esp\x00e9cie"
+			Sap = Seiva
+		}
+		Weather
+		{
+			Weather = Clima
+			Air = Ar
+			Sky = "C\x00e9u"
+			Wind = Vento
+			Shine = Brilho
+			Cloud = Nuvem
+			Cloudiness = Nebuloso
+			Rain = Chuva
+			Shower = Chuvarada
+			Thunderstorm = "Tempestade de Trov\x00e3o"
+			Thunder = "Trov\x00e3o"
+			Fog = "N\x00e9voa"
+			Haze = Neblina
+			Snow = Neve
+			Sleet = Chuva com neve
+			Hail = Granizo
+			Storm = Tempestade
+			Typhoon = "Tuf\x00e3o"
+			Sandstorm = Tempestade de Areia
+		}
+		Space
+		{
+			Space = "Espa\x00e7o"
+			Sun = Sol
+			Mercury = "Merc\x00fario"
+			Venus = Venus
+			Earth = Terra
+			Mars = Marte
+			Jupiter = "J\x00fapiter"
+			Saturn = Saturno
+			Uranus = Urano
+			Neptune = Netuno
+			Pluto = "Plut\x00e3o"
+			Moon = Lua
+			Star = Estrela
+			Planet = Planeta
+			Comet = Cometa
+			Meteor = Meteoro
+			Satellite = "Sat\x00e9lite"
+			Debris = Detritos
+		}
+	}
+}

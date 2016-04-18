@@ -1,0 +1,32 @@
+language
+{
+	toolsUICulture = ca-ES
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CATALAN
+		}
+		Character
+		{
+		}
+		Family
+		{
+		}
+		fantasy
+		{
+		}
+		Army
+		{
+		}
+		Class
+		{
+		}
+		Position
+		{
+		}
+		Occupation
+		{
+		}
+	}
+}

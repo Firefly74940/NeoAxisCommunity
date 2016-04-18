@@ -1,0 +1,118 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		Direction
+		{
+			"Move Left" = Muovi SX
+			"Move right" = Muovi DX
+			"Move up" = Muovi Su
+			"Move down" = "Muovi Gi\x00f9"
+			"Move forward" = Muovi Avanti
+			North = Nord
+			South = Sud
+			East = Est
+			West = Ovest
+			Northeast = Nord-Est
+			Southeast = Sud-Est
+			Northwest = Nort-Ovest
+			Southwest = Sud-Ovest
+		}
+		Building
+		{
+			Castle = Castello
+			"Castle town" = "Citt\x00e0 castello"
+			City = "Citt\x00e0"
+			Town = Paese
+			Village = Villaggio
+			Building = Edificio
+			Hut = Casa di campagna
+			Dungeon = Prigione
+			Well = Pozzo
+			Jail = Carcere
+		}
+		Nature
+		{
+			Nature = Natura
+			Forest = Foresta
+			Mountain = Montagna
+			"Dense forest" = Selva
+			Amazon = Foresta tropicale
+			River = Fiume
+			Grassland = Prateria
+			"Sandy beach" = Spiaggia di sabbia
+			Sea = Mare
+			Ford = Guado
+			Cave = Caverna
+			Underground = Sotterraneo
+			Underworld = Sommerso
+			Shell = Conchiglia
+			Desert = Deserto
+			Sand = Sabbia
+			Stone = Pietra
+			Rock = Roccia
+			Mud = Fango
+		}
+		Plant
+		{
+			Plant = Pianta
+			Flower = Fiore
+			Grass = Erba
+			Tree = Albero
+			Stem = Stelo
+			Root = Radice
+			Fruit = Frutta
+			Species = Specie
+			Sap = Linfa
+			Seed = Seme
+		}
+		Weather
+		{
+			Weather = Tempo
+			Air = Aria
+			Sky = CIelo
+			Wind = Vento
+			Shine = Chiaro
+			Cloud = Nuvola
+			Cloudiness = Coperto
+			Rain = Pioggia
+			Shower = Scroscio
+			Thunderstorm = Temporale
+			Thunder = Tuono
+			Fog = Nebbia
+			Haze = Foschia
+			Snow = Neve
+			Sleet = Nevischio
+			Hail = Grandine
+			Storm = Tempesta
+			Typhoon = Tifone
+			Sandstorm = Tempesta di sabbia
+		}
+		Space
+		{
+			Space = Spazio
+			Sun = Sole
+			Mercury = Mercurio
+			Venus = Venere
+			Earth = Terra
+			Mars = Marte
+			Jupiter = Giove
+			Saturn = Saturno
+			Uranus = Urano
+			Neptune = Netttuno
+			Pluto = Plutone
+			Moon = Mese
+			Star = Stella
+			Planet = Pianeta
+			Comet = Cometa
+			Meteor = Meteora
+			Satellite = Satellite
+			Debris = Detrito
+		}
+	}
+}

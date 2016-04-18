@@ -1,0 +1,115 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ROMANIAN
+		}
+		Direction
+		{
+			Direction = directie
+			"Move Left" = mergi la stanga
+			"Move right" = mergi la dreapta
+			"Move up" = mergi sus
+			"Move down" = mergi jos
+			"Move forward" = mergi inapoi
+			North = mergi inainte
+			South = Nord
+			East = Sud
+			West = Est
+			Northeast = Vest
+			Southeast = Nord-est
+			Northwest = Sud-est
+			Southwest = Nord-vest
+		}
+		Building
+		{
+			Castle = castel
+			"Castle town" = cetate
+			City = oras
+			Town = localitate
+			Village = sat
+			Building = cladire
+			Hut = baraca
+			Dungeon = carcera subterana
+			Well = fantana
+			Jail = inchisoare
+		}
+		Nature
+		{
+			Nature = natura
+			Forest = padure
+			Mountain = munte
+			"Dense forest" = padure deasa
+			Amazon = amazon
+			River = rau
+			Grassland = pajiste
+			"Sandy beach" = plaja nisipoasa
+			Sea = mare
+			Ford = vad
+			Cave = pestera
+			Underground = subteran
+			Underworld = infern
+			Shell = coaja
+			Desert = desert
+			Sand = nisip
+			Stone = piatra
+			Rock = stanca
+			Mud = namol
+		}
+		Plant
+		{
+			Plant = planta
+			Flower = floare
+			Grass = iarba
+			Tree = copac
+			Root = radacina
+			Fruit = fruct
+			Species = specie
+			Sap = seva
+			Seed = samanta
+		}
+		Weather
+		{
+			Weather = vreme
+			Air = aer
+			Sky = cer
+			Wind = vant
+			Shine = stralucire
+			Cloud = nor
+			Cloudiness = innorat
+			Rain = ploaie
+			Shower = dus
+			Thunderstorm = furtuna
+			Thunder = tunet
+			Fog = ceata
+			Haze = bruma
+			Snow = zapada
+			Typhoon = taifun
+			Sandstorm = furtuna de nisip
+		}
+		Space
+		{
+			Space = Spatiu
+			Sun = Soare
+			Mercury = Mercur
+			Venus = Venus
+			Earth = Pamant
+			Mars = Marte
+			Jupiter = Jupiter
+			Saturn = Saturn
+			Uranus = Uranus
+			Neptune = Neptun
+			Pluto = Pluto
+			Moon = Luna
+			Star = stea
+			Planet = planeta
+			Comet = cometa
+			Meteor = meteorit
+			Satellite = satelit
+			Debris = "d\x0103r\x00e2m\x0103turi"
+		}
+	}
+}

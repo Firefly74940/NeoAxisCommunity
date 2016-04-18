@@ -1,0 +1,38 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		Direction
+		{
+			"Move Left" = Liiku vasemmalle
+			"Move right" = Liiku oikealle
+			"Move up" = "Liiku yl\x00f6s"
+			"Move down" = Liiku alas
+			"Move forward" = "Liike eteenp\x00e4in"
+			North = Pohjoinen
+			South = "Etel\x00e4"
+			East = "It\x00e4"
+			West = "L\x00e4nsi"
+		}
+		Building
+		{
+		}
+		Nature
+		{
+		}
+		Plant
+		{
+		}
+		Weather
+		{
+		}
+		Space
+		{
+		}
+	}
+}

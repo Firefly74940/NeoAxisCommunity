@@ -1,0 +1,41 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			z = CZECH
+		}
+		God
+		{
+		}
+		Angel
+		{
+			Angel = "And\x011bl"
+			"Fallen angel" = "Padl\x00fd and\x011bl"
+			Archangel = "Archand\x011bl"
+		}
+		"Holy presence"
+		{
+			Ghost = Duch
+			Dwarf = "Trpasl\x00edk"
+			Elf = Elf
+		}
+		Demon
+		{
+			Demon = "D\x00e9mon"
+		}
+		Monster
+		{
+			Monster = "P\x0159\x00ed\x0161era"
+		}
+		Dragon
+		{
+			Dragon = Drak
+		}
+		"Greek myth"
+		{
+		}
+	}
+}

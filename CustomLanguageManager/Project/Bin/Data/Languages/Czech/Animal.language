@@ -1,0 +1,75 @@
+language
+{
+	toolsUICulture = cs-CZ
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = CZECH
+		}
+		animal
+		{
+			Animal = "Zv\x00ed\x0159e"
+			Animals = "Zv\x00ed\x0159ata"
+			Human = "\x010clov\x011bk"
+			Monkey = Opice
+			Gorilla = Gorila
+			Orangutan = Orangutan
+			Dog = Pes
+			Cat = "Ko\x010dka"
+			Puppy = "\x0160t\x011bn\x011b"
+			Kitten = "Kot\x011b"
+			Rat = Krysa
+			Squirrel = Veverka
+			"Guinea pig" = "Mor\x010de"
+			Pig = Prase
+			Wolf = Vlk
+			Bear = "Medv\x011bd"
+			Panda = Panda
+			"Polar bear" = "Ledn\x00ed medv\x011bd"
+			Bat = "Netop\x00fdr"
+			Lion = Lev
+			Fox = "Li\x0161ka"
+			Horse = "K\x016f\x0148"
+			Zebra = Zebra
+			Camel = Velbloud
+			Giraffe = "\x017dirafa"
+			Elephant = Slon
+			Hippopotamus = Hroch
+			Koala = Koala
+			Kangaroo = Klokan
+			Cow = "Kr\x00e1va"
+		}
+		Bird
+		{
+			Birds = "Pt\x00e1ci"
+			Penguin = "Tu\x010d\x0148\x00e1k"
+			Eagle = Orel
+			Swan = "Labu\x0165"
+		}
+		Insect
+		{
+			Insect = Hmyz
+			Butterfly = "Mot\x00fdl"
+			Mosquito = "Kom\x00e1r"
+			Ladybug = "Beru\x0161ka"
+			Spider = Pavouk
+		}
+		fish
+		{
+			Fish = Ryba
+			Shark = "\x017dralok"
+			Dolphin = "Delf\x00edn"
+			Octopus = Chobotnice
+		}
+		Reptiles
+		{
+			Snake = Had
+			Turtle = "\x017delva"
+			Chameleon = Chameleon
+		}
+		Dinosaur
+		{
+		}
+	}
+}

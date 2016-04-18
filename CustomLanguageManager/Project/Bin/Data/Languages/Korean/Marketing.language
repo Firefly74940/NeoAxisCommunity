@@ -1,0 +1,99 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = "\xc9c0\xae08 \xbb34\xb8cc \xac8c\xc784\xc744 \xb2e4\xc6b4\xb85c\xb4dc \xd560 \xc218 \xc788\xc2b5\xb2c8\xb2e4"
+			"FREE app of the day!" = "\xc624\xb298\xc758 \xbb34\xb8cc \xc571!"
+			"Today for FREE" = "\xc624\xb298\xc740 \xbb34\xb8cc"
+			"Daily FREE apps" = "\xb9e4\xc77c \xacf5\xc9dc \xc571\xb4e4"
+			"Play for FREE" = "\xbb34\xb8cc\xb85c \xd50c\xb808\xc774"
+			"Download for FREE" = "\xbb34\xb8cc\xb85c \xb2e4\xc6b4\xb85c\xb4dc"
+			"FREE to download" = "\xbb34\xb8cc\xb85c \xb2e4\xc6b4\xb85c\xb4dc"
+			"You have won ..." = "...\xc744(\xb97c) \xc5bb\xc73c\xc168\xc2b5\xb2c8\xb2e4"
+			"Collect your prize now !" = "\xc9c0\xae08 \xbc14\xb85c \xbcf4\xc0c1\xc744 \xd68d\xb4dd \xd560 \xc218 \xc788\xc2b5\xb2c8\xb2e4!"
+			"Coming soon to (pick market)" = "\xbc1c\xb9e4 \xc608\xc815"
+			"Easy to learn yet hard to master" = "\xc27d\xac8c \xbc30\xc6b0\xc9c0\xb9cc \xd1b5\xb2ec\xd558\xae30\xb294 \xc5b4\xb824\xc6b4"
+			"Game contains in-app purchases" = "\xc774 \xac8c\xc784\xc5d0\xb294 \xc778 \xc571 \xacb0\xc81c \xae30\xb2a5\xc774 \xd3ec\xd568 \xb418\xc5b4\xc788\xc2b5\xb2c8\xb2e4."
+			"Game requires internet connection" = "\xc774 \xac8c\xc784\xc740 \xc778\xd130\xb137 \xc5f0\xacb0\xc774 \xd544\xc694\xd569\xb2c8\xb2e4"
+			"Internet not available" = "\xc778\xd130\xb137\xc5d0 \xc5f0\xacb0\xd560 \xc218 \xc5c6\xc2b5\xb2c8\xb2e4"
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+		}
+		"IAP - Final message 2nd line"
+		{
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = "\xacb0\xc81c \xc2e4\xd328"
+			"Purchase cancelled" = "\xacb0\xc81c \xcde8\xc18c"
+			"Please try again later" = "\xb2e4\xc2dc \xc2dc\xb3c4\xd574 \xc8fc\xc2ed\xc2dc\xc624"
+			"Store is not available" = "\xc0c1\xc810\xc744 \xc774\xc6a9\xd560 \xc218 \xc5c6\xc2b5\xb2c8\xb2e4"
+			Restore = "\xbcf5\xad6c"
+			"Restore all purchases to this device ?" = "\xc774 \xc7a5\xce58\xc758 \xbaa8\xb4e0 \xacb0\xc81c \xb0b4\xc6a9\xc744 \xbcf5\xad6c\xd558\xaca0\xc2b5\xb2c8\xae4c?"
+			"Remove ads" = "\xad11\xace0 \xc81c\xac70"
+			"Double time" = "\xc2dc\xac04 2\xbc30"
+			"Double gold" = "\xace8\xb4dc 2\xbc30"
+			"Double lives" = "\xbaa9\xc228 2\xbc30"
+			"Restore Now" = "\xbcf5\xc6d0"
+			"Unlock ..." = "... \xc7a0\xae08 \xd574\xc81c"
+			"..." = "... \xc5c5\xadf8\xb808\xc774\xb4dc"
+			"No ads" = "\xad11\xace0 \xc5c6\xc74c"
+			"Buy hints" = "\xd78c\xd2b8 \xad6c\xb9e4"
+			"Buy gold" = "\xace8\xb4dc \xad6c\xb9e4"
+			"Buy gems" = "\xbcf4\xc11d \xad6c\xb9e4"
+			"Get full version" = "\xc815\xc2dd \xbc84\xc804 \xbc1b\xae30"
+			"Get a refund" = "\xd658\xbd88 \xbc1b\xae30"
+			"Unlock all levels" = "\xbaa8\xb4e0 \xb808\xbca8 \xc7a0\xae08 \xd574\xc81c"
+			"Unlock all game modes" = "\xbaa8\xb4e0 \xac8c\xc784 \xbaa8\xb4dc \xc7a0\xae08 \xd574\xc81c"
+			"Get more hints" = "\xd78c\xd2b8 \xb354 \xc5bb\xae30"
+			"Get more gold for FREE" = "\xb354 \xb9ce\xc740 \xace8\xb4dc\xb97c \xbb34\xb8cc\xb85c \xc5bb\xae30"
+		}
+		question
+		{
+			"How do you rate this game?" = "\xac8c\xc784 \xd3c9\xc810 \xb0a8\xae30\xae30."
+			"Would you like to rate & review game now ?" = "\xc774 \xac8c\xc784\xc744 \xc9c0\xae08 \xd3c9\xac00 & \xb9ac\xbdf0 \xd558\xc2dc\xaca0\xc2b5\xb2c8\xae4c?"
+			"Do you like our game ?" = "\xc6b0\xb9ac \xac8c\xc784\xc774 \xb9c8\xc74c\xc5d0 \xb4dc\xc2dc\xb098\xc694?"
+			"Would you like to provide feedback to developers ?" = "\xac1c\xbc1c\xc790\xc5d0\xac8c \xac1c\xc120\xc0ac\xd56d\xc744 \xc81c\xacf5\xd558\xc2dc\xaca0\xc2b5\xb2c8\xae4c?"
+			"Would you like to watch game trailer ?" = "\xac8c\xc784 \xd2b8\xb808\xc77c\xb7ec\xb97c \xbcf4\xc2dc\xaca0\xc2b5\xb2c8\xae4c?"
+			"Would you like to watch video game tutorial ?" = "\xac8c\xc784 \xd29c\xd1a0\xb9ac\xc5bc\xc744 \xbcf4\xc2dc\xaca0\xc2b5\xb2c8\xae4c?"
+		}
+	}
+}

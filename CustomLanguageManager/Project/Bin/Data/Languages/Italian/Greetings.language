@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = it-IT
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = ITALIAN
+		}
+		Greetings
+		{
+			Hello = Ciao
+			"How do you do" = Come stai?
+			Welcome = Benvenuto
+			"Please enjoy" = Prova
+			"Good luck" = Buona fortuna
+			"Have a good day" = Buona giornata
+			"Welcome back" = Bentornato
+			"Cheers for good work" = Buon lavoro
+			"Good bye" = Arrivederci
+			"Congratulations!" = Congratulazioni!
+		}
+		Thanks
+		{
+			"Thank you" = Grazie
+			"Thank you very much" = Grazie Mille
+		}
+		shop
+		{
+			Welcome = Benvenuto
+			"What are you looking for?" = Cosa stai cercando?
+			"Thanks for your business" = Grazie per la tua collaborazione
+			"I am looking forward to seeing you again" = Spero di rivederti ancora
+		}
+	}
+}

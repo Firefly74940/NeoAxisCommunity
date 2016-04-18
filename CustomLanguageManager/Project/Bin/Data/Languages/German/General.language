@@ -1,0 +1,61 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		color
+		{
+			Orange = Orange
+			Red = Rot
+			Blue = Blau
+			Green = "Gr\x00fcn"
+			Yellow = Gelb
+			Cyan = Cyan
+			Purple = "Purpur / Lila"
+			White = Weiss
+			Black = Schwarz
+			Gray = Grau
+			Violet = Violett
+			Platinum = Platin
+			Gold = Gold
+			Silver = Silber
+			Bronze = Bronze
+			Clear = "Klar / Durchsichtig"
+			Iridescence = Schillernd
+		}
+		"USE VERBS"
+		{
+		}
+		Action
+		{
+			Jump = Springen
+			Bounce = "H\x00fcpfen / Abprallen"
+			Heal = Heilen
+			Shoot = "Schie\x00dfen"
+			Collect = Einsammeln
+			Capture = "Einnehmen / Fangen"
+			Destroy = "Zerst\x00f6re"
+			Attack = Angreifen
+			Defend = Verteidigen
+			Hit = Schlagen
+			Kick = Treten
+			Headbutt = Kopfnuss
+			Stomp = Stampfen
+			Walljump = Wandsprung
+			Dash = Sprint
+		}
+		Move
+		{
+			Move = Bewegen
+			Run = Laufen
+			Walk = Gehen
+			Skip = "\x00dcberspringen"
+			Escape = Fliehen
+			"Stealthy steps" = Schleichen
+		}
+	}
+}

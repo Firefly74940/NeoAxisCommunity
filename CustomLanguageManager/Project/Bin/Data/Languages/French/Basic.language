@@ -1,0 +1,158 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		"CHECK ALL SHEETS"
+		{
+			EN = FR
+		}
+		accounts
+		{
+			"Account name" = Identifiant
+			"Forgot your password?" = "Mot de passe oubli\x00e9 ?"
+			"Incorrect login or password" = Identifiant ou mot de passe incorrect
+			Login = Connexion
+			"Login using Facebook account" = "Connexion \x00e0 l\'aide d\'un compte Facebook"
+			Password = Mot de passe
+			Register = Inscription
+			"Remember me on this computer" = "Rester connect\x00e9 sur cet ordinateur"
+		}
+		Animal
+		{
+			YES = Oui
+		}
+		"button label"
+		{
+			"About us" = "\x00c0 propos"
+			Achievements = "Succ\x00e8s"
+			Audio = Audio
+			Back = Retour
+			Cancel = Annuler
+			Challenge = "D\x00e9fi"
+			"Choose hero" = "Choisir un h\x00e9ros"
+			"Choose language" = Choisir la langue
+			"Choose level" = Choisir le niveau
+			"Contact us" = Contact
+			Continue = Continuer
+			Controls = "Contr\x00f4les"
+			Credits = "Cr\x00e9dits"
+			"Do not know" = Ne sais pas
+			Easy = Facile
+			"Game Center" = Game Center
+			"Game editor" = "\x00c9diteur de jeu"
+			"Game mode" = Mode de jeu
+			Hard = Difficile
+			Help = Aide
+			"How to play" = Comment jouer
+			Language = Langue
+			Leaderboards = Classement
+			"Level Select" = "S\x00e9lection de niveau"
+			"Load Game" = Charger la partie
+			Loot = "R\x00e9colter"
+			"Main Menu" = Menu principal
+			Married = "Mari\x00e9(e)"
+			Menu = Menu
+			"More Apps" = Autres Apps
+			"More Games" = Autres Jeux
+			"New Game" = Nouvelle partie
+			"New order" = Nouvelle commande
+			Next = Suivant
+			Normal = Normal
+			Options = "Param\x00e8tres"
+			"Order Online" = Commander en ligne
+			Pause = Pause
+			"Pick character" = Choisir un personnage
+			Play = Jouer
+			"Play Again" = Rejouer
+			Preferences = "Pr\x00e9f\x00e9rences"
+			Previous = "Pr\x00e9c\x00e9dent"
+			Quit = Quitter
+			"Remind me later" = Me rappeler plus tard
+			Replay = Rejouer
+			"Reset Options" = "Remettre par d\x00e9faut"
+			Retry = "R\x00e9essayer"
+			"Sandbox mode" = "Mode bac \x00e0 sable"
+			"Save game" = Sauvegarder la partie
+			Scoreboard = Scores
+			Search = Rechercher
+			Secret = Secret
+			Shop = Boutique
+			Single = Solo
+			"Skip Level" = Passer le niveau
+			Store = Magasin
+			Tutorial = Tutoriel
+			"Update order" = "Mettre \x00e0 jour la commande"
+		}
+		"gameplay label"
+		{
+			"Base score" = Score de base
+			"Best results" = "Meilleurs r\x00e9sultats"
+			"Best score" = Meilleur score
+			"Game over" = Game over
+			Highscore = Nouveau record
+			Lives = Vies
+			"Lives left" = Vies restantes
+			"Money left" = Argent restant
+			Score = Score
+			Time = Temps
+			"Time left" = Temps restant
+			"Total score" = Score total
+			"Your score" = Votre score
+		}
+		"How to edit"
+		{
+		}
+		label
+		{
+			Age = "\x00e2ge"
+			"All rights reserved" = "Tous droits r\x00e9serv\x00e9s"
+			"Are you sure you want to quit?" = "\x00cates-vous s\x00fbr de vouloir quitter ?"
+			bear = Muet
+			Birthplace = Lieu de naissance
+			"Blood type" = Groupe sanguin
+			"Current address" = Adresse actuelle
+			"e-mail" = e-mail
+			Error = Erreur
+			"game version" = Version du jeu
+			Marriage = Mariage
+			"Music off" = "Musique d\x00e9sactiv\x00e9e"
+			"Music on?" = "Musique activ\x00e9e ?"
+			NO = Non
+			"No, thanks!" = Non merci
+			OK = Ok
+			Sex = Sexe
+			"Sort by" = Trier par
+			"Sound off" = "son  d\x00e9sactiv\x00e9"
+			"Sounds on?" = "Son activ\x00e9 ?"
+			Warning = Attention
+			Web = Web
+			"Yes, sure!" = Oui, merci !
+			"You are here" = "Vous \x00eates ici"
+		}
+		"plot / story"
+		{
+			Chapter = Chapitre
+			Character = Personnage
+			Comics = BDs
+			Ending = Fin
+			"Final Boss" = Boss de fin
+			Intro = Intro
+			Outro = "\x00c9pilogue"
+			Page = Page
+			Stage = Niveau
+			Story = Histoire
+		}
+		rate
+		{
+			"Rate our app" = "\x00c9valuez notre application"
+		}
+		test
+		{
+		}
+		teste
+		{
+			"Level editor" = "\x00c9diteur de niveau"
+		}
+	}
+}

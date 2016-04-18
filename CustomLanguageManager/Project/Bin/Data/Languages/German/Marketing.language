@@ -1,0 +1,103 @@
+language
+{
+	toolsUICulture = de-DE
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = GERMAN
+		}
+		marketing
+		{
+			"You can download FREE game NOW" = Du kannst JETZT ein GRATIS-Spiel herunterladen
+			"FREE app of the day!" = Heute KOSTENLOS
+			"Daily FREE apps" = "T\x00e4glich KOSTENLOSE Apps"
+			"Play for FREE" = Spiele KOSTENLOS
+			"Download for FREE" = KOSTENLOS herunterladen
+			"FREE to download" = Gratis Download
+			"You have won ..." = Sie haben gewonnen...
+			"Collect your prize now !" = "L\x00f6sen Sie Ihren Preis jetzt ein!"
+			"Coming soon to (pick market)" = "Bald f\x00fcr ..."
+			"Easy to learn yet hard to master" = Einfach zu lernen, schwierig zu meistern
+			"Game contains in-app purchases" = "Spiel enth\x00e4lt in-App K\x00e4ufe"
+			"Game requires internet connection" = Das Spiel erfordert eine Internetverbindung
+			"Internet not available" = Keine Internetverbindung vorhanden
+		}
+		"IAP - Modal title"
+		{
+		}
+		"IAP - Main button A"
+		{
+		}
+		"IAP - Secondary button B"
+		{
+			"Already purchased?" = Bereits gekauft?
+		}
+		"IAP - Message A"
+		{
+		}
+		"IAP - Message B"
+		{
+			"Restoring..." = Wiederherstellen...
+		}
+		"IAP - Final message 1st line A"
+		{
+		}
+		"IAP - Final message 1st line B"
+		{
+			"Your purchased has been restored!" = Ihr Kauf wurde wiederhergestellt!
+		}
+		"IAP - Final message 2nd line"
+		{
+			"Enjoy the full version ;)" = "Viel Spa\x00df mit der Vollversion :)"
+		}
+		"IAP - Error 1"
+		{
+		}
+		"IAP - Error 2"
+		{
+		}
+		"IAP - Error 3"
+		{
+		}
+		"IAP - IAP item name"
+		{
+			"Full version" = Vollversion
+		}
+		"in app purchase"
+		{
+			"Purchase failed" = Kauf fehlgeschlagen
+			"Purchase cancelled" = Kauf abgebrochen
+			"Please try again later" = "Bitte versuchen Sie es sp\x00e4ter noch einmal"
+			"Store is not available" = "Shop nicht verf\x00fcgbar"
+			Restore = Wiederherstellen
+			"Restore all purchases to this device ?" = "Alle K\x00e4ufe auf diesem Ger\x00e4t wiederherstellen?"
+			"Remove ads" = Werbungen entfernen
+			"Double time" = Doppelt Zeit
+			"Double gold" = Doppelt Gold
+			"Double lives" = Doppelt Leben
+			"Restore Now" = Wiederherstellen
+			"Unlock ..." = Freischalten...
+			"..." = Aktualisieren...
+			"No ads" = Keine Werbungen
+			"Buy hints" = Hinweise kaufen
+			"Buy gold" = Gold kaufen
+			"Buy gems" = Edelsteine kaufen
+			"Get full version" = Kauf Dir die Vollversion
+			"Get a refund" = "R\x00fcckerstattung anfordern"
+			"Unlock all levels" = Alle Level freischalten
+			"Unlock all game modes" = Alle Spiele-Modi frei schalten
+			"Get more hints" = Mehr Hinweise erhalten
+			"Get more gold for FREE" = Kostenloses Gold!
+		}
+		question
+		{
+			"How do you rate this game?" = "Wie w\x00fcrden Sie unser Spiel bewerten?"
+			"Would you like to rate & review game now ?" = "M\x00f6chten Sie unser Spiel jetzt bewerten?"
+			"Do you like our game ?" = "Gef\x00e4llt Ihnen unser Spiel?"
+			"Would you like to provide feedback to developers ?" = "M\x00f6chten Sie den Entwicklern Feedback geben?"
+			"Would you like to watch game trailer ?" = "M\x00f6chten Sie den Trailer zum Spiel sehen?"
+			"Would you like to watch video game tutorial ?" = "M\x00f6chten Sie ein Einf\x00fchrungsvideo ansehen?"
+		}
+	}
+}

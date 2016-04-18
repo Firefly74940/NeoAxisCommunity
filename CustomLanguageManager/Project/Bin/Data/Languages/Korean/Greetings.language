@@ -1,0 +1,36 @@
+language
+{
+	toolsUICulture = ko-KR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = KOREAN
+		}
+		Greetings
+		{
+			Hello = "\xc548\xb155\xd558\xc138\xc694 / \xc548\xb155"
+			"How do you do" = "\xc798 \xc9c0\xb0b4\xc2dc\xb294\xc9c0\xc694 / \xc694\xc998 \xc5b4\xb54c\xc694?"
+			Welcome = "\xd658\xc601\xd569\xb2c8\xb2e4"
+			"Please enjoy" = "\xc990\xac70\xc6b4 \xc2dc\xac04 \xb418\xc2dc\xae38 \xbe55\xb2c8\xb2e4 / \xc7ac\xbbf8\xc788\xac8c \xc990\xae30\xc138\xc694"
+			"Good luck" = "\xd589\xc6b4\xc744 \xbe55\xb2c8\xb2e4"
+			"Have a good day" = "\xc88b\xc740 \xd558\xb8e8 \xb418\xc138\xc694"
+			"Welcome back" = "\xb3cc\xc544\xc624\xc2e0 \xac83\xc744 \xd658\xc601\xd569\xb2c8\xb2e4"
+			"Cheers for good work" = "\xc218\xace0\xd558\xc168\xc2b5\xb2c8\xb2e4"
+			"Good bye" = "\xc548\xb155\xd788\xac00\xc138\xc694 / \xc548\xb155"
+			"Congratulations!" = "\xcd95\xd558\xd569\xb2c8\xb2e4!"
+		}
+		Thanks
+		{
+			"Thank you" = "\xace0\xb9d9\xc2b5\xb2c8\xb2e4"
+			"Thank you very much" = "\xac10\xc0ac\xd569\xb2c8\xb2e4"
+		}
+		shop
+		{
+			Welcome = "\xd658\xc601\xd569\xb2c8\xb2e4"
+			"What are you looking for?" = "\xc5b4\xb5a4 \xac83\xc744 \xcc3e\xc73c\xc2dc\xb294\xc9c0\xc694? /\n\xcc3e\xb294\xac83\xc774 \xc788\xc73c\xc138\xc694?"
+			"Thanks for your business" = "\xac70\xb798 \xac10\xc0ac\xd569\xb2c8\xb2e4"
+			"I am looking forward to seeing you again" = "\xb2e4\xc2dc \xbd59\xae38 \xae30\xb300\xd558\xaca0\xc2b5\xb2c8\xb2e4 / \xb098\xc911\xc5d0 \xb2e4\xc2dc \xbd10\xc694"
+		}
+	}
+}

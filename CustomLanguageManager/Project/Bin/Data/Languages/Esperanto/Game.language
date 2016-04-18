@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = esp
+	textTranslations
+	{
+		"game category"
+		{
+		}
+		"game theme"
+		{
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+		}
+		online
+		{
+		}
+		Race
+		{
+			light = Luma
+		}
+		Board
+		{
+		}
+	}
+}

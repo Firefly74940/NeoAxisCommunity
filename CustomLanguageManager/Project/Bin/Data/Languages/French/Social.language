@@ -1,0 +1,29 @@
+language
+{
+	toolsUICulture = fr-FR
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = FRENCH
+		}
+		social
+		{
+			"Share an achievement" = "Partager le succ\x00e8s"
+			"Post to Twitter" = Partager sur Twitter
+			"Share on Facebook" = Partager sur Facebook
+			"Your score has been posted to Facebook!" = "Votre score a \x00e9t\x00e9 partag\x00e9 sur Facebook !"
+			"Your score has been posted to Twitter!" = "Votre score a \x00e9t\x00e9 partag\x00e9 sur Twitter !"
+			"Thank you for playing!" = "Merci d\'avoir jou\x00e9 !"
+			"Find a friend" = Trouver un ami
+			"Invite a friend" = Inviter un ami
+			"Start a chat" = "D\x00e9marrer une conversation"
+			"Chat room" = Salle de discussion
+			"Share photo on Facebook" = Partager une photo sur Facebook
+			"Like Us" = Devenir fan
+			"Follow Us" = Suivez nous
+			"Tell about us" = Parler de nous
+			"Share score" = Partager score
+		}
+	}
+}

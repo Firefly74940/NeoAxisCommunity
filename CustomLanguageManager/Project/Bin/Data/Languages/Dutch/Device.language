@@ -1,0 +1,41 @@
+language
+{
+	toolsUICulture = "\tnl-NL"
+	textTranslations
+	{
+		device
+		{
+			"Game paused" = Spel gepauzeerd
+			"mobile phone" = Mobiel
+			tablet = Tablet
+			console = Console
+			multitouch = multitouch
+			resolution = Resolutie
+			screen = Scherm
+			display = Scherm
+			"Game resumed" = Spel hervat
+			"Tilt device to control" = Draai toestel om te besturen
+			Accelometer = Accelerometer
+			gyroscope = gyroscoop
+			mouse = Muis
+			keyboard = Toetsenbord
+		}
+		"device orientation"
+		{
+			"device orientation" = Toestel houding
+			"landscape orientation" = Landschaporientatie
+			"portrait orientation" = Portretorientatie
+			"left handed" = linkshandig
+			"right handed" = rechtshandig
+		}
+		gesture
+		{
+			"Shake device" = Schud apparaat
+			"pinch zoom" = Knijp zoom
+			swipe = Veeg
+			"drag and drop" = Sleep en laat los
+			rotate = Roteer
+			"double click" = Dubbelklik
+		}
+	}
+}

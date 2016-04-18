@@ -1,0 +1,76 @@
+language
+{
+	toolsUICulture = ro-RO
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = Tower Defense
+			Puzzle = Puzzle
+			"Endless runner" = Runner
+			Shooter = Shooter
+			Adventure = Aventura
+			Quiz = Quiz
+			"Vertical shooter (like Tyrian)" = Vertical shooter
+			Strategy = Strategie
+		}
+		"game theme"
+		{
+			Retro = Retro
+			Fantasy = Fantasy
+			Science = "\x015etiin\x0163a"
+			Medieval = Medieval
+			Modern = Modern
+			Ancient = Antic
+			"World War" = Razboi Mondial
+			"Wild West / Western" = "Vestul Salbatic / Western"
+		}
+		"game mode"
+		{
+			"Inifinite mode" = Mod infinit
+		}
+		"game version"
+		{
+			"Full version" = "Versiune complet\x0103"
+			"Lite version" = "Versiune u\x0219oar\x0103"
+			"Free version (Freemium)" = "Versiune gratuit\x0103"
+			"Premium version" = Versiune premium
+		}
+		online
+		{
+			"Singleplayer game" = Single player
+			"Multiplayer game" = Multiplayer
+			"Asynchronous multiplayer" = Multiplayer asincron
+		}
+		Race
+		{
+			laps = tura
+			position = pozitie
+			track = pista
+			"race track" = circuit
+			fuel = carburant
+			oil = ulei
+			gear = treapta
+			suspension = suspensie
+			tire = pneu
+			wheel = volan
+			rim = janta
+			clutch = ambreiaj
+			light = far
+		}
+		Board
+		{
+			Board = Plansa
+			Dice = Zar
+			"Roll (Dice)" = Arunca
+			Domino = Domino
+			"Card (Playing)" = Carte
+			"Draw(Card)" = Trage
+			Pass = Pas
+			Deck = Pachet
+			"Play (noun)" = Joc
+			"Discard Pile" = Gramada decartata
+			"Boneyard (Dominoes)" = Cimitir
+		}
+	}
+}

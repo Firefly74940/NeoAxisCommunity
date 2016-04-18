@@ -1,0 +1,107 @@
+language
+{
+	toolsUICulture = da-DK
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = DANISH
+		}
+		animal
+		{
+			Animal = Dyr
+			Animals = Dyr
+			Pet = "K\x00e6ledyr"
+			Human = Menneske
+			Monkey = Abe
+			Gorilla = Gorilla
+			Orangutan = Orangutang
+			Dog = Hund
+			Cat = Cat
+			Puppy = Hvalp
+			Kitten = Killing
+			Rat = Rotte
+			Squirrel = Egern
+			"Guinea pig" = Marsvin
+			Cattle = "Kv\x00e6g"
+			Pig = Gris
+			Wolf = Ulv
+			Bear = "Bj\x00f8rn"
+			Panda = Panda
+			"Polar bear" = "Isbj\x00f8rn"
+			Bat = Flagermus
+			Tiger = Tiger
+			Lion = "L\x00f8ve"
+			Cheetah = Gepard
+			Panther = Panter
+			Hyena = "Hy\x00e6ne"
+			Fox = "R\x00e6v"
+			"Raccoon dog" = "M\x00e5rhund"
+			Horse = Hest
+			Deer = "R\x00e5dyr"
+			Zebra = Zebra
+			Camel = Kamel
+			Ass = "\x00c6sel"
+			Giraffe = Giraf
+			Elephant = Elefant
+			Rhinoceros = "N\x00e6sehorn"
+			Hippopotamus = Flodhest
+			Mammoth = Mammut
+			Koala = Koala
+			Kangaroo = "K\x00e6nguru"
+			Sloth = Dovendyr
+			Cow = Ko
+			Ox = Okse
+		}
+		Bird
+		{
+			Birds = Fugle
+			Sparrow = Spurv
+			Crow = Krage
+			Penguin = Pingvin
+			Hawk = "H\x00f8g"
+			Eagle = "\x00d8rn"
+			Condor = kondor
+			Swan = Svane
+			Duck = And
+		}
+		Insect
+		{
+			Insect = Insekt
+			Butterfly = Sommerfugl
+			Moth = "M\x00f8l"
+			Mantis = "Kn\x00e6ler"
+			"Rhinoceros beetle" = "N\x00e6sehornsbille"
+			"Stag beetle" = Hjortebille
+			Beetle = Bille
+			Mosquito = Myg
+			Ladybug = "Marieh\x00f8ne"
+			Spider = Edderkop
+			Dragonfly = Guldsmed
+		}
+		fish
+		{
+			Fish = Fisk
+			Shark = Haj
+			Whale = Hval
+			Dolphin = Delfin
+			Octopus = "Bl\x00e6ksprutte"
+			Squid = "Bl\x00e6ksprutte"
+		}
+		Reptiles
+		{
+			Reptiles = Reptiler
+			Gator = Gator
+			Lizard = Firben
+			Newt = Salamander
+			Gecko = Gekko
+			Snake = Slange
+			Turtle = Skildpadde
+			Chameleon = Kameleon
+		}
+		Dinosaur
+		{
+			Dinosaur = Dinosaurus
+		}
+	}
+}

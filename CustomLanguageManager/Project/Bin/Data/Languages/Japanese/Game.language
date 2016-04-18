@@ -1,0 +1,78 @@
+language
+{
+	toolsUICulture = ja-JP
+	textTranslations
+	{
+		"game category"
+		{
+			"Tower Defense" = "\x30bf\x30ef\x30fc\x30c7\x30a3\x30d5\x30a7\x30f3\x30b9"
+			Puzzle = "\x30d1\x30ba\x30eb"
+			"Endless runner" = "\x30b7\x30f3\x30d7\x30eb\x30a2\x30af\x30b7\x30e7\x30f3"
+			Shooter = "\x30b7\x30e5\x30fc\x30c6\x30a3\x30f3\x30b0"
+			Adventure = "\x30a2\x30c9\x30d9\x30f3\x30c1\x30e3\x30fc"
+			Quiz = "\x30af\x30a4\x30ba"
+			"Vertical shooter (like Tyrian)" = "\x7e26\x30b9\x30af\x30ed\x30fc\x30eb\x30b7\x30e5\x30fc\x30c6\x30a3\x30f3\x30b0"
+			"Fast-paced game" = "\x30c6\x30f3\x30dd\x306e\x826f\x3044\x30b2\x30fc\x30e0/\x9ad8\x901f\x30b2\x30fc\x30e0"
+			Strategy = "\x6226\x7565"
+		}
+		"game theme"
+		{
+			Retro = "\x30ec\x30c8\x30ed"
+			Fantasy = "\x30d5\x30a1\x30f3\x30bf\x30b8\x30fc"
+			Science = "\x30b5\x30a4\x30a8\x30f3\x30b9"
+			Medieval = "\x4e2d\x4e16"
+			Modern = "\x8fd1\x4ee3"
+			Ancient = "\x53e4\x4ee3"
+			"World War" = "\x4e16\x754c\x5927\x6226"
+			"Wild West / Western" = "\x30a6\x30a8\x30b9\x30bf\x30f3"
+		}
+		"game mode"
+		{
+		}
+		"game version"
+		{
+			"Full version" = "\x5b8c\x5168\x7248"
+			"Lite version" = "\x30e9\x30a4\x30c8\x7248"
+			"Free version (Freemium)" = "\x7121\x6599\x7248"
+			"Premium version" = "\x30d7\x30ec\x30df\x30a2\x30e0\x7248"
+		}
+		online
+		{
+			"Singleplayer game" = "\x30b7\x30f3\x30b0\x30eb\x30d7\x30ec\x30a4\x30e4\x30fc\x30b2\x30fc\x30e0"
+			"Multiplayer game" = "\x30de\x30eb\x30c1\x30d7\x30ec\x30a4\x30e4\x30fc\x30b2\x30fc\x30e0"
+			"Asynchronous multiplayer" = "\x975e\x540c\x671f\x30de\x30eb\x30c1\x30d7\x30ec\x30a4"
+			"Hotseat mode" = "\x4ea4\x4ee3\x30d7\x30ec\x30a4"
+		}
+		Race
+		{
+			laps = "\x30e9\x30c3\x30d7"
+			position = "\x9806\x4f4d"
+			track = "\x5468"
+			"race track" = "\x30ec\x30fc\x30b9\x5834"
+			fuel = "\x71c3\x6599"
+			oil = "\x30aa\x30a4\x30eb"
+			gear = "\x30ae\x30a2"
+			suspension = "\x30b5\x30b9\x30da\x30f3\x30b7\x30e7\x30f3"
+			tire = "\x30bf\x30a4\x30e4"
+			wheel = "\x30db\x30a4\x30fc\x30eb"
+			rim = "\x30ea\x30e0"
+			clutch = "\x30af\x30e9\x30c3\x30c1"
+			light = "\x30e9\x30a4\x30c8"
+		}
+		Board
+		{
+			Board = "\x30dc\x30fc\x30c9"
+			Dice = "\x3055\x3044\x3053\x308d"
+			"Roll (Dice)" = "(\x3055\x3044\x3053\x308d\x3092)\x632f\x308b"
+			Domino = "\x30c9\x30df\x30ce"
+			"Card (Playing)" = "\x30ab\x30fc\x30c9"
+			"Draw(Card)" = "\x30c9\x30ed\x30fc"
+			Pass = "\x30d1\x30b9"
+			Deck = "\x30c7\x30c3\x30ad"
+			"Play (noun)" = "\x30d7\x30ec\x30fc/\x30d7\x30ec\x30a4"
+			Slam = "\x30b9\x30e9\x30e0"
+			"Discard Pile" = "\x5834\x672d (\x6368\x3066\x672d\x306e\x5c71)"
+			"Boneyard (Dominoes)" = "\x30dc\x30fc\x30f3\x30e4\x30fc\x30c9"
+		}
+	}
+}

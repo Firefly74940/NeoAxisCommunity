@@ -1,0 +1,27 @@
+language
+{
+	toolsUICulture = sudmi
+	textTranslations
+	{
+		CATEGORY
+		{
+			ENGLISH = SUOMI
+		}
+		Greetings
+		{
+			Hello = Hei
+			Welcome = Tervetuloa
+			"Welcome back" = Tervetuloa takaisin
+			"Congratulations!" = Onnittelut!
+		}
+		Thanks
+		{
+			"Thank you" = Kiitos
+			"Thank you very much" = kiitos paljon
+		}
+		shop
+		{
+			Welcome = Tervetuloa
+		}
+	}
+}
