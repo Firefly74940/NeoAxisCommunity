@@ -11,7 +11,7 @@ namespace Game
 			
 			//add this:
 			CommunityGameAddonManager.DevMod = true;
-
+			CommunityGameAddonManager.Init();
 			#endregion
 			return true; //Last Line of SDK default Code
 		}
